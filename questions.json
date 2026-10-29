@@ -1706,6 +1706,126 @@
           "answer": 2,
           "explanation": "Quando elementos recebem pesos diferentes segundo sua importância analítica. Bardin desenvolve essa distinção na página 43 do PDF, vinculando a escolha metodológica aos objetivos e à interpretação rigorosa do corpus.",
           "page": 43
+        },
+        {
+          "q": "Em análise de conteúdo, por que a ausência de um tema pode ser informativa?",
+          "options": [
+            "Porque comprova automaticamente a falsidade do relato",
+            "Porque sempre equivale à presença do tema oposto",
+            "Porque sua omissão, diante de um repertório esperado, pode funcionar como índice",
+            "Porque dispensa a definição de objetivos analíticos"
+          ],
+          "answer": 2,
+          "explanation": "Porque sua omissão, diante de um repertório esperado, pode funcionar como índice. Bardin apresenta essa distinção na página 42 do PDF. O procedimento de análise deve respeitar os objetivos e o contexto dos índices, sem transformar a codificação em conclusão automática.",
+          "page": 42
+        },
+        {
+          "q": "Qual pressuposto sustenta o uso da frequência simples como indicador?",
+          "options": [
+            "Que qualquer palavra rara é irrelevante em todo contexto",
+            "Que todos os temas possuem obrigatoriamente pesos diferentes",
+            "Que frequência é idêntica à ordem de aparecimento",
+            "Que repetições de um item podem traduzir maior significação, admitindo valor equivalente entre itens"
+          ],
+          "answer": 3,
+          "explanation": "Que repetições de um item podem traduzir maior significação, admitindo valor equivalente entre itens. Bardin apresenta essa distinção na página 43 do PDF. O procedimento de análise deve respeitar os objetivos e o contexto dos índices, sem transformar a codificação em conclusão automática.",
+          "page": 43
+        },
+        {
+          "q": "Na codificação da intensidade, que elemento linguístico pode ajudar a diferenciar posições?",
+          "options": [
+            "O tempo verbal e a força semântica dos verbos, além de advérbios e adjetivos",
+            "Somente a quantidade de páginas",
+            "A profissão do digitador",
+            "Exclusivamente o tamanho da fonte"
+          ],
+          "answer": 0,
+          "explanation": "O tempo verbal e a força semântica dos verbos, além de advérbios e adjetivos. Bardin apresenta essa distinção na página 45 do PDF. O procedimento de análise deve respeitar os objetivos e o contexto dos índices, sem transformar a codificação em conclusão automática.",
+          "page": 45
+        },
+        {
+          "q": "Na análise avaliativa, o que expressa a direção de um item?",
+          "options": [
+            "A posição física do entrevistado",
+            "Sua orientação favorável, desfavorável, neutra ou ambivalente",
+            "A ordem alfabética da categoria",
+            "O número total de entrevistadores"
+          ],
+          "answer": 1,
+          "explanation": "Sua orientação favorável, desfavorável, neutra ou ambivalente. Bardin apresenta essa distinção na página 45 do PDF. O procedimento de análise deve respeitar os objetivos e o contexto dos índices, sem transformar a codificação em conclusão automática.",
+          "page": 45
+        },
+        {
+          "q": "Em qual situação a ordem dos elementos pode ser mais relevante que sua frequência?",
+          "options": [
+            "Quando o pesquisador ignora as sequências",
+            "Quando o corpus não possui unidades de registro",
+            "Quando o encadeamento de unidades revela uma progressão significativa do discurso",
+            "Quando se pretende substituir toda interpretação por sorteio"
+          ],
+          "answer": 2,
+          "explanation": "Quando o encadeamento de unidades revela uma progressão significativa do discurso. Bardin apresenta essa distinção na página 46 do PDF. O procedimento de análise deve respeitar os objetivos e o contexto dos índices, sem transformar a codificação em conclusão automática.",
+          "page": 46
+        },
+        {
+          "q": "O que caracteriza a coocorrência de unidades de registro?",
+          "options": [
+            "A repetição de um termo em documentos sem relação",
+            "A ausência de todas as unidades na mensagem",
+            "A sequência obrigatória de entrevistas por data",
+            "A presença simultânea de duas ou mais unidades numa unidade de contexto"
+          ],
+          "answer": 3,
+          "explanation": "A presença simultânea de duas ou mais unidades numa unidade de contexto. Bardin apresenta essa distinção na página 46 do PDF. O procedimento de análise deve respeitar os objetivos e o contexto dos índices, sem transformar a codificação em conclusão automática.",
+          "page": 46
+        },
+        {
+          "q": "Na análise de contingência, o que significa oposição entre elementos?",
+          "options": [
+            "Que determinados elementos não aparecem juntos no contexto analisado",
+            "Que dois elementos são sempre sinônimos",
+            "Que um elemento necessariamente precede o outro",
+            "Que todas as unidades têm igual intensidade"
+          ],
+          "answer": 0,
+          "explanation": "Que determinados elementos não aparecem juntos no contexto analisado. Bardin apresenta essa distinção na página 47 do PDF. O procedimento de análise deve respeitar os objetivos e o contexto dos índices, sem transformar a codificação em conclusão automática.",
+          "page": 47
+        },
+        {
+          "q": "Qual é a base principal da inferência qualitativa segundo Bardin?",
+          "options": [
+            "A exigência de contagem elevada para toda categoria",
+            "A presença de índices relevantes, não necessariamente sua frequência em cada comunicação",
+            "A impossibilidade de usar qualquer número",
+            "A escolha de conclusões antes da leitura"
+          ],
+          "answer": 1,
+          "explanation": "A presença de índices relevantes, não necessariamente sua frequência em cada comunicação. Bardin apresenta essa distinção na página 50 do PDF. O procedimento de análise deve respeitar os objetivos e o contexto dos índices, sem transformar a codificação em conclusão automática.",
+          "page": 50
+        },
+        {
+          "q": "Como Bardin define a categorização?",
+          "options": [
+            "Reunir frases aleatoriamente sem critério",
+            "Eliminar toda singularidade do material antes da leitura",
+            "Classificar por diferenciação e reagrupar por analogia segundo critérios definidos",
+            "Substituir unidades de registro por opiniões pessoais"
+          ],
+          "answer": 2,
+          "explanation": "Classificar por diferenciação e reagrupar por analogia segundo critérios definidos. Bardin apresenta essa distinção na página 51 do PDF. O procedimento de análise deve respeitar os objetivos e o contexto dos índices, sem transformar a codificação em conclusão automática.",
+          "page": 51
+        },
+        {
+          "q": "Por que a pertinência é uma qualidade importante das categorias?",
+          "options": [
+            "Porque autoriza categorias desconectadas do corpus",
+            "Porque impede mudanças na formulação de objetivos",
+            "Porque torna dispensável a consistência entre codificadores",
+            "Porque exige adequação ao material, ao quadro teórico e às questões da pesquisa"
+          ],
+          "answer": 3,
+          "explanation": "Porque exige adequação ao material, ao quadro teórico e às questões da pesquisa. Bardin apresenta essa distinção na página 54 do PDF. O procedimento de análise deve respeitar os objetivos e o contexto dos índices, sem transformar a codificação em conclusão automática.",
+          "page": 54
         }
       ]
     },
