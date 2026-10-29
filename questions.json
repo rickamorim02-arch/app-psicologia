@@ -1346,6 +1346,126 @@
           "answer": 1,
           "explanation": "A organização de um trecho em torno de tema dominante. Essa interpretação decorre da discussão de Bardin sobre a análise estrutural, temática e sequencial de entrevistas, na página 9 do PDF. As demais opções desconsideram o contexto e a organização do discurso.",
           "page": 9
+        },
+        {
+          "q": "Na análise da enunciação, por que hesitações e finais de frases importam?",
+          "options": [
+            "Porque são necessariamente erros de gravação",
+            "Porque determinam a idade do participante",
+            "Porque podem portar sentido além dos temas explicitamente nomeados",
+            "Porque dispensam a interpretação temática"
+          ],
+          "answer": 2,
+          "explanation": "Porque podem portar sentido além dos temas explicitamente nomeados. Bardin analisa esse indício nas páginas correspondentes do exemplo de férias ou telefone (p. 12 do PDF), mostrando que o significado depende da sequência e da enunciação.",
+          "page": 12
+        },
+        {
+          "q": "Que sentido pode ter a alternância entre 'nós' e 'eu' no exemplo das férias?",
+          "options": [
+            "Uma troca de idioma durante a entrevista",
+            "A ausência de qualquer sujeito no relato",
+            "A passagem obrigatória a uma entrevista coletiva",
+            "Distanciamento generalizante e posterior investimento pessoal"
+          ],
+          "answer": 3,
+          "explanation": "Distanciamento generalizante e posterior investimento pessoal. Bardin analisa esse indício nas páginas correspondentes do exemplo de férias ou telefone (p. 13 do PDF), mostrando que o significado depende da sequência e da enunciação.",
+          "page": 13
+        },
+        {
+          "q": "Qual função do 'enfim' ao final da terceira sequência das férias?",
+          "options": [
+            "Assinalar ruptura entre prazer idealizado e emergência de ansiedade",
+            "Introduzir uma tabela de frequências",
+            "Indicar que a entrevista foi encerrada",
+            "Eliminar toda contradição do discurso"
+          ],
+          "answer": 0,
+          "explanation": "Assinalar ruptura entre prazer idealizado e emergência de ansiedade. Bardin analisa esse indício nas páginas correspondentes do exemplo de férias ou telefone (p. 13 do PDF), mostrando que o significado depende da sequência e da enunciação.",
+          "page": 13
+        },
+        {
+          "q": "No esquema estrutural das férias, que oposição organiza o discurso?",
+          "options": [
+            "Dois destinos turísticos com o mesmo preço",
+            "Liberdade e prazer versus cotidiano, pressa e risco de vazio",
+            "Entrevista oral versus questionário eletrônico",
+            "Satisfação profissional versus desempenho escolar"
+          ],
+          "answer": 1,
+          "explanation": "Liberdade e prazer versus cotidiano, pressa e risco de vazio. Bardin analisa esse indício nas páginas correspondentes do exemplo de férias ou telefone (p. 14 do PDF), mostrando que o significado depende da sequência e da enunciação.",
+          "page": 14
+        },
+        {
+          "q": "Por que o pequeno 'telefonema' é interpretado como significativo?",
+          "options": [
+            "Comprova que chamadas breves são sempre gratuitas",
+            "Indica que o entrevistado rejeita toda sociabilidade",
+            "Sugere pouco investimento para uma solução percebida como grande",
+            "Serve apenas para contar diminutivos"
+          ],
+          "answer": 2,
+          "explanation": "Sugere pouco investimento para uma solução percebida como grande. Bardin analisa esse indício nas páginas correspondentes do exemplo de férias ou telefone (p. 17 do PDF), mostrando que o significado depende da sequência e da enunciação.",
+          "page": 17
+        },
+        {
+          "q": "Na resposta sobre o telefone, o que marca a passagem para o domínio profissional?",
+          "options": [
+            "O abandono de toda utilidade do telefone",
+            "A troca do entrevistado por outro participante",
+            "O fim de qualquer análise sequencial",
+            "Uma ruptura de registro que reafirma sua indispensabilidade"
+          ],
+          "answer": 3,
+          "explanation": "Uma ruptura de registro que reafirma sua indispensabilidade. Bardin analisa esse indício nas páginas correspondentes do exemplo de férias ou telefone (p. 17 do PDF), mostrando que o significado depende da sequência e da enunciação.",
+          "page": 17
+        },
+        {
+          "q": "Na entrevista nº 3 sobre telefone, qual emoção organiza o conjunto?",
+          "options": [
+            "O receio, mais intenso diante do desconhecido",
+            "A euforia uniforme do início ao fim",
+            "A indiferença total ao contato humano",
+            "A satisfação exclusiva com correspondência escrita"
+          ],
+          "answer": 0,
+          "explanation": "O receio, mais intenso diante do desconhecido. Bardin analisa esse indício nas páginas correspondentes do exemplo de férias ou telefone (p. 19 do PDF), mostrando que o significado depende da sequência e da enunciação.",
+          "page": 19
+        },
+        {
+          "q": "Como varia a ansiedade diante do telefone na entrevista nº 3?",
+          "options": [
+            "É idêntica em qualquer situação",
+            "É maior ao receber chamada desconhecida e menor com pessoa conhecida",
+            "Desaparece apenas quando se envia uma carta",
+            "É maior somente após terminar uma conversa"
+          ],
+          "answer": 1,
+          "explanation": "É maior ao receber chamada desconhecida e menor com pessoa conhecida. Bardin analisa esse indício nas páginas correspondentes do exemplo de férias ou telefone (p. 19 do PDF), mostrando que o significado depende da sequência e da enunciação.",
+          "page": 19
+        },
+        {
+          "q": "Na entrevista nº 3, como é percebido o contato frente a frente?",
+          "options": [
+            "Como experiência sempre mais ameaçadora",
+            "Como situação não mencionada",
+            "Como alternativa comparativamente preferível ao telefone",
+            "Como técnica de análise de conteúdo"
+          ],
+          "answer": 2,
+          "explanation": "Como alternativa comparativamente preferível ao telefone. Bardin analisa esse indício nas páginas correspondentes do exemplo de férias ou telefone (p. 19 do PDF), mostrando que o significado depende da sequência e da enunciação.",
+          "page": 19
+        },
+        {
+          "q": "O que distingue a entrevista nº 4 no exame sequencial?",
+          "options": [
+            "Ela contém a maior variedade de temas",
+            "Ela demonstra que toda entrevista exige oito sequências",
+            "Ela apresenta apenas respostas numéricas",
+            "Sua divisão em sequências pouco acrescenta à compreensão"
+          ],
+          "answer": 3,
+          "explanation": "Sua divisão em sequências pouco acrescenta à compreensão. Bardin analisa esse indício nas páginas correspondentes do exemplo de férias ou telefone (p. 19 do PDF), mostrando que o significado depende da sequência e da enunciação.",
+          "page": 19
         }
       ]
     },
