@@ -794,6 +794,438 @@
           "answer": 1,
           "explanation": "Segundo Bardin, associação, equivalência e oposição entre elementos. A referência é a página 47 do PDF fornecido.",
           "page": 47
+        },
+        {
+          "q": "Em que situação Bardin destaca a utilidade da análise quantitativa?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Na verificação de hipóteses com contagens sistemáticas",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 1,
+          "explanation": "Bardin apresenta como resposta adequada: na verificação de hipóteses com contagens sistemáticas. Consulte a página 49 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 49
+        },
+        {
+          "q": "Qual vantagem a análise qualitativa apresenta diante de índices inesperados?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Maior flexibilidade para adaptar interpretações e hipóteses",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 2,
+          "explanation": "Bardin apresenta como resposta adequada: maior flexibilidade para adaptar interpretações e hipóteses. Consulte a página 49 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 49
+        },
+        {
+          "q": "Na análise qualitativa descrita, a inferência costuma apoiar-se em quê?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto",
+            "Na presença de índices, não necessariamente em sua frequência"
+          ],
+          "answer": 3,
+          "explanation": "Bardin apresenta como resposta adequada: na presença de índices, não necessariamente em sua frequência. Consulte a página 50 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 50
+        },
+        {
+          "q": "A análise qualitativa exclui toda quantificação?",
+          "options": [
+            "Não; pode utilizar procedimentos quantitativos auxiliares",
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 0,
+          "explanation": "Bardin apresenta como resposta adequada: não; pode utilizar procedimentos quantitativos auxiliares. Consulte a página 50 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 50
+        },
+        {
+          "q": "Como Bardin define a categorização?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Classificação por diferenciação seguida de agrupamento por analogia",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 1,
+          "explanation": "Bardin apresenta como resposta adequada: classificação por diferenciação seguida de agrupamento por analogia. Consulte a página 51 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 51
+        },
+        {
+          "q": "Qual critério de categorização agrupa unidades pelo sentido?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Semântico ou temático",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 2,
+          "explanation": "Bardin apresenta como resposta adequada: semântico ou temático. Consulte a página 51 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 51
+        },
+        {
+          "q": "O que o exemplo de compositores e instrumentos musicais ilustra?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto",
+            "Um mesmo conjunto admite diferentes critérios de classificação"
+          ],
+          "answer": 3,
+          "explanation": "Bardin apresenta como resposta adequada: um mesmo conjunto admite diferentes critérios de classificação. Consulte a página 52 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 52
+        },
+        {
+          "q": "Qual cuidado deve acompanhar a passagem de dados brutos a categorias?",
+          "options": [
+            "Reconhecer que a operação pode introduzir desvios interpretativos",
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 0,
+          "explanation": "Bardin apresenta como resposta adequada: reconhecer que a operação pode introduzir desvios interpretativos. Consulte a página 53 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 53
+        },
+        {
+          "q": "Qual é a característica de categorias fornecidas previamente à análise?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Os elementos são distribuídos num sistema categorial preexistente",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 1,
+          "explanation": "Bardin apresenta como resposta adequada: os elementos são distribuídos num sistema categorial preexistente. Consulte a página 53 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 53
+        },
+        {
+          "q": "Qual princípio exige uma única dimensão de classificação no mesmo conjunto?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Homogeneidade",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 2,
+          "explanation": "Bardin apresenta como resposta adequada: homogeneidade. Consulte a página 54 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 54
+        },
+        {
+          "q": "O que caracteriza a pertinência das categorias?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto",
+            "Adequação ao material e ao quadro teórico da pesquisa"
+          ],
+          "answer": 3,
+          "explanation": "Bardin apresenta como resposta adequada: adequação ao material e ao quadro teórico da pesquisa. Consulte a página 54 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 54
+        },
+        {
+          "q": "Que estudo de Isambert-Jamati Bardin apresenta como exemplo?",
+          "options": [
+            "Evolução dos valores da instituição escolar em discursos de premiação",
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 0,
+          "explanation": "Bardin apresenta como resposta adequada: evolução dos valores da instituição escolar em discursos de premiação. Consulte a página 56 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 56
+        },
+        {
+          "q": "Qual conclusão geral decorre do estudo dos valores escolares?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Os objetivos educacionais acompanham transformações e crises sociais",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 1,
+          "explanation": "Bardin apresenta como resposta adequada: os objetivos educacionais acompanham transformações e crises sociais. Consulte a página 57 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 57
+        },
+        {
+          "q": "No exemplo de programas televisivos, quais duas dimensões são categorizadas?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Finalidades buscadas e métodos para alcançá-las",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 2,
+          "explanation": "Bardin apresenta como resposta adequada: finalidades buscadas e métodos para alcançá-las. Consulte a página 58 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 58
+        },
+        {
+          "q": "Na análise de interação terapêutica, quais respostas do terapeuta são distinguidas?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto",
+            "Aproximação e evitamento diante de expressões de hostilidade"
+          ],
+          "answer": 3,
+          "explanation": "Bardin apresenta como resposta adequada: aproximação e evitamento diante de expressões de hostilidade. Consulte a página 59 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 59
+        },
+        {
+          "q": "Qual tema figura entre os estados psicológicos estudados por quadros categoriais?",
+          "options": [
+            "Ansiedade",
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 0,
+          "explanation": "Bardin apresenta como resposta adequada: ansiedade. Consulte a página 60 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 60
+        },
+        {
+          "q": "Na análise de depressão citada, o que aparece como categoria?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Sentimentos de culpa e vergonha dirigidos a si",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 1,
+          "explanation": "Bardin apresenta como resposta adequada: sentimentos de culpa e vergonha dirigidos a si. Consulte a página 61 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 61
+        },
+        {
+          "q": "Qual é a vantagem de comparar textos por categorias comuns?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Possibilitar interpretação relativa e normas de referência",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 2,
+          "explanation": "Bardin apresenta como resposta adequada: possibilitar interpretação relativa e normas de referência. Consulte a página 62 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 62
+        },
+        {
+          "q": "Como Bardin caracteriza um índice ou dicionário para análise automática?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto",
+            "Sistema de categorias conceituais associado a unidades verbais"
+          ],
+          "answer": 3,
+          "explanation": "Bardin apresenta como resposta adequada: sistema de categorias conceituais associado a unidades verbais. Consulte a página 63 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 63
+        },
+        {
+          "q": "Qual é a função dos conceitos-chave em um dicionário de análise?",
+          "options": [
+            "Mediar a teoria do analista e os dados verbais brutos",
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 0,
+          "explanation": "Bardin apresenta como resposta adequada: mediar a teoria do analista e os dados verbais brutos. Consulte a página 63 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 63
+        },
+        {
+          "q": "Qual exemplo ilustra a multicodificação de uma palavra?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Professor associado a função, estatuto e contexto institucional",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 1,
+          "explanation": "Bardin apresenta como resposta adequada: professor associado a função, estatuto e contexto institucional. Consulte a página 64 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 64
+        },
+        {
+          "q": "Quais são os três grandes domínios citados em um sistema de conceitos-chave?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Objetos, processos e atributos",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 2,
+          "explanation": "Bardin apresenta como resposta adequada: objetos, processos e atributos. Consulte a página 64 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 64
+        },
+        {
+          "q": "Qual uso é atribuído ao Need Achievement Dictionary?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto",
+            "Estudo de representações de realização e sucesso"
+          ],
+          "answer": 3,
+          "explanation": "Bardin apresenta como resposta adequada: estudo de representações de realização e sucesso. Consulte a página 66 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 66
+        },
+        {
+          "q": "Qual finalidade do Interpersonal Identification Dictionary (IID)?",
+          "options": [
+            "Identificar pessoas mencionadas segundo sua relação com o locutor",
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 0,
+          "explanation": "Bardin apresenta como resposta adequada: identificar pessoas mencionadas segundo sua relação com o locutor. Consulte a página 68 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 68
+        },
+        {
+          "q": "Quais polos da comunicação podem orientar inferências de conteúdo?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Emissor, receptor, mensagem e canal",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 1,
+          "explanation": "Bardin apresenta como resposta adequada: emissor, receptor, mensagem e canal. Consulte a página 69 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 69
+        },
+        {
+          "q": "O que a análise centrada no receptor procura compreender?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Informações sobre o público visado e sua relação com a mensagem",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 2,
+          "explanation": "Bardin apresenta como resposta adequada: informações sobre o público visado e sua relação com a mensagem. Consulte a página 70 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 70
+        },
+        {
+          "q": "Quando o código é examinado como indicador, o que pode ser estudado?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto",
+            "Vocabulário, extensão de frases e figuras retóricas"
+          ],
+          "answer": 3,
+          "explanation": "Bardin apresenta como resposta adequada: vocabulário, extensão de frases e figuras retóricas. Consulte a página 71 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 71
+        },
+        {
+          "q": "Qual é o papel do médium na comunicação?",
+          "options": [
+            "Canal ou suporte material pelo qual a mensagem é transmitida",
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 0,
+          "explanation": "Bardin apresenta como resposta adequada: canal ou suporte material pelo qual a mensagem é transmitida. Consulte a página 72 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 72
+        },
+        {
+          "q": "Qual cautela Bardin apresenta sobre inferências causais?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "A passagem de indicadores a causas exige validação e pode depender do caso",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 1,
+          "explanation": "Bardin apresenta como resposta adequada: a passagem de indicadores a causas exige validação e pode depender do caso. Consulte a página 73 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 73
+        },
+        {
+          "q": "Qual limitação é indicada para inferir efeitos da comunicação?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Frequentemente são necessários dados complementares de outras técnicas",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 2,
+          "explanation": "Bardin apresenta como resposta adequada: frequentemente são necessários dados complementares de outras técnicas. Consulte a página 75 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 75
+        },
+        {
+          "q": "No método Tri-deux, qual índice é usado para medir proximidades?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto",
+            "Índice de Jaccard"
+          ],
+          "answer": 3,
+          "explanation": "Bardin apresenta como resposta adequada: índice de Jaccard. Consulte a página 85 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 85
+        },
+        {
+          "q": "Qual desafio acompanha a análise de respostas abertas em grandes inquéritos?",
+          "options": [
+            "Preservar a riqueza textual com custos e tempo de análise controlados",
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 0,
+          "explanation": "Bardin apresenta como resposta adequada: preservar a riqueza textual com custos e tempo de análise controlados. Consulte a página 86 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 86
+        },
+        {
+          "q": "O que são respostas modais no tratamento textual descrito?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Respostas autênticas representativas de grupos de participantes",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 1,
+          "explanation": "Bardin apresenta como resposta adequada: respostas autênticas representativas de grupos de participantes. Consulte a página 87 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 87
+        },
+        {
+          "q": "O que caracteriza os estudos lexicométricos apresentados?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Estatística lexical que pode considerar frequências e contextos",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 2,
+          "explanation": "Bardin apresenta como resposta adequada: estatística lexical que pode considerar frequências e contextos. Consulte a página 89 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 89
+        },
+        {
+          "q": "O que o inventário de segmentos repetidos permite identificar?",
+          "options": [
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto",
+            "Sequências verbais reiteradas, suas frequências e localizações"
+          ],
+          "answer": 3,
+          "explanation": "Bardin apresenta como resposta adequada: sequências verbais reiteradas, suas frequências e localizações. Consulte a página 91 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 91
+        },
+        {
+          "q": "Qual característica do programa DEREDEC é enfatizada?",
+          "options": [
+            "Construção de descrições em árvore com regras e exploração textual",
+            "Desconsiderar sistematicamente os objetivos e o corpus",
+            "Eliminar qualquer possibilidade de interpretação do pesquisador",
+            "Aplicar sempre uma contagem isolada de palavras, sem contexto"
+          ],
+          "answer": 0,
+          "explanation": "Bardin apresenta como resposta adequada: construção de descrições em árvore com regras e exploração textual. Consulte a página 93 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
+          "page": 93
         }
       ]
     },
