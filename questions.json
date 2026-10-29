@@ -1466,6 +1466,126 @@
           "answer": 3,
           "explanation": "Sua divisão em sequências pouco acrescenta à compreensão. Bardin analisa esse indício nas páginas correspondentes do exemplo de férias ou telefone (p. 19 do PDF), mostrando que o significado depende da sequência e da enunciação.",
           "page": 19
+        },
+        {
+          "q": "Na resposta nº 9 sobre telefone, que aspecto novo Bardin identifica?",
+          "options": [
+            "A ausência completa de interesse na comunicação",
+            "Uma descrição exclusivamente financeira",
+            "A rejeição de toda conversa telefônica",
+            "O prazer da fala e a magia da voz"
+          ],
+          "answer": 3,
+          "explanation": "O prazer da fala e a magia da voz. A discussão está na página 19 do PDF de Bardin; a interpretação deve considerar os indícios e o contexto do corpus, sem reduzir a análise a conclusões automáticas.",
+          "page": 19
+        },
+        {
+          "q": "Na resposta nº 19, qual hierarquia de meios de contato é observada?",
+          "options": [
+            "Frente a frente como ideal, telefone intermediário e ausência de contato como pior situação",
+            "Telefone como único meio aceitável",
+            "Carta como única forma de interação",
+            "Ausência de comunicação como situação preferida"
+          ],
+          "answer": 0,
+          "explanation": "Frente a frente como ideal, telefone intermediário e ausência de contato como pior situação. A discussão está na página 23 do PDF de Bardin; a interpretação deve considerar os indícios e o contexto do corpus, sem reduzir a análise a conclusões automáticas.",
+          "page": 23
+        },
+        {
+          "q": "O que o movimento de 'sim, mas' revela na resposta nº 19?",
+          "options": [
+            "Uma aprovação sem reservas do telefone",
+            "Uma alternância entre vantagens e restrições, com desfecho mais negativo",
+            "Uma enumeração sem avaliação",
+            "A impossibilidade de comparar sequências"
+          ],
+          "answer": 1,
+          "explanation": "Uma alternância entre vantagens e restrições, com desfecho mais negativo. A discussão está na página 23 do PDF de Bardin; a interpretação deve considerar os indícios e o contexto do corpus, sem reduzir a análise a conclusões automáticas.",
+          "page": 23
+        },
+        {
+          "q": "Na resposta nº 21, a recorrência de formas negativas e restritivas indica o quê?",
+          "options": [
+            "Investimento relacional máximo",
+            "Ausência de marcas expressivas",
+            "Uma atitude defensiva diante da implicação na comunicação",
+            "Apenas entusiasmo com a tecnologia"
+          ],
+          "answer": 2,
+          "explanation": "Uma atitude defensiva diante da implicação na comunicação. A discussão está na página 23 do PDF de Bardin; a interpretação deve considerar os indícios e o contexto do corpus, sem reduzir a análise a conclusões automáticas.",
+          "page": 23
+        },
+        {
+          "q": "Como a resposta nº 23 contrasta com a nº 21?",
+          "options": [
+            "Rejeita toda relação com outras pessoas",
+            "Não menciona vínculos ou privação",
+            "Apresenta somente argumentos impessoais",
+            "Apresenta apropriação do telefone e forte investimento relacional"
+          ],
+          "answer": 3,
+          "explanation": "Apresenta apropriação do telefone e forte investimento relacional. A discussão está na página 23 do PDF de Bardin; a interpretação deve considerar os indícios e o contexto do corpus, sem reduzir a análise a conclusões automáticas.",
+          "page": 23
+        },
+        {
+          "q": "Para que serve a leitura codificada em três níveis?",
+          "options": [
+            "Preparar categorias transversais e gerar hipóteses interpretativas",
+            "Produzir diagnóstico médico automático",
+            "Dispensar comparação entre entrevistas",
+            "Eliminar aspectos expressivos do corpus"
+          ],
+          "answer": 0,
+          "explanation": "Preparar categorias transversais e gerar hipóteses interpretativas. A discussão está na página 24 do PDF de Bardin; a interpretação deve considerar os indícios e o contexto do corpus, sem reduzir a análise a conclusões automáticas.",
+          "page": 24
+        },
+        {
+          "q": "O que Bardin denomina saturação nesse conjunto de respostas?",
+          "options": [
+            "Obrigação de entrevistar todos os habitantes",
+            "Repetição progressiva de temas, com poucas novidades adicionais",
+            "Ausência de qualquer tema comum",
+            "Substituição de entrevistas por testes padronizados"
+          ],
+          "answer": 1,
+          "explanation": "Repetição progressiva de temas, com poucas novidades adicionais. A discussão está na página 24 do PDF de Bardin; a interpretação deve considerar os indícios e o contexto do corpus, sem reduzir a análise a conclusões automáticas.",
+          "page": 24
+        },
+        {
+          "q": "Como pode ser organizada uma matriz transversal de vantagens e desvantagens?",
+          "options": [
+            "Entrevistadores nas linhas e valores monetários nas colunas",
+            "Somente uma lista de entrevistados sem temas",
+            "Temas nas linhas e indivíduos nas colunas, marcando presença ou ocorrência",
+            "Apenas a ordem cronológica das chamadas"
+          ],
+          "answer": 2,
+          "explanation": "Temas nas linhas e indivíduos nas colunas, marcando presença ou ocorrência. A discussão está na página 25 do PDF de Bardin; a interpretação deve considerar os indícios e o contexto do corpus, sem reduzir a análise a conclusões automáticas.",
+          "page": 25
+        },
+        {
+          "q": "Por que Bardin recomenda atacar a análise de entrevistas em vários flancos?",
+          "options": [
+            "Porque um quadro único sempre explica integralmente o discurso",
+            "Porque toda entrevista dispensa categorias",
+            "Porque somente a frequência numérica tem valor",
+            "Porque o material verbal é complexo e multidimensional"
+          ],
+          "answer": 3,
+          "explanation": "Porque o material verbal é complexo e multidimensional. A discussão está na página 25 do PDF de Bardin; a interpretação deve considerar os indícios e o contexto do corpus, sem reduzir a análise a conclusões automáticas.",
+          "page": 25
+        },
+        {
+          "q": "Quais são os três polos cronológicos da análise de conteúdo em Bardin?",
+          "options": [
+            "Pré-análise, exploração do material, tratamento dos resultados com inferência e interpretação",
+            "Diagnóstico, prescrição e alta",
+            "Coleta, divulgação e arquivamento sem interpretação",
+            "Leitura, votação e descarte do corpus"
+          ],
+          "answer": 0,
+          "explanation": "Pré-análise, exploração do material, tratamento dos resultados com inferência e interpretação. A discussão está na página 29 do PDF de Bardin; a interpretação deve considerar os indícios e o contexto do corpus, sem reduzir a análise a conclusões automáticas.",
+          "page": 29
         }
       ]
     },
