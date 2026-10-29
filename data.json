@@ -40,5 +40,11 @@
     "name": "Produção de Laudos",
     "file": "pdfs/materia-7.pdf",
     "pages": 17
+  },
+  {
+    "id": 8,
+    "name": "Resolução CFP nº 06/2019 — resumo do art. 13",
+    "file": "materiais/cfp-06-2019.html",
+    "pages": 1
   }
 ]
