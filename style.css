@@ -9,3 +9,5 @@ nav button{min-width:0;flex:1;padding:7px 2px;font-size:20px}nav button span{fon
 .summary-paper:has(.summary-ink[style*="pointer-events: auto"]){touch-action:none;overscroll-behavior:contain;user-select:none;-webkit-user-select:none}.summary-ink{touch-action:none;user-select:none;-webkit-user-select:none}
 
 .summary-part-row{display:flex;align-items:stretch;gap:6px;min-width:0}.summary-part-row .summary-part{flex:1;min-width:0}.summary-ok{flex:0 0 auto;min-width:64px;border:1px solid #a898d2;background:#fff;color:#49318b;font-weight:700}.summary-ok.is-read{background:#d8f3df;color:#146c35;border-color:#80ca9a}
+
+.summary-part-row.is-read .summary-part{background:#c9efd6;color:#155b33;border:2px solid #4eac71;font-weight:700}.summary-part-row.is-read .summary-ok{background:#198348;color:white;border-color:#198348}.summary-part-row.is-read{border-radius:12px;background:#e3f8e9}
