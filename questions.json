@@ -1804,15 +1804,15 @@
           "page": 50
         },
         {
-          "q": "Como Bardin define a categorização?",
+          "q": "Na classificação lexical descrita por Bardin, qual procedimento orienta o agrupamento das palavras?",
           "options": [
-            "Reunir frases aleatoriamente sem critério",
-            "Eliminar toda singularidade do material antes da leitura",
-            "Classificar por diferenciação e reagrupar por analogia segundo critérios definidos",
-            "Substituir unidades de registro por opiniões pessoais"
+            "Agrupar palavras exclusivamente por sua posição na frase",
+            "Reunir palavras pelo sentido, aproximando sinônimos e significados semelhantes",
+            "Separar todas as palavras segundo o número de letras",
+            "Classificar cada palavra apenas pela pontuação vizinha"
           ],
-          "answer": 2,
-          "explanation": "Classificar por diferenciação e reagrupar por analogia segundo critérios definidos. Bardin apresenta essa distinção na página 51 do PDF. O procedimento de análise deve respeitar os objetivos e o contexto dos índices, sem transformar a codificação em conclusão automática.",
+          "answer": 1,
+          "explanation": "O critério lexical reúne palavras segundo o sentido, incluindo sinônimos e sentidos próximos. Diferencia-se do critério sintático, que considera classes gramaticais, e do semântico, que pode organizar temas (Bardin, p. 51 do PDF).",
           "page": 51
         },
         {
