@@ -228,6 +228,174 @@
           "answer": 0,
           "explanation": "A apresentação associa os princípios éticos ao respeito ao sujeito humano e aos direitos fundamentais.",
           "page": 5
+        },
+        {
+          "q": "Qual princípio fundamental exige análise crítica e histórica da realidade política, econômica, social e cultural?",
+          "options": [
+            "Responsabilidade social",
+            "Neutralidade diante de toda desigualdade",
+            "Prioridade comercial",
+            "Ausência de compromisso público"
+          ],
+          "answer": 0,
+          "explanation": "O princípio III determina atuação com responsabilidade social e análise crítica e histórica da realidade.",
+          "page": 7
+        },
+        {
+          "q": "Segundo o art. 1º, b, quando o psicólogo pode assumir responsabilidade por uma atividade?",
+          "options": [
+            "Sempre que houver remuneração",
+            "Somente quando estiver capacitado pessoal, teórica e tecnicamente",
+            "Quando o usuário dispensar qualificação",
+            "Quando outro profissional solicitar"
+          ],
+          "answer": 1,
+          "explanation": "O art. 1º, b, condiciona a responsabilidade à capacitação pessoal, teórica e técnica.",
+          "page": 8
+        },
+        {
+          "q": "Ao comunicar resultados de serviços psicológicos, o que o art. 1º, g, orienta?",
+          "options": [
+            "Divulgar todos os registros",
+            "Transmitir somente o necessário para decisões que afetem o usuário",
+            "Omitir qualquer resultado",
+            "Enviar os dados a qualquer interessado"
+          ],
+          "answer": 1,
+          "explanation": "O art. 1º, g, exige informar a quem de direito apenas o necessário à tomada de decisões.",
+          "page": 8
+        },
+        {
+          "q": "Qual conduta é expressamente vedada pelo art. 2º, b?",
+          "options": [
+            "Prestar esclarecimentos sobre o trabalho",
+            "Induzir convicções religiosas, políticas ou ideológicas no exercício profissional",
+            "Encaminhar a outro profissional habilitado",
+            "Informar objetivos do serviço"
+          ],
+          "answer": 1,
+          "explanation": "O art. 2º, b, proíbe induzir convicções e preconceitos no exercício das funções.",
+          "page": 9
+        },
+        {
+          "q": "Segundo o art. 2º, g, é vedado ao psicólogo:",
+          "options": [
+            "Emitir documentos sem fundamentação e qualidade técnico-científica",
+            "Registrar objetivos do trabalho",
+            "Fundamentar conclusões",
+            "Esclarecer procedimentos"
+          ],
+          "answer": 0,
+          "explanation": "O art. 2º, g, veda documentos sem fundamentação e qualidade técnico-científica.",
+          "page": 10
+        },
+        {
+          "q": "Qual situação impede atuação como perito, avaliador ou parecerista, conforme o art. 2º, k?",
+          "options": [
+            "Experiência na área",
+            "Vínculos pessoais ou profissionais que comprometam qualidade ou fidelidade dos resultados",
+            "Solicitação formal de avaliação",
+            "Disponibilidade de instrumentos"
+          ],
+          "answer": 1,
+          "explanation": "O art. 2º, k, trata de vínculos atuais ou anteriores que afetem a qualidade ou fidelidade da avaliação.",
+          "page": 10
+        },
+        {
+          "q": "O que deve ser assegurado durante greves ou paralisações, conforme o art. 5º?",
+          "options": [
+            "Interrupção imediata de toda atividade",
+            "Continuidade das atividades de emergência e comunicação prévia aos usuários",
+            "Cobrança adicional obrigatória",
+            "Divulgação dos prontuários"
+          ],
+          "answer": 1,
+          "explanation": "O art. 5º prevê não interromper atividades de emergência e comunicar previamente a paralisação.",
+          "page": 11
+        },
+        {
+          "q": "Na relação com profissionais não psicólogos, quais informações podem ser compartilhadas?",
+          "options": [
+            "Todas as informações pessoais disponíveis",
+            "Somente as relevantes para qualificar o serviço, resguardado o sigilo",
+            "Somente dados financeiros",
+            "Nenhuma informação em qualquer circunstância"
+          ],
+          "answer": 1,
+          "explanation": "O art. 6º, b, restringe o compartilhamento às informações relevantes e exige confidencialidade.",
+          "page": 12
+        },
+        {
+          "q": "Para atendimento não eventual de criança ou adolescente, o art. 8º exige, em regra:",
+          "options": [
+            "Autorização de ao menos um responsável, observada a legislação",
+            "Autorização de todos os professores",
+            "Ausência de qualquer autorização",
+            "Autorização exclusiva de um vizinho"
+          ],
+          "answer": 0,
+          "explanation": "O art. 8º exige autorização de ao menos um responsável, observadas as determinações legais.",
+          "page": 12
+        },
+        {
+          "q": "Em conflito ético relativo ao sigilo, fora das hipóteses previstas em lei, o art. 10 orienta buscar:",
+          "options": [
+            "A divulgação mais ampla possível",
+            "O menor prejuízo, limitando informações ao estritamente necessário",
+            "A preferência do empregador",
+            "A divulgação integral dos arquivos"
+          ],
+          "answer": 1,
+          "explanation": "O art. 10 admite decisão pela quebra de sigilo com base no menor prejuízo e restrição ao necessário.",
+          "page": 13
+        },
+        {
+          "q": "Na interrupção do trabalho por demissão ou exoneração, o que fazer com arquivos confidenciais?",
+          "options": [
+            "Descartá-los sem registro",
+            "Repassá-los ao psicólogo substituto ou lacrá-los para uso posterior deste",
+            "Publicá-los em rede social",
+            "Entregá-los a qualquer colega"
+          ],
+          "answer": 1,
+          "explanation": "O art. 15, §1º, prevê repasse ao substituto ou lacre para posterior utilização.",
+          "page": 14
+        },
+        {
+          "q": "Em pesquisas, o art. 16 determina, como regra:",
+          "options": [
+            "Participação obrigatória",
+            "Participação voluntária mediante consentimento livre e esclarecido",
+            "Divulgação nominal de todos os participantes",
+            "Omissão de avaliação de riscos"
+          ],
+          "answer": 1,
+          "explanation": "O art. 16, b, assegura participação voluntária com consentimento livre e esclarecido, ressalvadas hipóteses legais.",
+          "page": 14
+        },
+        {
+          "q": "Na divulgação pública de serviços, qual conduta é vedada pelo art. 20?",
+          "options": [
+            "Informar o número de registro no CRP",
+            "Fazer previsão taxativa de resultados",
+            "Apresentar qualificação que possua",
+            "Informar o nome completo"
+          ],
+          "answer": 1,
+          "explanation": "O art. 20, e, veda previsão taxativa de resultados na publicidade dos serviços.",
+          "page": 15
+        },
+        {
+          "q": "Qual penalidade está prevista no art. 21 do Código?",
+          "options": [
+            "Suspensão do exercício profissional por até 30 dias, nas condições previstas",
+            "Prisão automática pelo Conselho",
+            "Perda obrigatória de diploma universitário",
+            "Proibição vitalícia de estudar Psicologia"
+          ],
+          "answer": 0,
+          "explanation": "O art. 21, d, prevê suspensão de até 30 dias, ad referendum do CFP.",
+          "page": 16
         }
       ]
     },
