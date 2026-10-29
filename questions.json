@@ -435,6 +435,54 @@
           "answer": 0,
           "explanation": "O art. 6º prevê prontuário único e registro apenas do necessário.",
           "page": 3
+        },
+        {
+          "q": "Segundo o art. 2º, quais documentos da aplicação de instrumentos de avaliação psicológica devem ser guardados em pasta de acesso exclusivo do psicólogo?",
+          "options": [
+            "Os documentos resultantes da aplicação desses instrumentos",
+            "Apenas os recibos financeiros",
+            "Somente as declarações de comparecimento",
+            "Todos os documentos da instituição, sem distinção"
+          ],
+          "answer": 0,
+          "explanation": "O art. 2º, V, determina que documentos resultantes da aplicação de instrumentos de avaliação psicológica sejam arquivados em pasta de acesso exclusivo do psicólogo.",
+          "page": 2
+        },
+        {
+          "q": "Ao arquivar cópias de documentos produzidos para o usuário ou instituição, o que também deve ser registrado?",
+          "options": [
+            "A opinião de familiares sobre o documento",
+            "Data de emissão, finalidade e destinatário",
+            "Apenas o preço cobrado",
+            "Somente a assinatura do recepcionista"
+          ],
+          "answer": 1,
+          "explanation": "O art. 2º, VI, exige o arquivamento das cópias e o registro da data de emissão, finalidade e destinatário.",
+          "page": 2
+        },
+        {
+          "q": "Qual direito é assegurado ao usuário ou representante legal quanto ao prontuário psicológico?",
+          "options": [
+            "Acesso somente a informações financeiras",
+            "Acesso integral às informações registradas pelo psicólogo em seu prontuário",
+            "Acesso apenas mediante publicação judicial",
+            "Nenhum acesso ao prontuário"
+          ],
+          "answer": 1,
+          "explanation": "O art. 5º, II, assegura acesso integral às informações registradas pelo psicólogo no prontuário.",
+          "page": 2
+        },
+        {
+          "q": "No atendimento em grupo não eventual, além dos registros dos atendimentos, o psicólogo deve manter:",
+          "options": [
+            "Apenas uma lista de presença coletiva",
+            "Somente gravações de áudio",
+            "Documentação individual referente a cada usuário",
+            "Um único registro sem identificação individual"
+          ],
+          "answer": 2,
+          "explanation": "O art. 5º, III, determina documentação individual referente a cada usuário no atendimento em grupo não eventual.",
+          "page": 2
         }
       ]
     },
