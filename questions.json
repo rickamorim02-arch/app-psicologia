@@ -2215,6 +2215,462 @@
           "answer": 0,
           "explanation": "A orientação correta é: Inclui identificação demanda procedimentos análise e conclusão. O manual apresenta esse aspecto na página 64 do PDF.",
           "page": 64
+        },
+        {
+          "q": "Uma pessoa solicita acesso ao prontuário psicológico de seu atendimento. Qual orientação o manual apresenta?",
+          "options": [
+            "O prontuário pertence exclusivamente ao conselho regional",
+            "O prontuário é a forma prioritária e seu acesso constitui direito do usuário ou beneficiário",
+            "O acesso depende de autorização de qualquer colega",
+            "O prontuário deve ser destruído após a solicitação"
+          ],
+          "answer": 1,
+          "explanation": "O prontuário é a forma prioritária e seu acesso constitui direito do usuário ou beneficiário. O Manual Orientativo do CFP (2025), na página 15 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 15
+        },
+        {
+          "q": "Qual diferença central entre prontuário e registro documental é indicada?",
+          "options": [
+            "O regime de acesso e a necessidade de restringir certas informações",
+            "A obrigatoriedade de usar apenas papel para prontuário",
+            "A inexistência de sigilo no registro documental",
+            "A proibição de registro documental em qualquer área"
+          ],
+          "answer": 0,
+          "explanation": "O regime de acesso e a necessidade de restringir certas informações. O Manual Orientativo do CFP (2025), na página 16 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 16
+        },
+        {
+          "q": "A estrutura mínima dos registros psicológicos contempla qual conjunto?",
+          "options": [
+            "Somente nome e assinatura do psicólogo",
+            "Apenas diagnóstico e valor da consulta",
+            "Exclusivamente a transcrição das sessões",
+            "Identificação, demanda e objetivos, evolução com procedimentos, encaminhamento ou encerramento"
+          ],
+          "answer": 3,
+          "explanation": "Identificação, demanda e objetivos, evolução com procedimentos, encaminhamento ou encerramento. O Manual Orientativo do CFP (2025), na página 17 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 17
+        },
+        {
+          "q": "No atendimento a criança, qual informação adicional pode integrar a identificação?",
+          "options": [
+            "Somente o nome de professores",
+            "Diagnóstico de todos os familiares",
+            "Nome do responsável ou dos responsáveis",
+            "Lista de todos os vizinhos"
+          ],
+          "answer": 2,
+          "explanation": "Nome do responsável ou dos responsáveis. O Manual Orientativo do CFP (2025), na página 18 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 18
+        },
+        {
+          "q": "Por que a evolução é chamada de 'coração' do registro?",
+          "options": [
+            "Porque reúne somente dados administrativos",
+            "Porque descreve atividades realizadas e procedimentos técnico-científicos empregados",
+            "Porque substitui o dever de sigilo",
+            "Porque contém obrigatoriamente a gravação integral"
+          ],
+          "answer": 1,
+          "explanation": "Porque descreve atividades realizadas e procedimentos técnico-científicos empregados. O Manual Orientativo do CFP (2025), na página 19 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 19
+        },
+        {
+          "q": "Qual prática é recomendada ao registrar evolução após atendimento?",
+          "options": [
+            "Anotar data e síntese relevante, evitando espaços em branco",
+            "Deixar lacunas para complementação sem controle",
+            "Registrar apenas o humor do profissional",
+            "Transcrever tudo sem seleção"
+          ],
+          "answer": 0,
+          "explanation": "Anotar data e síntese relevante, evitando espaços em branco. O Manual Orientativo do CFP (2025), na página 19 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 19
+        },
+        {
+          "q": "Uma psicóloga transcreve literalmente todas as sessões como evolução. Qual problema o manual aponta?",
+          "options": [
+            "É a única forma aceitável de evolução",
+            "É exigência para qualquer atendimento",
+            "Elimina a necessidade de fundamentação técnica",
+            "Transcrição literal não equivale a evolução e pode ampliar riscos ao sigilo"
+          ],
+          "answer": 3,
+          "explanation": "Transcrição literal não equivale a evolução e pode ampliar riscos ao sigilo. O Manual Orientativo do CFP (2025), na página 20 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 20
+        },
+        {
+          "q": "Como deve ser a linguagem dos registros?",
+          "options": [
+            "Exclusivamente acadêmica e hermética",
+            "Obrigatoriamente coloquial em todos os contextos",
+            "Formal e técnica, mas compreensível também a pessoas leigas",
+            "Com termos incompreensíveis para preservar autoridade"
+          ],
+          "answer": 2,
+          "explanation": "Formal e técnica, mas compreensível também a pessoas leigas. O Manual Orientativo do CFP (2025), na página 21 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 21
+        },
+        {
+          "q": "O manual exige sempre redação impessoal?",
+          "options": [
+            "Sim; proíbe qualquer primeira pessoa",
+            "Não; admite pessoalidade ou impessoalidade, recomendando consistência no texto",
+            "Sim; exige alternar estilos a cada parágrafo",
+            "Não; exige obrigatoriamente linguagem informal"
+          ],
+          "answer": 1,
+          "explanation": "Não; admite pessoalidade ou impessoalidade, recomendando consistência no texto. O Manual Orientativo do CFP (2025), na página 21 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 21
+        },
+        {
+          "q": "Qual risco é especialmente associado ao registro em papel?",
+          "options": [
+            "Problemas de legibilidade, adulteração e necessidade de espaço físico",
+            "Ausência absoluta de validade jurídica",
+            "Impossibilidade de manuseio",
+            "Proibição de utilização por psicólogos"
+          ],
+          "answer": 0,
+          "explanation": "Problemas de legibilidade, adulteração e necessidade de espaço físico. O Manual Orientativo do CFP (2025), na página 22 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 22
+        },
+        {
+          "q": "Com que frequência devem ser atualizados os registros?",
+          "options": [
+            "Somente no encerramento de todos os casos",
+            "Uma vez a cada cinco anos",
+            "Apenas quando o usuário reclama",
+            "Permanentemente, preferencialmente logo após o atendimento"
+          ],
+          "answer": 3,
+          "explanation": "Permanentemente, preferencialmente logo após o atendimento. O Manual Orientativo do CFP (2025), na página 23 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 23
+        },
+        {
+          "q": "No registro de atendimento em equipe, qual critério limita o conteúdo compartilhado?",
+          "options": [
+            "Curiosidade dos integrantes da equipe",
+            "Inclusão de toda a história pessoal sem filtro",
+            "Relevância para o trabalho dos demais profissionais, preservando sigilo",
+            "Divulgação integral ao público"
+          ],
+          "answer": 2,
+          "explanation": "Relevância para o trabalho dos demais profissionais, preservando sigilo. O Manual Orientativo do CFP (2025), na página 24 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 24
+        },
+        {
+          "q": "Em grupos não eventuais, o que o manual orienta além do prontuário do grupo?",
+          "options": [
+            "Exclusão de toda identificação dos participantes",
+            "Documentação individual correspondente a cada integrante",
+            "Somente registro verbal do moderador",
+            "Dispensa completa de registros"
+          ],
+          "answer": 1,
+          "explanation": "Documentação individual correspondente a cada integrante. O Manual Orientativo do CFP (2025), na página 24 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 24
+        },
+        {
+          "q": "Uma pessoa pede comprovação de comparecimento sem sintomas. Qual documento é apropriado?",
+          "options": [
+            "Declaração",
+            "Laudo psicológico",
+            "Parecer sobre diagnóstico",
+            "Relatório multiprofissional"
+          ],
+          "answer": 0,
+          "explanation": "Declaração. O Manual Orientativo do CFP (2025), na página 26 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 26
+        },
+        {
+          "q": "Por que não se deve incluir sintomas em uma declaração?",
+          "options": [
+            "Porque declarações devem apresentar diagnóstico detalhado",
+            "Porque declarações substituem avaliações compulsórias",
+            "Porque sintomas só podem ser descritos em recibos",
+            "Porque sua finalidade é registrar objetivamente comparecimento ou acompanhamento, não estados psicológicos"
+          ],
+          "answer": 3,
+          "explanation": "Porque sua finalidade é registrar objetivamente comparecimento ou acompanhamento, não estados psicológicos. O Manual Orientativo do CFP (2025), na página 26 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 26
+        },
+        {
+          "q": "Qual documento resulta de avaliação psicológica e afirma determinada condição ou funcionamento?",
+          "options": [
+            "Declaração de comparecimento",
+            "Recibo financeiro",
+            "Atestado psicológico",
+            "Carta informal de encaminhamento"
+          ],
+          "answer": 2,
+          "explanation": "Atestado psicológico. O Manual Orientativo do CFP (2025), na página 26 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 26
+        },
+        {
+          "q": "Em avaliação psicológica compulsória, qual modalidade documental o manual indica?",
+          "options": [
+            "Declaração simples em todos os casos",
+            "Atestado psicológico, observadas as normas específicas",
+            "Parecer de qualquer pessoa da equipe",
+            "Relatório sem fundamentação técnica"
+          ],
+          "answer": 1,
+          "explanation": "Atestado psicológico, observadas as normas específicas. O Manual Orientativo do CFP (2025), na página 27 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 27
+        },
+        {
+          "q": "Uma psicóloga precisa comunicar acompanhamento em andamento sem estabelecer diagnóstico. Qual modalidade é pertinente?",
+          "options": [
+            "Relatório psicológico de caráter informativo e não diagnóstico",
+            "Atestado com diagnóstico presumido",
+            "Laudo sem avaliação psicológica",
+            "Parecer sobre documento inexistente"
+          ],
+          "answer": 0,
+          "explanation": "Relatório psicológico de caráter informativo e não diagnóstico. O Manual Orientativo do CFP (2025), na página 28 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 28
+        },
+        {
+          "q": "Qual é uma finalidade possível do relatório psicológico?",
+          "options": [
+            "Garantir diagnóstico em qualquer situação",
+            "Dispensar prontuário e registro documental",
+            "Substituir autorização de responsáveis",
+            "Fundamentar encaminhamentos, orientações ou pedidos de ampliação de sessões"
+          ],
+          "answer": 3,
+          "explanation": "Fundamentar encaminhamentos, orientações ou pedidos de ampliação de sessões. O Manual Orientativo do CFP (2025), na página 28 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 28
+        },
+        {
+          "q": "Qual característica define o relatório multiprofissional?",
+          "options": [
+            "Assinatura exclusiva de profissional não habilitado",
+            "Divulgação de todos os registros sigilosos",
+            "Produção conjunta com outras áreas, preservando autonomia e ética profissional",
+            "Eliminação da contribuição específica da psicologia"
+          ],
+          "answer": 2,
+          "explanation": "Produção conjunta com outras áreas, preservando autonomia e ética profissional. O Manual Orientativo do CFP (2025), na página 29 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 29
+        },
+        {
+          "q": "Qual documento decorre de avaliação psicológica e subsidia decisões no contexto da demanda?",
+          "options": [
+            "Declaração de comparecimento",
+            "Laudo psicológico",
+            "Recibo de pagamento",
+            "Ata administrativa"
+          ],
+          "answer": 1,
+          "explanation": "Laudo psicológico. O Manual Orientativo do CFP (2025), na página 29 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 29
+        },
+        {
+          "q": "Ao produzir laudo em equipe multiprofissional, qual cuidado permanece indispensável?",
+          "options": [
+            "Registrar apenas informações necessárias e resguardar sigilo",
+            "Incluir todas as notas privativas da psicóloga",
+            "Dispensar fundamentação por haver equipe",
+            "Publicar dados brutos para transparência irrestrita"
+          ],
+          "answer": 0,
+          "explanation": "Registrar apenas informações necessárias e resguardar sigilo. O Manual Orientativo do CFP (2025), na página 30 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 30
+        },
+        {
+          "q": "Um assistente técnico analisa criticamente o laudo elaborado por perito judicial. Que documento pode produzir?",
+          "options": [
+            "Declaração de comparecimento do perito",
+            "Atestado de aptidão do juiz",
+            "Prontuário do tribunal sem atendimento",
+            "Parecer psicológico fundamentado em ciência, técnica e normas"
+          ],
+          "answer": 3,
+          "explanation": "Parecer psicológico fundamentado em ciência, técnica e normas. O Manual Orientativo do CFP (2025), na página 31 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 31
+        },
+        {
+          "q": "O parecer técnico sobre laudo alheio pode fazer o quê?",
+          "options": [
+            "Desqualificar o perito sem examinar os fundamentos",
+            "Alterar resultados dos instrumentos originais",
+            "Ratificar ou questionar métodos e conclusões com fundamentação",
+            "Substituir a decisão judicial por opinião pessoal"
+          ],
+          "answer": 2,
+          "explanation": "Ratificar ou questionar métodos e conclusões com fundamentação. O Manual Orientativo do CFP (2025), na página 31 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 31
+        },
+        {
+          "q": "O que deve nortear tecnicamente a elaboração de documentos psicológicos?",
+          "options": [
+            "Conclusões sem respaldo documental",
+            "Qualidade técnico-científica e dados fidedignos",
+            "Linguagem intencionalmente ambígua",
+            "Reprodução de boatos de terceiros"
+          ],
+          "answer": 1,
+          "explanation": "Qualidade técnico-científica e dados fidedignos. O Manual Orientativo do CFP (2025), na página 34 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 34
+        },
+        {
+          "q": "Como se recomenda comprovar a entrega de documento psicológico?",
+          "options": [
+            "Por protocolo de recebimento ou confirmação em canal formal",
+            "Por divulgação do documento em rede social",
+            "Por envio a qualquer endereço sem confirmação",
+            "Por descarte da cópia após emissão"
+          ],
+          "answer": 0,
+          "explanation": "Por protocolo de recebimento ou confirmação em canal formal. O Manual Orientativo do CFP (2025), na página 35 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 35
+        },
+        {
+          "q": "Na entrega de laudo e relatório, qual providência o manual destaca?",
+          "options": [
+            "Entregar sem possibilidade de esclarecimento",
+            "Exigir publicação do conteúdo integral",
+            "Dispensar qualquer comunicação ao beneficiário",
+            "Realizar ao menos uma entrevista devolutiva"
+          ],
+          "answer": 3,
+          "explanation": "Realizar ao menos uma entrevista devolutiva. O Manual Orientativo do CFP (2025), na página 35 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 35
+        },
+        {
+          "q": "O prazo de validade de um documento psicológico depende de quê?",
+          "options": [
+            "De um prazo universal fixo para todos os documentos",
+            "Da preferência exclusiva do solicitante",
+            "Da finalidade, dos procedimentos e dos fenômenos ou condições avaliados",
+            "Do número de páginas do documento"
+          ],
+          "answer": 2,
+          "explanation": "Da finalidade, dos procedimentos e dos fenômenos ou condições avaliados. O Manual Orientativo do CFP (2025), na página 36 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 36
+        },
+        {
+          "q": "Ao definir validade em avaliação para concurso público, qual limitação deve ser considerada?",
+          "options": [
+            "O resultado vale automaticamente para todas as atividades futuras",
+            "A avaliação pode valer apenas para aquela finalidade específica",
+            "A validade depende só do número de candidatos",
+            "O documento se torna permanente por ser oficial"
+          ],
+          "answer": 1,
+          "explanation": "A avaliação pode valer apenas para aquela finalidade específica. O Manual Orientativo do CFP (2025), na página 36 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 36
+        },
+        {
+          "q": "Qual princípio deve orientar o uso de dados de terceiros no documento?",
+          "options": [
+            "Incluir somente o necessário à finalidade e preservar confidencialidade",
+            "Incluir todo dado recebido, mesmo irrelevante",
+            "Publicar nomes para facilitar conferência",
+            "Priorizar curiosidade do destinatário"
+          ],
+          "answer": 0,
+          "explanation": "Incluir somente o necessário à finalidade e preservar confidencialidade. O Manual Orientativo do CFP (2025), na página 34 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 34
+        },
+        {
+          "q": "Uma escola solicita um documento sobre acompanhamento sem avaliação diagnóstica. Qual cuidado é essencial?",
+          "options": [
+            "Emitir laudo diagnóstico mesmo sem avaliação",
+            "Usar atestado compulsório em qualquer solicitação",
+            "Substituir documento técnico por opinião pessoal",
+            "Selecionar modalidade compatível com o serviço efetivamente realizado"
+          ],
+          "answer": 3,
+          "explanation": "Selecionar modalidade compatível com o serviço efetivamente realizado. O Manual Orientativo do CFP (2025), na página 25 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 25
+        },
+        {
+          "q": "O que deve fundamentar a escolha da modalidade de documento?",
+          "options": [
+            "O modelo mais longo disponível",
+            "A preferência estética do destinatário",
+            "A demanda do solicitante, a finalidade e o serviço efetivamente prestado",
+            "A possibilidade de revelar mais dados pessoais"
+          ],
+          "answer": 2,
+          "explanation": "A demanda do solicitante, a finalidade e o serviço efetivamente prestado. O Manual Orientativo do CFP (2025), na página 25 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 25
+        },
+        {
+          "q": "Qual relação deve existir entre documento psicológico e registros do atendimento?",
+          "options": [
+            "O documento deve ser elaborado sem referência ao atendimento",
+            "O documento deve estar amparado nos registros da prestação do serviço",
+            "O documento substitui retroativamente o registro",
+            "O registro deve ser criado somente se houver reclamação"
+          ],
+          "answer": 1,
+          "explanation": "O documento deve estar amparado nos registros da prestação do serviço. O Manual Orientativo do CFP (2025), na página 25 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 25
+        },
+        {
+          "q": "Uma psicóloga usa registro digital. Qual orientação sobre sigilo e recursos é indicada?",
+          "options": [
+            "Informar ao usuário os recursos adotados e como o sigilo será preservado",
+            "Manter o usuário necessariamente desinformado",
+            "Dispensar medidas de segurança por ser digital",
+            "Usar qualquer serviço público de compartilhamento"
+          ],
+          "answer": 0,
+          "explanation": "Informar ao usuário os recursos adotados e como o sigilo será preservado. O Manual Orientativo do CFP (2025), na página 23 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 23
+        },
+        {
+          "q": "Quando a profissional registra uma fala literal, qual cautela é recomendada?",
+          "options": [
+            "Transcrever todo conteúdo sem avaliação de pertinência",
+            "Incluir falas para substituir análise profissional",
+            "Presumir que a literalidade elimina risco de exposição",
+            "Empregar com parcimônia e justificativa técnica"
+          ],
+          "answer": 3,
+          "explanation": "Empregar com parcimônia e justificativa técnica. O Manual Orientativo do CFP (2025), na página 20 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 20
+        },
+        {
+          "q": "Como deve ser a síntese da prestação de serviços na evolução?",
+          "options": [
+            "Reproduzir integralmente cada palavra do usuário",
+            "Restringir-se a um número fixo de linhas em todos os casos",
+            "Selecionar informações principais e relevantes, sem rigidez mecânica",
+            "Conter somente o título do atendimento"
+          ],
+          "answer": 2,
+          "explanation": "Selecionar informações principais e relevantes, sem rigidez mecânica. O Manual Orientativo do CFP (2025), na página 19 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 19
+        },
+        {
+          "q": "Por que o acesso ao registro documental pode ser mais restrito que ao prontuário?",
+          "options": [
+            "Porque o registro documental não é sigiloso",
+            "Porque certas informações exigem limitação de compartilhamento com usuário ou terceiros",
+            "Porque todo registro deve ser divulgado ao empregador",
+            "Porque prontuários não podem ser solicitados"
+          ],
+          "answer": 1,
+          "explanation": "Porque certas informações exigem limitação de compartilhamento com usuário ou terceiros. O Manual Orientativo do CFP (2025), na página 15 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 15
+        },
+        {
+          "q": "Qual situação exemplifica finalidade legítima de documento psicológico?",
+          "options": [
+            "Comunicar tecnicamente informações necessárias a decisão relacionada ao serviço prestado",
+            "Divulgar detalhes íntimos sem pertinência",
+            "Emitir conclusões sem trabalho profissional",
+            "Substituir todas as avaliações por formulário genérico"
+          ],
+          "answer": 0,
+          "explanation": "Comunicar tecnicamente informações necessárias a decisão relacionada ao serviço prestado. O Manual Orientativo do CFP (2025), na página 25 do PDF, descreve o princípio ou procedimento correspondente. As demais alternativas confundem modalidades, ampliam indevidamente o compartilhamento de dados ou afastam o requisito técnico.",
+          "page": 25
         }
       ]
     },
