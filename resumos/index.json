@@ -75,5 +75,33 @@
     "description": "Resumo estruturado • Parte 2",
     "file": "resumos/entrevistas-2.txt",
     "format": "text"
+  },
+  {
+    "group": "Produção de Documentos — Laudos",
+    "title": "Resumo único",
+    "description": "Resumo estruturado",
+    "file": "resumos/laudos.txt",
+    "format": "text"
+  },
+  {
+    "group": "Resolução CFP nº 001/2009",
+    "title": "Resumo único",
+    "description": "Resumo estruturado",
+    "file": "resumos/resolucao-2009.txt",
+    "format": "text"
+  },
+  {
+    "group": "Resolução CFP nº 06/2019 — Laudo Psicológico",
+    "title": "Resumo único",
+    "description": "Resumo estruturado",
+    "file": "resumos/resolucao-2019.txt",
+    "format": "text"
+  },
+  {
+    "group": "Gaskell (2010) — Entrevistas individuais e em grupo",
+    "title": "Resumo único",
+    "description": "Resumo estruturado",
+    "file": "resumos/gaskell.txt",
+    "format": "text"
   }
 ]
