@@ -26,6 +26,54 @@
           "answer": 1,
           "explanation": "O texto propõe complementar a análise horizontal com a análise individual das entrevistas.",
           "page": 3
+        },
+        {
+          "q": "Como Bardin classifica tradicionalmente as entrevistas?",
+          "options": [
+            "Pelo grau de diretividade",
+            "Pela idade dos participantes",
+            "Pelo número de páginas",
+            "Pela profissão do pesquisador"
+          ],
+          "answer": 0,
+          "explanation": "O texto menciona a classificação pelo grau de diretividade ou não diretividade.",
+          "page": 1
+        },
+        {
+          "q": "O que deve integrar a transcrição de entrevistas segundo o trecho?",
+          "options": [
+            "Apenas respostas objetivas",
+            "Somente palavras-chave",
+            "Hesitações, risos, silêncios e estímulos do entrevistador",
+            "Só a conclusão do entrevistador"
+          ],
+          "answer": 2,
+          "explanation": "Bardin recomenda transcrição integral, incluindo elementos da interação.",
+          "page": 1
+        },
+        {
+          "q": "Qual limitação é atribuída ao uso isolado da frequência temática?",
+          "options": [
+            "Apaga toda possibilidade de comparação",
+            "Pode perder aspectos latentes, contextuais e singulares",
+            "Impede organizar categorias",
+            "Exige sempre entrevistas em grupo"
+          ],
+          "answer": 1,
+          "explanation": "A análise exclusivamente frequencial pode deixar de fora a arquitetura cognitiva e afetiva individual.",
+          "page": 3
+        },
+        {
+          "q": "A análise horizontal permite principalmente identificar:",
+          "options": [
+            "Regularidades e semelhanças entre entrevistas",
+            "Diagnósticos clínicos definitivos",
+            "Somente pausas da fala",
+            "Resultados de exames físicos"
+          ],
+          "answer": 0,
+          "explanation": "O texto destaca sua utilidade para síntese, distanciamento e identificação de constâncias.",
+          "page": 3
         }
       ]
     },
@@ -55,6 +103,54 @@
           "answer": 0,
           "explanation": "O capítulo 4 apresenta modalidades, estrutura e princípios técnicos, éticos e de linguagem.",
           "page": 6
+        },
+        {
+          "q": "Qual seção do manual aborda a elaboração de documentos psicológicos?",
+          "options": [
+            "Capítulo 4",
+            "Somente o apêndice",
+            "Capítulo 1 exclusivamente",
+            "Nenhuma seção"
+          ],
+          "answer": 0,
+          "explanation": "O sumário identifica o capítulo 4 como Documentos Psicológicos.",
+          "page": 6
+        },
+        {
+          "q": "O manual dedica uma seção à guarda e ao acesso de quais materiais?",
+          "options": [
+            "Somente livros acadêmicos",
+            "Prontuários, registros e documentos psicológicos",
+            "Apenas provas de concurso",
+            "Somente contratos comerciais"
+          ],
+          "answer": 1,
+          "explanation": "O capítulo 5 aborda guarda e acesso a prontuários, registros documentais e documentos psicológicos.",
+          "page": 6
+        },
+        {
+          "q": "Qual contexto aparece entre as orientações específicas do manual?",
+          "options": [
+            "Serviços-escolas",
+            "Aviação civil",
+            "Engenharia de tráfego",
+            "Meteorologia"
+          ],
+          "answer": 0,
+          "explanation": "O sumário inclui serviços-escolas e estágio em psicologia entre os contextos específicos.",
+          "page": 7
+        },
+        {
+          "q": "Qual assunto está previsto nos apêndices do manual?",
+          "options": [
+            "Modelos de prontuários e documentos psicológicos",
+            "Receitas culinárias",
+            "Tabelas de impostos",
+            "Projetos arquitetônicos"
+          ],
+          "answer": 0,
+          "explanation": "Os apêndices apresentam modelos de prontuários e documentos psicológicos.",
+          "page": 7
         }
       ]
     },
@@ -83,6 +179,54 @@
           ],
           "answer": 1,
           "explanation": "A apresentação enfatiza padrões éticos de conduta e responsabilidade.",
+          "page": 5
+        },
+        {
+          "q": "Em que ano entrou em vigor o Código de Ética apresentado?",
+          "options": [
+            "1987",
+            "2005",
+            "2009",
+            "2025"
+          ],
+          "answer": 1,
+          "explanation": "A Resolução CFP nº 010/05 prevê vigência em 27 de agosto de 2005.",
+          "page": 4
+        },
+        {
+          "q": "Qual norma anterior foi expressamente revogada pela resolução que aprovou o Código?",
+          "options": [
+            "CFP nº 002/87",
+            "CFP nº 001/2009",
+            "CFP nº 006/2019",
+            "Lei nº 5.766/1971"
+          ],
+          "answer": 0,
+          "explanation": "O art. 3º menciona especialmente a Resolução CFP nº 002/87.",
+          "page": 4
+        },
+        {
+          "q": "Segundo a apresentação, o Código de Ética deve ser visto como:",
+          "options": [
+            "Um conjunto imutável",
+            "Um texto sem relação com a sociedade",
+            "Referência que demanda reflexão diante de transformações sociais",
+            "Um manual de técnicas laboratoriais"
+          ],
+          "answer": 2,
+          "explanation": "O texto ressalta que sociedades e profissões mudam, exigindo reflexão contínua.",
+          "page": 5
+        },
+        {
+          "q": "Qual valor é destacado na apresentação do Código?",
+          "options": [
+            "Respeito aos direitos fundamentais",
+            "Competição comercial acima de tudo",
+            "Sigilo apenas opcional",
+            "Ausência de responsabilidade"
+          ],
+          "answer": 0,
+          "explanation": "A apresentação associa os princípios éticos ao respeito ao sujeito humano e aos direitos fundamentais.",
           "page": 5
         }
       ]
@@ -113,6 +257,54 @@
           "answer": 0,
           "explanation": "Os slides apresentam pré-análise, codificação temática, categorização e inferência.",
           "page": 6
+        },
+        {
+          "q": "Na atividade da aula, o que fazer com fragmentos de sentido semelhante?",
+          "options": [
+            "Agrupá-los",
+            "Descartá-los automaticamente",
+            "Separá-los sempre",
+            "Transformá-los em diagnósticos"
+          ],
+          "answer": 0,
+          "explanation": "A orientação do slide é reunir fragmentos com sentidos semelhantes.",
+          "page": 4
+        },
+        {
+          "q": "Qual procedimento vem depois da codificação temática na sequência dos slides?",
+          "options": [
+            "Categorização",
+            "Aplicação de medicação",
+            "Exclusão dos dados",
+            "Amostragem aleatória"
+          ],
+          "answer": 0,
+          "explanation": "Os slides apresentam pré-análise, codificação, categorização e inferência.",
+          "page": 8
+        },
+        {
+          "q": "Na atividade sobre previsões, criar apenas um tema por semana é:",
+          "options": [
+            "O procedimento recomendado",
+            "Considerado incorreto no exercício",
+            "Obrigatório para inferência",
+            "Uma forma de entrevista clínica"
+          ],
+          "answer": 1,
+          "explanation": "O slide instrui a identificar múltiplos temas e adverte contra um tema por semana.",
+          "page": 4
+        },
+        {
+          "q": "Qual etapa envolve interpretação em função dos dados disponíveis?",
+          "options": [
+            "Inferência",
+            "Escolha de signo",
+            "Descarte de todas as falas",
+            "Aplicação de escala clínica"
+          ],
+          "answer": 0,
+          "explanation": "O slide descreve inferência a partir dos dados organizados.",
+          "page": 9
         }
       ]
     },
@@ -141,6 +333,30 @@
           ],
           "answer": 0,
           "explanation": "A página 3 do arquivo apresenta a seção Preparação e planejamento.",
+          "page": 3
+        },
+        {
+          "q": "Qual é a unidade temática central do texto de Gaskell fornecido?",
+          "options": [
+            "Entrevistas individuais e em grupo",
+            "Exames laboratoriais",
+            "Laudos contábeis",
+            "Psicofarmacologia"
+          ],
+          "answer": 0,
+          "explanation": "O material fornecido é dedicado às entrevistas individuais e grupais.",
+          "page": 1
+        },
+        {
+          "q": "Qual etapa é explicitamente nomeada no início do texto de Gaskell?",
+          "options": [
+            "Preparação e planejamento",
+            "Internação hospitalar",
+            "Aplicação de vacinas",
+            "Correção de testes motores"
+          ],
+          "answer": 0,
+          "explanation": "A seção inicial do PDF é intitulada Preparação e planejamento.",
           "page": 3
         }
       ]
@@ -171,6 +387,54 @@
           "answer": 2,
           "explanation": "O art. 4º, §1º, prevê período mínimo de cinco anos, com possíveis ampliações.",
           "page": 2
+        },
+        {
+          "q": "Quem deve manter o registro documental atualizado e organizado?",
+          "options": [
+            "O psicólogo que acompanha o procedimento",
+            "Qualquer visitante",
+            "Apenas o paciente",
+            "Somente a imprensa"
+          ],
+          "answer": 0,
+          "explanation": "O art. 1º, §2º, atribui essa responsabilidade ao psicólogo.",
+          "page": 1
+        },
+        {
+          "q": "Em serviços-escola, o registro deve contemplar:",
+          "options": [
+            "Identificação e assinatura do supervisor responsável e do estagiário",
+            "Apenas o nome da instituição",
+            "Somente o endereço do usuário",
+            "Nenhuma assinatura"
+          ],
+          "answer": 0,
+          "explanation": "O art. 3º prevê identificação e assinatura do responsável técnico/supervisor e do estagiário.",
+          "page": 2
+        },
+        {
+          "q": "O prazo mínimo de guarda de cinco anos pode ser:",
+          "options": [
+            "Ampliado nas situações previstas",
+            "Reduzido livremente para um mês",
+            "Ignorado em qualquer caso",
+            "Substituído por publicação aberta"
+          ],
+          "answer": 0,
+          "explanation": "O art. 4º, §1º, prevê possibilidade de ampliação do período.",
+          "page": 2
+        },
+        {
+          "q": "No serviço multiprofissional, o registro deve ser feito:",
+          "options": [
+            "Em prontuário único, com informações necessárias aos objetivos do trabalho",
+            "Em rede social aberta",
+            "Sem qualquer registro",
+            "Somente por mensagem informal"
+          ],
+          "answer": 0,
+          "explanation": "O art. 6º prevê prontuário único e registro apenas do necessário.",
+          "page": 3
         }
       ]
     },
@@ -199,6 +463,54 @@
           ],
           "answer": 0,
           "explanation": "Os slides incluem identificação, descrição da demanda, procedimento, análise e conclusão.",
+          "page": 5
+        },
+        {
+          "q": "Qual documento, segundo os slides, é utilizado para responder questionamentos técnicos?",
+          "options": [
+            "Parecer",
+            "Recibo",
+            "Atestado de matrícula",
+            "Cartaz"
+          ],
+          "answer": 0,
+          "explanation": "O quadro de modalidades associa o parecer à resposta a questionamentos.",
+          "page": 2
+        },
+        {
+          "q": "Na estrutura do laudo, qual seção contextualiza o motivo da avaliação?",
+          "options": [
+            "Descrição da demanda",
+            "Inventário de materiais",
+            "Publicidade",
+            "Índice financeiro"
+          ],
+          "answer": 0,
+          "explanation": "O esquema dos slides relaciona a compreensão da demanda à descrição da demanda.",
+          "page": 5
+        },
+        {
+          "q": "A integração dos resultados corresponde, no esquema apresentado, à etapa de:",
+          "options": [
+            "Análise",
+            "Identificação",
+            "Recebimento da queixa",
+            "Título"
+          ],
+          "answer": 0,
+          "explanation": "O fluxograma associa correção/análise e integração de resultados à análise.",
+          "page": 5
+        },
+        {
+          "q": "Qual é a etapa final da estrutura de laudo apresentada nos slides?",
+          "options": [
+            "Conclusão",
+            "Identificação",
+            "Descrição da demanda",
+            "Planejamento inicial"
+          ],
+          "answer": 0,
+          "explanation": "O esquema termina na formulação de conclusões.",
           "page": 5
         }
       ]
