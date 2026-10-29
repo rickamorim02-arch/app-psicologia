@@ -1946,6 +1946,126 @@
           "answer": 2,
           "explanation": "Intermediários entre a teoria do analista e as unidades verbais brutas. Conforme o exemplo e os princípios apresentados por Bardin na página 63 do PDF, a análise depende de critérios coerentes com o material e os objetivos.",
           "page": 63
+        },
+        {
+          "q": "No exemplo de necessidade de realização, o que indica o estudante que insiste após um fracasso?",
+          "options": [
+            "A inexistência de qualquer objetivo",
+            "A eliminação de todo conflito narrativo",
+            "A impossibilidade de classificar frases",
+            "Uma representação de sucesso que inclui perseverança"
+          ],
+          "answer": 3,
+          "explanation": "Uma representação de sucesso que inclui perseverança. Bardin discute esse aspecto na página 67 do PDF, articulando categorias, indicadores e limites das inferências.",
+          "page": 67
+        },
+        {
+          "q": "Qual é a finalidade do IID citado por Bardin?",
+          "options": [
+            "Identificar pessoas mencionadas segundo sua relação com o locutor",
+            "Medir exclusivamente a extensão de frases",
+            "Classificar apenas jornais por tiragem",
+            "Contabilizar somente adjetivos positivos"
+          ],
+          "answer": 0,
+          "explanation": "Identificar pessoas mencionadas segundo sua relação com o locutor. Bardin discute esse aspecto na página 68 do PDF, articulando categorias, indicadores e limites das inferências.",
+          "page": 68
+        },
+        {
+          "q": "O que distingue o TTD no estudo da interação terapêutica?",
+          "options": [
+            "Classifica somente sintomas físicos do terapeuta",
+            "Reúne listas para termos funcionais, termos táticos e tipos globais de frase",
+            "Registra exclusivamente a duração das sessões",
+            "Dispensa toda referência às intervenções verbais"
+          ],
+          "answer": 1,
+          "explanation": "Reúne listas para termos funcionais, termos táticos e tipos globais de frase. Bardin discute esse aspecto na página 68 do PDF, articulando categorias, indicadores e limites das inferências.",
+          "page": 68
+        },
+        {
+          "q": "Quais polos podem orientar a inferência na análise de conteúdo?",
+          "options": [
+            "Somente o tamanho do arquivo",
+            "Apenas a idade do pesquisador",
+            "Emissor, receptor, mensagem e suporte ou canal",
+            "Exclusivamente a contagem de páginas"
+          ],
+          "answer": 2,
+          "explanation": "Emissor, receptor, mensagem e suporte ou canal. Bardin discute esse aspecto na página 69 do PDF, articulando categorias, indicadores e limites das inferências.",
+          "page": 69
+        },
+        {
+          "q": "Por que a mensagem pode informar sobre o receptor?",
+          "options": [
+            "Porque todo receptor é idêntico ao emissor",
+            "Porque o destinatário nunca influencia a comunicação",
+            "Porque toda mensagem revela diretamente uma doença",
+            "Porque pode ser formulada para agir sobre ele ou adaptar-se ao público"
+          ],
+          "answer": 3,
+          "explanation": "Porque pode ser formulada para agir sobre ele ou adaptar-se ao público. Bardin discute esse aspecto na página 70 do PDF, articulando categorias, indicadores e limites das inferências.",
+          "page": 70
+        },
+        {
+          "q": "No polo do código, que tipo de índice pode ser examinado?",
+          "options": [
+            "Vocabulário, comprimento das frases e recursos retóricos",
+            "Somente o preço de impressão",
+            "Apenas o número de entrevistadores",
+            "Exclusivamente a localização geográfica do leitor"
+          ],
+          "answer": 0,
+          "explanation": "Vocabulário, comprimento das frases e recursos retóricos. Bardin discute esse aspecto na página 71 do PDF, articulando categorias, indicadores e limites das inferências.",
+          "page": 71
+        },
+        {
+          "q": "Como Bardin caracteriza o medium na comunicação?",
+          "options": [
+            "A intenção secreta do receptor",
+            "O canal ou suporte material por meio do qual circula o código",
+            "A hipótese estatística da análise",
+            "A categoria psicológica do emissor"
+          ],
+          "answer": 1,
+          "explanation": "O canal ou suporte material por meio do qual circula o código. Bardin discute esse aspecto na página 72 do PDF, articulando categorias, indicadores e limites das inferências.",
+          "page": 72
+        },
+        {
+          "q": "Qual cautela se aplica à inferência a partir de indicadores verbais?",
+          "options": [
+            "Qualquer correlação lexical vale universalmente",
+            "A presença de um pronome confirma diagnóstico",
+            "A relação entre indicador e variável inferida exige exame de validade contextual",
+            "Toda inferência é uma previsão certa de comportamento"
+          ],
+          "answer": 2,
+          "explanation": "A relação entre indicador e variável inferida exige exame de validade contextual. Bardin discute esse aspecto na página 73 do PDF, articulando categorias, indicadores e limites das inferências.",
+          "page": 73
+        },
+        {
+          "q": "Por que inferências sobre os efeitos da comunicação podem exigir técnicas complementares?",
+          "options": [
+            "Porque o texto nunca fornece nenhum dado",
+            "Porque os resultados dispensam validação externa",
+            "Porque todos os receptores respondem igualmente",
+            "Porque a análise da mensagem isolada pode não sustentar conclusões válidas sobre recepção e efeitos"
+          ],
+          "answer": 3,
+          "explanation": "Porque a análise da mensagem isolada pode não sustentar conclusões válidas sobre recepção e efeitos. Bardin discute esse aspecto na página 75 do PDF, articulando categorias, indicadores e limites das inferências.",
+          "page": 75
+        },
+        {
+          "q": "Em que situações Bardin aponta utilidade especial do computador?",
+          "options": [
+            "Contagens frequenciais, coocorrências e tratamento de muitas variáveis",
+            "Apenas interpretação automática de qualquer implícito",
+            "Somente entrevistas com uma frase",
+            "Exclusivamente substituição da definição teórica"
+          ],
+          "answer": 0,
+          "explanation": "Contagens frequenciais, coocorrências e tratamento de muitas variáveis. Bardin discute esse aspecto na página 79 do PDF, articulando categorias, indicadores e limites das inferências.",
+          "page": 79
         }
       ]
     },
