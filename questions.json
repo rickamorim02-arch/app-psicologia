@@ -1226,6 +1226,126 @@
           "answer": 0,
           "explanation": "Bardin apresenta como resposta adequada: construção de descrições em árvore com regras e exploração textual. Consulte a página 93 do PDF enviado para o desenvolvimento do conceito ou exemplo.",
           "page": 93
+        },
+        {
+          "q": "Por que a contagem de temas em todas as entrevistas pode ser insuficiente?",
+          "options": [
+            "Porque pode ocultar sentidos singulares e conteúdos latentes",
+            "Porque nenhum tema se repete entre entrevistas",
+            "Porque impede a transcrição dos relatos",
+            "Porque elimina a necessidade de amostragem"
+          ],
+          "answer": 0,
+          "explanation": "Porque pode ocultar sentidos singulares e conteúdos latentes. Essa interpretação decorre da discussão de Bardin sobre a análise estrutural, temática e sequencial de entrevistas, na página 3 do PDF. As demais opções desconsideram o contexto e a organização do discurso.",
+          "page": 3
+        },
+        {
+          "q": "O que a decifração estrutural procura em uma entrevista?",
+          "options": [
+            "Apenas a frequência de cada palavra",
+            "A lógica interna e o encadeamento particular da fala",
+            "Uma conclusão diagnóstica previamente definida",
+            "A duração da gravação sem considerar seu conteúdo"
+          ],
+          "answer": 1,
+          "explanation": "A lógica interna e o encadeamento particular da fala. Essa interpretação decorre da discussão de Bardin sobre a análise estrutural, temática e sequencial de entrevistas, na página 3 do PDF. As demais opções desconsideram o contexto e a organização do discurso.",
+          "page": 3
+        },
+        {
+          "q": "Na abordagem ad hoc, como são mobilizados os recursos interpretativos?",
+          "options": [
+            "Mediante aplicação obrigatória de uma única teoria",
+            "Sem leitura prévia da entrevista",
+            "Com flexibilidade, segundo as características do material verbal",
+            "Por sorteio de categorias"
+          ],
+          "answer": 2,
+          "explanation": "Com flexibilidade, segundo as características do material verbal. Essa interpretação decorre da discussão de Bardin sobre a análise estrutural, temática e sequencial de entrevistas, na página 4 do PDF. As demais opções desconsideram o contexto e a organização do discurso.",
+          "page": 4
+        },
+        {
+          "q": "A referência à empatia de Rogers aproxima a análise de qual postura?",
+          "options": [
+            "Aceitar qualquer fala como prova estatística",
+            "Abandonar a análise das contradições",
+            "Substituir interpretação por diagnóstico automático",
+            "Compreender o discurso a partir do mundo subjetivo do entrevistado"
+          ],
+          "answer": 3,
+          "explanation": "Compreender o discurso a partir do mundo subjetivo do entrevistado. Essa interpretação decorre da discussão de Bardin sobre a análise estrutural, temática e sequencial de entrevistas, na página 4 do PDF. As demais opções desconsideram o contexto e a organização do discurso.",
+          "page": 4
+        },
+        {
+          "q": "O que significa a metáfora de urdidura e trama aplicada à entrevista?",
+          "options": [
+            "Temas reaparecem ao longo da progressão do pensamento",
+            "Cada tema ocorre uma única vez",
+            "Os temas são sempre expostos em ordem alfabética",
+            "O relato não possui conexões internas"
+          ],
+          "answer": 0,
+          "explanation": "Temas reaparecem ao longo da progressão do pensamento. Essa interpretação decorre da discussão de Bardin sobre a análise estrutural, temática e sequencial de entrevistas, na página 5 do PDF. As demais opções desconsideram o contexto e a organização do discurso.",
+          "page": 5
+        },
+        {
+          "q": "Por que as primeiras frases de entrevista não diretiva podem ser importantes?",
+          "options": [
+            "Porque contêm obrigatoriamente toda a conclusão",
+            "Porque ajudam a reconhecer a organização inicial do discurso",
+            "Porque devem ser descartadas como aquecimento",
+            "Porque substituem a análise do restante da entrevista"
+          ],
+          "answer": 1,
+          "explanation": "Porque ajudam a reconhecer a organização inicial do discurso. Essa interpretação decorre da discussão de Bardin sobre a análise estrutural, temática e sequencial de entrevistas, na página 5 do PDF. As demais opções desconsideram o contexto e a organização do discurso.",
+          "page": 5
+        },
+        {
+          "q": "Qual pergunta auxilia a leitura analítica proposta por Bardin?",
+          "options": [
+            "Qual é a maior palavra da transcrição?",
+            "Qual resposta agrada mais ao pesquisador?",
+            "Como a pessoa diz algo e o que pode deixar implícito?",
+            "Quantas vírgulas existem por minuto?"
+          ],
+          "answer": 2,
+          "explanation": "Como a pessoa diz algo e o que pode deixar implícito?. Essa interpretação decorre da discussão de Bardin sobre a análise estrutural, temática e sequencial de entrevistas, na página 6 do PDF. As demais opções desconsideram o contexto e a organização do discurso.",
+          "page": 6
+        },
+        {
+          "q": "No exemplo das férias, a ausência de pressa e obrigações expressa qual tema?",
+          "options": [
+            "Subordinação ao trabalho",
+            "Planejamento de produtividade",
+            "Controle institucional",
+            "Ausência de constrangimentos"
+          ],
+          "answer": 3,
+          "explanation": "Ausência de constrangimentos. Essa interpretação decorre da discussão de Bardin sobre a análise estrutural, temática e sequencial de entrevistas, na página 8 do PDF. As demais opções desconsideram o contexto e a organização do discurso.",
+          "page": 8
+        },
+        {
+          "q": "Que movimento afetivo aparece no relato das férias?",
+          "options": [
+            "Da idealização inicial à emergência de angústia e pânico",
+            "Da ansiedade inicial à ausência de emoções",
+            "Da neutralidade inicial a dados exclusivamente numéricos",
+            "Da tristeza inicial a uma avaliação clínica formal"
+          ],
+          "answer": 0,
+          "explanation": "Da idealização inicial à emergência de angústia e pânico. Essa interpretação decorre da discussão de Bardin sobre a análise estrutural, temática e sequencial de entrevistas, na página 9 do PDF. As demais opções desconsideram o contexto e a organização do discurso.",
+          "page": 9
+        },
+        {
+          "q": "Qual critério semântico ajuda a separar sequências de entrevista?",
+          "options": [
+            "A quantidade fixa de caracteres",
+            "A organização de um trecho em torno de tema dominante",
+            "A troca obrigatória de entrevistador",
+            "A ordem alfabética das expressões"
+          ],
+          "answer": 1,
+          "explanation": "A organização de um trecho em torno de tema dominante. Essa interpretação decorre da discussão de Bardin sobre a análise estrutural, temática e sequencial de entrevistas, na página 9 do PDF. As demais opções desconsideram o contexto e a organização do discurso.",
+          "page": 9
         }
       ]
     },
