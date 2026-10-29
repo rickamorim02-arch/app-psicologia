@@ -1,8 +1,124 @@
-Resumo estruturado: Produção de Documentos — Laudos
+1. Tipos de Documentos Psicológicos e Suas Finalidades (Res. CFP nº
+006/2019)
 
-1. Tipos de documentos psicológicos: declaração, atestado, relatório, laudo e parecer.
-2. Etapas da avaliação psicológica: compreensão da demanda, plano de trabalho, execução, análise de dados, integração de resultados e conclusão.
-3. Estrutura do laudo: identificação, descrição da demanda, procedimento, análise, conclusão e referências.
-4. Coerência interna: os procedimentos devem responder à demanda, a análise deve considerar os dados obtidos e a conclusão deve decorrer da análise.
+   ●​ Atestado: Destina-se a justificar faltas e ausências ou apresentar os resultados
+      de avaliações compulsórias (indicação de Apto ou Não Apto).
+   ●​ Declaração: Visa afirmar que determinadas informações são certas e
+      verdadeiras.
+   ●​ Parecer: Destinado a responder a questionamentos técnicos, uma vez
+      confirmada a capacitação profissional para tal fim.
+   ●​ Relatório: Utilizado para a comunicação entre profissionais.
+   ●​ Laudo: Voltado para a apresentação dos resultados de uma investigação
+      psicológica e a descrição detalhada do processo.
 
-Este é um resumo provisório. Consulte o PDF original para todos os detalhes.
+
+
+
+2. Etapas Típicas da Avaliação Psicológica
+
+A execução de um processo avaliativo segue seis fases encadeadas:
+
+   1.​ Compreensão da demanda.
+   2.​ Criação de um plano de trabalho.
+   3.​ Execução do plano de trabalho.
+   4.​ Correção/análise dos dados.
+   5.​ Integração dos resultados.
+   6.​ Formulação de conclusões.
+
+
+
+
+3. Seções Obrigatórias do Laudo Psicológico
+
+I. Identificação
+
+   ●​ Título: Deve figurar como "Laudo Psicológico", centralizado no topo da página e
+      preferencialmente em caixa alta.
+   ●​ Nome da pessoa ou instituição atendida: Identificação por nome completo ou
+      nome social. Outras informações sociodemográficas só devem constar quando
+      forem necessárias para contextualizar a demanda ou condicionar a conclusão.
+   ●​ Nome do solicitante: Identificação de quem pediu o documento (pessoa física ou
+      instituição), estabelecendo a diferenciação entre cliente e sujeito/paciente.
+   ●​ Finalidade: Descrição do motivo do pedido (ex.: ser levado a algum órgão, permitir
+      acesso a serviço/direito ou subsidiar tomada de decisão).
+   ●​ Nome do(a) autor(a): Nome completo acompanhado do número de CRP de todos
+      os autores.
+
+II. Descrição da Demanda
+
+   ●​ Motivação: Apresentação dos fatos que motivaram a busca pelo trabalho prestado.
+   ●​ Mapeamento de Questões: Indicação das perguntas a serem respondidas,
+      contextualização das informações solicitadas e identificação de quem as forneceu.
+   ●​ Fundamentação: Os dados informados nesta seção precisam ser suficientes para
+      justificar os instrumentos e técnicas adotados na etapa seguinte.
+
+III. Procedimento
+
+   ●​ Detalhamento dos Meios: Apresentação e justificativa de tudo o que foi realizado,
+      com base na demanda, no referencial teórico, na legislação e em outros
+      condicionantes.
+   ●​ Registro de Execução: Descrição de quem foi ouvido/observado, quando e
+      quantas vezes. Os procedimentos escolhidos devem ser necessários e suficientes
+      para atender às particularidades do caso.
+   ●​ Caráter de Auditoria: Trata-se de uma seção estritamente metodológica; os
+      resultados das técnicas e instrumentos não devem ser relatados nesta fase.
+
+IV. Análise
+
+   ●​ Organização dos Achados: Apresentação organizada dos dados colhidos no
+      procedimento, mantendo estrita coerência com a finalidade, a demanda, o corpo
+      teórico e os dados obtidos.
+   ●​ Sigilo e Ética: Não pode conter descrições literais dos atendimentos ou
+      sessões, exceto quando houver fundamentação ou ganho técnico comprovado
+      nessa exposição.
+   ●​ Limitação Temática: Relata-se exclusivamente o que for necessário para responder
+      à demanda formulada.
+
+V. Conclusão
+
+   ●​ Resposta Direta: Apresentação da resposta à demanda com base nos dados
+      analisados.
+   ●​ Componentes na Avaliação Clínica / Psicodiagnóstico:
+          ○​ Diagnóstico / Hipótese Diagnóstica: Situação apurada sobre a condição
+             abordada na demanda.
+          ○​ Prognóstico: Projeção do que pode vir a ocorrer caso nenhuma intervenção
+             seja realizada.
+          ○​ Orientações: Recomendações e caminhos para resolver o problema,
+             maximizando resultados positivos e minimizando impactos negativos.
+   ●​ Disposições Facultativas: Possibilidade de ressaltar a vedação de uso para fins
+      alheios aos indicados, o caráter sigiloso e extrajudicial do documento, e a isenção de
+      responsabilidade pelo uso indevido do laudo após a entrega na entrevista devolutiva.
+
+VI. Referências Bibliográficas
+
+   ●​ Obrigatoriedade: A Resolução CFP nº 006/2019 (Art. 13, §7º) estabelece como
+      obrigatória a indicação das fontes científicas e referências bibliográficas,
+      preferencialmente em nota de rodapé.
+   ●​ Formatos Aceitos: Devem seguir normas reconhecidas internacionalmente, como
+      APA ou ABNT.
+
+
+
+
+4. Relações Internas e A Lógica das "Promessas"
+
+O laudo psicológico estabelece uma equivalência direta com a estrutura do método
+científico:
+
+   ●​ Identificação / Descrição da Demanda = Introdução (Definição do problema e
+      identificação das variáveis).
+   ●​ Procedimento = Método (Descrição dos instrumentos e procedimentos).
+   ●​ Análise = Resultados (Apresentação e organização dos dados obtidos).
+   ●​ Conclusão = Conclusão (O que foi compreendido a partir da investigação).
+
+Compromissos de Coerência Interna:
+
+   ●​ A Identificação e a Descrição da Demanda prometem o escopo e as perguntas
+      que serão respondidas ao final da investigação.
+   ●​ O Procedimento apresenta os meios e instrumentos prometidos para responder à
+      demanda.
+   ●​ A Análise cumpre o compromisso do procedimento: só pode analisar o que foi
+      descrito no procedimento, e tudo o que foi descrito no procedimento precisa
+      ser analisado.
+   ●​ A Conclusão cumpre o compromisso da demanda: só pode concluir sobre o que
+      foi efetivamente analisado.
