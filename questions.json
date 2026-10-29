@@ -560,6 +560,174 @@
           "answer": 0,
           "explanation": "O esquema termina na formulação de conclusões.",
           "page": 5
+        },
+        {
+          "q": "Segundo os slides, qual é a finalidade principal do atestado psicológico?",
+          "options": [
+            "Comunicar resultados de investigação extensa",
+            "Justificar faltas e ausências ou registrar resultado de avaliações compulsórias",
+            "Responder questionamentos técnicos",
+            "Descrever detalhadamente todas as sessões"
+          ],
+          "answer": 1,
+          "explanation": "O quadro associa o atestado à justificativa de faltas e ausências e aos resultados de avaliações compulsórias.",
+          "page": 2
+        },
+        {
+          "q": "Qual documento é indicado nos slides para comunicação entre profissionais?",
+          "options": [
+            "Relatório",
+            "Declaração",
+            "Atestado",
+            "Recibo"
+          ],
+          "answer": 0,
+          "explanation": "A tabela de modalidades aponta o relatório como instrumento de comunicação entre profissionais.",
+          "page": 2
+        },
+        {
+          "q": "Na sequência da avaliação psicológica, o que antecede a criação de um plano de trabalho?",
+          "options": [
+            "Integração dos resultados",
+            "Compreensão da demanda",
+            "Formulação de conclusões",
+            "Entrega do laudo"
+          ],
+          "answer": 1,
+          "explanation": "O fluxograma apresenta recebimento da queixa, compreensão da demanda e criação do plano de trabalho.",
+          "page": 5
+        },
+        {
+          "q": "No item Identificação, qual título é recomendado?",
+          "options": [
+            "Relatório Administrativo",
+            "Laudo Psicológico",
+            "Ficha Financeira",
+            "Parecer Judicial"
+          ],
+          "answer": 1,
+          "explanation": "O slide recomenda o título 'Laudo Psicológico', centralizado no topo da página.",
+          "page": 7
+        },
+        {
+          "q": "Na Identificação, como devem ser apresentados os autores do laudo?",
+          "options": [
+            "Apenas com prenome",
+            "Nome completo e CRP de todos os autores",
+            "Somente com assinatura eletrônica",
+            "Somente com o nome da instituição"
+          ],
+          "answer": 1,
+          "explanation": "O slide indica nome completo e número de CRP de todos os autores.",
+          "page": 7
+        },
+        {
+          "q": "Qual informação pertence à descrição da demanda?",
+          "options": [
+            "Quem forneceu as informações que motivaram o documento",
+            "Os resultados brutos de cada teste",
+            "Uma transcrição integral de todas as sessões",
+            "A conclusão final da investigação"
+          ],
+          "answer": 0,
+          "explanation": "A descrição da demanda contextualiza perguntas e identifica quem forneceu informações e demandas.",
+          "page": 8
+        },
+        {
+          "q": "A descrição da demanda deve ser suficiente para fundamentar:",
+          "options": [
+            "Os instrumentos e técnicas apresentados na etapa seguinte",
+            "A remuneração do psicólogo",
+            "A publicidade da clínica",
+            "A lista de referências apenas"
+          ],
+          "answer": 0,
+          "explanation": "O slide explicita que a descrição da demanda fundamenta a escolha de instrumentos e técnicas.",
+          "page": 8
+        },
+        {
+          "q": "Na seção Procedimento, qual conjunto de informações deve ser descrito?",
+          "options": [
+            "Quem foi ouvido ou observado, quando e quantas vezes",
+            "Apenas o diagnóstico final",
+            "A opinião do solicitante sem contexto",
+            "Somente a conclusão"
+          ],
+          "answer": 0,
+          "explanation": "O slide solicita a descrição de quem foi ouvido/observado, quando e quantas vezes.",
+          "page": 9
+        },
+        {
+          "q": "O que os slides orientam a NÃO apresentar na seção Procedimento?",
+          "options": [
+            "Fundamentação do trabalho",
+            "Técnicas utilizadas",
+            "Resultados das técnicas e instrumentos",
+            "Quantidade de encontros"
+          ],
+          "answer": 2,
+          "explanation": "O slide informa que resultados das técnicas e instrumentos não devem ser relatados no capítulo Procedimento.",
+          "page": 9
+        },
+        {
+          "q": "A análise dos dados deve ser coerente com quais elementos?",
+          "options": [
+            "Finalidade, demanda, corpo teórico e dados obtidos",
+            "Somente a preferência do solicitante",
+            "Apenas a duração do atendimento",
+            "Exclusivamente a identificação"
+          ],
+          "answer": 0,
+          "explanation": "O slide da Análise exige coerência com finalidade, demanda, teoria e dados obtidos.",
+          "page": 10
+        },
+        {
+          "q": "Qual cuidado ético é indicado para a seção Análise?",
+          "options": [
+            "Relatar todos os detalhes das sessões",
+            "Incluir apenas o necessário para responder à demanda",
+            "Divulgar todas as falas literalmente",
+            "Omitir a fundamentação técnica"
+          ],
+          "answer": 1,
+          "explanation": "O slide orienta relatar somente o necessário, evitando descrições literais sem justificativa.",
+          "page": 10
+        },
+        {
+          "q": "No psicodiagnóstico, qual conjunto pode integrar a Conclusão?",
+          "options": [
+            "Diagnóstico ou hipótese, prognóstico e orientações",
+            "Somente datas de atendimento",
+            "Apenas referências bibliográficas",
+            "Lista de procedimentos sem interpretação"
+          ],
+          "answer": 0,
+          "explanation": "O slide prevê indicação fundamentada de diagnóstico/hipótese, prognóstico e orientações.",
+          "page": 11
+        },
+        {
+          "q": "Segundo o slide sobre referências, o art. 13, §7º, da Resolução CFP 006/2019 exige:",
+          "options": [
+            "Informação das fontes científicas ou referências bibliográficas utilizadas",
+            "Somente a assinatura do solicitante",
+            "A publicação integral das sessões",
+            "A omissão de referências"
+          ],
+          "answer": 0,
+          "explanation": "O slide reproduz a obrigatoriedade de informar fontes científicas ou referências bibliográficas, preferencialmente em nota de rodapé.",
+          "page": 13
+        },
+        {
+          "q": "Nas relações internas do laudo, qual afirmação expressa a coerência entre análise e conclusão?",
+          "options": [
+            "Pode-se concluir sobre qualquer hipótese não investigada",
+            "Só se pode concluir sobre o que foi analisado",
+            "A conclusão substitui os procedimentos",
+            "A identificação deve trazer todos os resultados"
+          ],
+          "answer": 1,
+          "explanation": "O esquema estabelece que a conclusão se restringe ao que foi analisado.",
+          "page": 14
         }
       ]
     }
