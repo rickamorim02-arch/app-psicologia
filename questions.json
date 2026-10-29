@@ -74,6 +74,294 @@
           "answer": 0,
           "explanation": "O texto destaca sua utilidade para síntese, distanciamento e identificação de constâncias.",
           "page": 3
+        },
+        {
+          "q": "Como Bardin diferencia entrevistas não diretivas e semidiretivas?",
+          "options": [
+            "Pelo grau de diretividade e profundidade do material verbal",
+            "Pela nacionalidade dos participantes",
+            "Pela quantidade de tabelas",
+            "Pela obrigação de aplicar testes"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 1 do PDF, sobre como bardin diferencia entrevistas não diretivas e semidiretivas.",
+          "page": 1
+        },
+        {
+          "q": "O que Bardin recomenda registrar na transcrição das entrevistas?",
+          "options": [
+            "Apenas as frases gramaticalmente corretas",
+            "Somente as respostas afirmativas",
+            "Hesitações, risos, silêncios e estímulos do entrevistador",
+            "Somente as palavras mais frequentes"
+          ],
+          "answer": 2,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 1 do PDF, sobre o que bardin recomenda registrar na transcrição das entrevistas.",
+          "page": 1
+        },
+        {
+          "q": "Por que o discurso de entrevista é considerado complexo?",
+          "options": [
+            "Porque não contém subjetividade",
+            "Porque reúne sentidos, emoções, digressões e contradições",
+            "Porque todos usam as mesmas palavras",
+            "Porque elimina ambiguidades"
+          ],
+          "answer": 1,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 2 do PDF, sobre por que o discurso de entrevista é considerado complexo.",
+          "page": 2
+        },
+        {
+          "q": "Qual paradoxo Bardin identifica na análise de múltiplas entrevistas?",
+          "options": [
+            "Preservar a singularidade individual e produzir síntese social",
+            "Usar somente dados numéricos e evitar textos",
+            "Ignorar a fala e estudar gestos",
+            "Reduzir a duração de cada entrevista"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 2 do PDF, sobre qual paradoxo bardin identifica na análise de múltiplas entrevistas.",
+          "page": 2
+        },
+        {
+          "q": "Qual limitação de uma análise exclusivamente temática e frequencial é destacada?",
+          "options": [
+            "Não permite contar ocorrências",
+            "Pode apagar significados latentes, contexto e organização singular",
+            "Impede identificar qualquer regularidade",
+            "Elimina a necessidade de categorias"
+          ],
+          "answer": 1,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 3 do PDF, sobre qual limitação de uma análise exclusivamente temática e frequencial é destacada.",
+          "page": 3
+        },
+        {
+          "q": "Qual é a função da análise horizontal ou transversal?",
+          "options": [
+            "Eliminar diferenças individuais",
+            "Substituir toda leitura das entrevistas",
+            "Identificar constâncias, semelhanças e regularidades entre entrevistas",
+            "Reproduzir integralmente cada entrevista"
+          ],
+          "answer": 2,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 3 do PDF, sobre qual é a função da análise horizontal ou transversal.",
+          "page": 3
+        },
+        {
+          "q": "O que caracteriza a decifração estrutural?",
+          "options": [
+            "Exame da lógica interna de cada entrevista",
+            "Contagem isolada de palavras em todo o corpus",
+            "Ordenação alfabética dos entrevistados",
+            "Escolha de respostas previamente certas"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 3 do PDF, sobre o que caracteriza a decifração estrutural.",
+          "page": 3
+        },
+        {
+          "q": "Na decifração estrutural, qual atitude Bardin valoriza?",
+          "options": [
+            "Projetar sempre uma teoria pronta sobre cada fala",
+            "Compreender a fala a partir de sua lógica interna com abertura e flexibilidade",
+            "Desconsiderar a singularidade do entrevistado",
+            "Ignorar o contexto do discurso"
+          ],
+          "answer": 1,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 4 do PDF, sobre na decifração estrutural, qual atitude bardin valoriza.",
+          "page": 4
+        },
+        {
+          "q": "Qual é a importância da organização subjacente ao discurso?",
+          "options": [
+            "Ela revela uma dinâmica afetiva e cognitiva própria do entrevistado",
+            "Ela elimina toda contradição",
+            "Ela demonstra que os entrevistados são intercambiáveis",
+            "Ela torna dispensável a leitura"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 4 do PDF, sobre qual é a importância da organização subjacente ao discurso.",
+          "page": 4
+        },
+        {
+          "q": "Por que as primeiras frases de uma entrevista não diretiva merecem atenção?",
+          "options": [
+            "Porque podem revelar precocemente a estruturação temática pessoal",
+            "Porque sempre são estatisticamente representativas",
+            "Porque substituem todo o restante da entrevista",
+            "Porque não apresentam estereótipos"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 5 do PDF, sobre por que as primeiras frases de uma entrevista não diretiva merecem atenção.",
+          "page": 5
+        },
+        {
+          "q": "Qual procedimento prático é sugerido para marcar e comparar temas?",
+          "options": [
+            "Descartar a transcrição original",
+            "Utilizar marcações, códigos e preservar uma cópia intacta",
+            "Modificar a fala para simplificar a análise",
+            "Excluir entrevistas com temas repetidos"
+          ],
+          "answer": 1,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 5 do PDF, sobre qual procedimento prático é sugerido para marcar e comparar temas.",
+          "page": 5
+        },
+        {
+          "q": "O que significa leitura sintagmática na proposta apresentada?",
+          "options": [
+            "Comparar apenas entrevistas diferentes",
+            "Seguir o encadeamento efetivo de palavras e sequências numa entrevista",
+            "Contar palavras sem observar ordem",
+            "Separar todas as frases aleatoriamente"
+          ],
+          "answer": 1,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 6 do PDF, sobre o que significa leitura sintagmática na proposta apresentada.",
+          "page": 6
+        },
+        {
+          "q": "O que caracteriza a leitura paradigmática?",
+          "options": [
+            "Considerar alternativas possíveis do que poderia ter sido dito",
+            "Registrar apenas pausas",
+            "Ignorar entrevistas comparáveis",
+            "Descrever somente o tempo de fala"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 6 do PDF, sobre o que caracteriza a leitura paradigmática.",
+          "page": 6
+        },
+        {
+          "q": "Qual pergunta desencadeia o exemplo de entrevista sobre férias?",
+          "options": [
+            "Qual sua renda mensal?",
+            "O que são as férias para você?",
+            "Qual sua profissão?",
+            "Quantas viagens fez?"
+          ],
+          "answer": 1,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 6 do PDF, sobre qual pergunta desencadeia o exemplo de entrevista sobre férias.",
+          "page": 6
+        },
+        {
+          "q": "No exemplo das férias, qual contraste aparece entre início e final da fala?",
+          "options": [
+            "De ausência de opinião a certeza científica",
+            "De sonho e idealização a angústia e risco de decepção",
+            "De medo inicial a total indiferença",
+            "De tristeza a rejeição de toda viagem"
+          ],
+          "answer": 1,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 9 do PDF, sobre no exemplo das férias, qual contraste aparece entre início e final da fala.",
+          "page": 9
+        },
+        {
+          "q": "Qual dos temas é explicitamente listado na análise temática das férias?",
+          "options": [
+            "Necessidade de organização",
+            "Estrutura tributária",
+            "Rotatividade profissional",
+            "Política eleitoral"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 8 do PDF, sobre qual dos temas é explicitamente listado na análise temática das férias.",
+          "page": 8
+        },
+        {
+          "q": "Qual elemento é associado à representação positiva das férias?",
+          "options": [
+            "Obrigação profissional",
+            "Ausência de constrangimentos e descoberta",
+            "Impossibilidade de mudança",
+            "Proibição de improviso"
+          ],
+          "answer": 1,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 8 do PDF, sobre qual elemento é associado à representação positiva das férias.",
+          "page": 8
+        },
+        {
+          "q": "Como Bardin descreve a análise sequencial?",
+          "options": [
+            "Divisão do discurso em sequências segundo critérios semânticos e estilísticos",
+            "Classificação apenas pela idade do entrevistado",
+            "Substituição das falas por notas escolares",
+            "Cálculo de renda familiar"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 9 do PDF, sobre como bardin descreve a análise sequencial.",
+          "page": 9
+        },
+        {
+          "q": "O que pode sinalizar uma ruptura entre sequências?",
+          "options": [
+            "Mudança de ritmo ou operadores gramaticais",
+            "Apenas o número de entrevistados",
+            "Somente a data da entrevista",
+            "Exclusivamente a extensão do arquivo"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 9 do PDF, sobre o que pode sinalizar uma ruptura entre sequências.",
+          "page": 9
+        },
+        {
+          "q": "Na análise de enunciação, por que alternância entre 'eu' e 'nós' é relevante?",
+          "options": [
+            "Pode indicar movimentos entre envolvimento pessoal e generalização",
+            "Prova que o entrevistado mentiu",
+            "É sempre erro de transcrição",
+            "Não possui significado possível"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 13 do PDF, sobre na análise de enunciação, por que alternância entre 'eu' e 'nós' é relevante.",
+          "page": 13
+        },
+        {
+          "q": "Qual é o segundo exemplo de pesquisa analisado no capítulo?",
+          "options": [
+            "Relação com o telefone",
+            "Preferências alimentares infantis",
+            "Memória visual",
+            "Rotinas de exercício"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 14 do PDF, sobre qual é o segundo exemplo de pesquisa analisado no capítulo.",
+          "page": 14
+        },
+        {
+          "q": "Qual pedido foi feito aos participantes no exemplo do telefone?",
+          "options": [
+            "Falar sobre a importância e o significado do telefone em sua vida",
+            "Descrever um teste de inteligência",
+            "Classificar cores preferidas",
+            "Relatar somente o tempo de uso"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 15 do PDF, sobre qual pedido foi feito aos participantes no exemplo do telefone.",
+          "page": 15
+        },
+        {
+          "q": "Qual tema aparece na análise da entrevista nº 2 sobre o telefone?",
+          "options": [
+            "Sociabilidade e manutenção de laços",
+            "Produção agrícola",
+            "Aprendizagem de idiomas",
+            "Desempenho esportivo"
+          ],
+          "answer": 0,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 15 do PDF, sobre qual tema aparece na análise da entrevista nº 2 sobre o telefone.",
+          "page": 15
+        },
+        {
+          "q": "Na entrevista nº 3 sobre o telefone, qual sentimento organiza o relato?",
+          "options": [
+            "Indiferença absoluta",
+            "Receio ou medo do telefone",
+            "Alegria constante",
+            "Orgulho profissional"
+          ],
+          "answer": 1,
+          "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 19 do PDF, sobre na entrevista nº 3 sobre o telefone, qual sentimento organiza o relato.",
+          "page": 19
         }
       ]
     },
