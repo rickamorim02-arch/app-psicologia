@@ -6034,6 +6034,131 @@
           "page": 10
         }
       ]
+    },
+    {
+      "subject": 8,
+      "items": [
+        {
+          "q": "Qual é a origem do laudo psicológico descrito no material?",
+          "options": [
+            "Um processo de avaliação psicológica",
+            "Uma opinião sem avaliação",
+            "Um resumo administrativo sem fundamento",
+            "Uma conversa informal sem registro"
+          ],
+          "answer": 0,
+          "explanation": "O material define o laudo como resultado de avaliação psicológica, vinculando sua elaboração a um processo técnico e não a impressões isoladas. Fonte: resumo enviado pelo usuário, página 1.",
+          "page": 1
+        },
+        {
+          "q": "Qual finalidade do laudo psicológico é destacada no resumo do art. 13?",
+          "options": [
+            "Substituir qualquer decisão do destinatário",
+            "Subsidiar decisões no contexto da demanda",
+            "Divulgar indiscriminadamente dados sensíveis",
+            "Dispensar a análise do caso"
+          ],
+          "answer": 1,
+          "explanation": "A finalidade apresentada é oferecer subsídios à tomada de decisões relacionadas ao contexto em que surgiu a demanda. Fonte: resumo enviado pelo usuário, página 1.",
+          "page": 1
+        },
+        {
+          "q": "Como o material caracteriza a natureza do laudo?",
+          "options": [
+            "Exclusivamente publicitária",
+            "Somente opinativa",
+            "Técnico-científica",
+            "Puramente burocrática"
+          ],
+          "answer": 2,
+          "explanation": "O documento é apresentado como peça de natureza e valor técnico-científico, exigindo fundamentação do processo avaliativo. Fonte: resumo enviado pelo usuário, página 1.",
+          "page": 1
+        },
+        {
+          "q": "Que característica de linguagem é exigida pelo material?",
+          "options": [
+            "Terminologia inacessível como regra",
+            "Ausência de explicação do raciocínio",
+            "Uso obrigatório de transcrições integrais",
+            "Narrativa detalhada e acessível ao destinatário"
+          ],
+          "answer": 3,
+          "explanation": "A linguagem deve comunicar de modo detalhado e compreensível o processo avaliativo e o raciocínio psicológico, respeitando a ética profissional. Fonte: resumo enviado pelo usuário, página 1.",
+          "page": 1
+        },
+        {
+          "q": "Qual informação pertence ao item Identificação?",
+          "options": [
+            "Nome do autor e finalidade do documento",
+            "Apenas resultados estatísticos",
+            "Somente as hipóteses diagnósticas",
+            "Exclusivamente os instrumentos aplicados"
+          ],
+          "answer": 0,
+          "explanation": "A identificação inclui título, pessoa ou instituição atendida, solicitante, finalidade e autoria, distinguindo-se dos itens analíticos. Fonte: resumo enviado pelo usuário, página 1.",
+          "page": 1
+        },
+        {
+          "q": "O que deve constar da Descrição da demanda?",
+          "options": [
+            "Apenas a bibliografia",
+            "Motivos da solicitação e quem a realizou",
+            "Somente recomendações finais",
+            "Unicamente a assinatura"
+          ],
+          "answer": 1,
+          "explanation": "A descrição da demanda contextualiza a origem da avaliação, informando o que motivou o processo e quem o solicitou. Fonte: resumo enviado pelo usuário, página 1.",
+          "page": 1
+        },
+        {
+          "q": "O que é descrito no item Procedimento?",
+          "options": [
+            "Somente dados pessoais",
+            "Apenas encaminhamentos finais",
+            "Métodos, técnicas, instrumentos e referencial teórico",
+            "Exclusivamente o título do laudo"
+          ],
+          "answer": 2,
+          "explanation": "O item Procedimento informa os recursos técnico-científicos empregados e o referencial teórico que orientou o trabalho. Fonte: resumo enviado pelo usuário, página 1.",
+          "page": 1
+        },
+        {
+          "q": "Qual orientação é apresentada para a seção Análise?",
+          "options": [
+            "Copiar integralmente todas as sessões como regra",
+            "Excluir o raciocínio psicológico",
+            "Dispensar a consideração da dinâmica do objeto",
+            "Expor dados de modo metódico e objetivo, evitando transcrições literais sem justificativa"
+          ],
+          "answer": 3,
+          "explanation": "A análise deve articular os dados de forma descritiva, metódica e objetiva, considerando a natureza dinâmica do objeto de estudo. Fonte: resumo enviado pelo usuário, página 1.",
+          "page": 1
+        },
+        {
+          "q": "O que pode integrar a Conclusão do laudo?",
+          "options": [
+            "Encaminhamentos e orientações fundamentadas na análise",
+            "Apenas a identificação do solicitante",
+            "Somente a lista de técnicas",
+            "Exclusivamente o título do documento"
+          ],
+          "answer": 0,
+          "explanation": "A conclusão apresenta desdobramentos fundamentados na análise, incluindo orientações, encaminhamentos e outras indicações pertinentes. Fonte: resumo enviado pelo usuário, página 1.",
+          "page": 1
+        },
+        {
+          "q": "Qual função do item Referências segundo o material?",
+          "options": [
+            "Repetir todos os dados pessoais",
+            "Indicar fontes teóricas e normativas utilizadas",
+            "Substituir a descrição da demanda",
+            "Apresentar somente o nome do destinatário"
+          ],
+          "answer": 1,
+          "explanation": "As referências permitem identificar as bases teóricas e normativas utilizadas na elaboração do laudo. Fonte: resumo enviado pelo usuário, página 1.",
+          "page": 1
+        }
+      ]
     }
   ],
   "discursive": [
@@ -6085,6 +6210,13 @@
       "guide": "Consulte o PDF desta matéria e construa sua resposta com conceitos, justificativa e conclusão. A correção automática não está disponível nesta versão.",
       "model": "O laudo psicológico comunica os resultados de uma investigação ou avaliação psicológica e precisa apresentar informações organizadas e relacionadas à finalidade do documento.\n\nConforme os slides, a estrutura contempla identificação, descrição da demanda, procedimento, análise e conclusão. A identificação informa os envolvidos e a finalidade; a descrição da demanda contextualiza o motivo do trabalho; o procedimento expõe o percurso realizado; a análise integra as informações relevantes; e a conclusão apresenta os resultados compatíveis com o processo desenvolvido.\n\nAssim, a qualidade do laudo depende da coerência entre demanda, procedimentos, análise e conclusões, respeitando os requisitos técnicos e éticos da elaboração documental. Referências: slides 2, 5 e 7.",
       "reference": "Matéria 7, PDF da disciplina"
+    },
+    {
+      "subject": 8,
+      "question": "Explique o conceito, a finalidade e a estrutura do laudo psicológico conforme o resumo fornecido sobre o art. 13 da Resolução CFP nº 06/2019.",
+      "guide": "Organize a resposta em introdução, desenvolvimento sobre os itens estruturais e conclusão, sem acrescentar exigências não presentes no resumo.",
+      "model": "O laudo psicológico, conforme o material fornecido, resulta de um processo de avaliação psicológica e tem a finalidade de subsidiar decisões relacionadas ao contexto da demanda. Trata-se de documento técnico-científico que deve apresentar o processo avaliativo e o raciocínio psicológico em linguagem detalhada, didática e acessível ao destinatário, observando os preceitos éticos da profissão.\n\nSua estrutura compreende identificação, com os dados do documento, da pessoa ou instituição atendida, do solicitante, da finalidade e do autor; descrição da demanda, que contextualiza os motivos e a origem da solicitação; e procedimento, que apresenta métodos, técnicas, instrumentos e referencial teórico empregados.\n\nA análise organiza e interpreta de modo metódico e objetivo os dados obtidos, respeitando a natureza dinâmica do objeto de estudo e evitando transcrições literais sem justificativa técnica. A conclusão indica encaminhamentos, orientações ou outras formulações fundamentadas na análise. Por fim, as referências identificam as fontes teóricas e normativas utilizadas.\n\nAssim, o laudo deve articular fundamentação técnica, clareza de comunicação e responsabilidade ética, mantendo relação coerente entre demanda, procedimentos, análise e conclusão.",
+      "reference": "Resumo de uma página fornecido pelo usuário sobre o art. 13 da Resolução CFP nº 06/2019; não é a íntegra oficial da norma."
     }
   ]
 }
