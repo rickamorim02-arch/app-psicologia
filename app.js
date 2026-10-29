@@ -7,11 +7,11 @@ const paint=()=>{ctx.clearRect(0,0,w,h);for(const line of [...lines,...(active?[
 const resize=()=>{let x=paper.clientWidth,y=$('#summaryContent').offsetHeight;if(x===w&&y===h)return;w=x;h=y;const d=Math.min(devicePixelRatio||1,2);canvas.width=w*d;canvas.height=h*d;canvas.style.width=w+'px';canvas.style.height=h+'px';ctx.setTransform(d,0,0,d,0,0);paint()};
 const point=e=>{const r=canvas.getBoundingClientRect();return [(e.clientX-r.left)/w,(e.clientY-r.top)/h]};
 const erase=p=>{let i=lines.findLastIndex(l=>l.points.some(q=>Math.hypot((q[0]-p[0])*w,(q[1]-p[1])*h)<20));if(i>=0){lines.splice(i,1);save();paint()}};
-const setMode=m=>{mode=m;canvas.style.pointerEvents=m==='scroll'?'none':'auto';canvas.style.touchAction=m==='scroll'?'auto':'none';[['scroll','#summaryScroll'],['pen','#summaryPen'],['eraser','#summaryEraser']].forEach(([k,id])=>$(id).classList.toggle('primary',k===m))};
-canvas.onpointerdown=e=>{e.preventDefault();canvas.setPointerCapture(e.pointerId);if(mode==='eraser')return erase(point(e));active={width:Number($('#summaryWidth').value),points:[point(e)]};paint()};
-canvas.onpointermove=e=>{if(!e.buttons)return;if(mode==='eraser')return erase(point(e));if(active){active.points.push(point(e));paint()}};
-const finish=()=>{if(active){lines.push(active);active=null;save();paint()}};
-canvas.onpointerup=finish;canvas.onpointercancel=finish;
+const setMode=m=>{mode=m;canvas.style.pointerEvents=m==='scroll'?'none':'auto';canvas.style.touchAction=m==='scroll'?'auto':'none';paper.style.touchAction=m==='scroll'?'auto':'none';[['scroll','#summaryScroll'],['pen','#summaryPen'],['eraser','#summaryEraser']].forEach(([k,id])=>$(id).classList.toggle('primary',k===m))};
+canvas.onpointerdown=e=>{if(mode==='scroll')return;e.preventDefault();canvas.setPointerCapture(e.pointerId);if(mode==='eraser')return erase(point(e));active={width:Number($('#summaryWidth').value),points:[point(e)]};paint()};
+canvas.onpointermove=e=>{if(mode==='scroll')return;if(mode==='eraser'){if(e.buttons||e.pressure>0){e.preventDefault();erase(point(e))}return}if(active){e.preventDefault();active.points.push(point(e));paint()}};
+const finish=e=>{if(e)e.preventDefault();if(active){lines.push(active);active=null;save();paint()}};
+canvas.onpointerup=finish;canvas.onpointercancel=finish;canvas.onlostpointercapture=finish;paper.addEventListener('touchmove',e=>{if(mode!=='scroll')e.preventDefault()},{passive:false});
 $('#summaryScroll').onclick=()=>setMode('scroll');$('#summaryPen').onclick=()=>setMode('pen');$('#summaryEraser').onclick=()=>setMode('eraser');
 $('#summaryUndo').onclick=()=>{lines.pop();save();paint()};
 $('#summaryClear').onclick=()=>{if(confirm('Apagar os riscos deste resumo?')){lines=[];save();paint()}};
