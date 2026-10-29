@@ -7,3 +7,5 @@ nav button{min-width:0;flex:1;padding:7px 2px;font-size:20px}nav button span{fon
 
 /* A caneta captura os gestos; a rolagem só é liberada no modo Rolar. */
 .summary-paper:has(.summary-ink[style*="pointer-events: auto"]){touch-action:none;overscroll-behavior:contain;user-select:none;-webkit-user-select:none}.summary-ink{touch-action:none;user-select:none;-webkit-user-select:none}
+
+.summary-part-row{display:flex;align-items:stretch;gap:6px;min-width:0}.summary-part-row .summary-part{flex:1;min-width:0}.summary-ok{flex:0 0 auto;min-width:64px;border:1px solid #a898d2;background:#fff;color:#49318b;font-weight:700}.summary-ok.is-read{background:#d8f3df;color:#146c35;border-color:#80ca9a}
