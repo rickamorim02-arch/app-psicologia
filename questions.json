@@ -2460,6 +2460,186 @@
           "answer": 0,
           "explanation": "O art. 21, d, prevê suspensão de até 30 dias, ad referendum do CFP.",
           "page": 16
+        },
+        {
+          "q": "Uma psicóloga aceita executar procedimento para o qual não possui capacitação. Qual dever é descumprido?",
+          "options": [
+            "Aceitar qualquer atividade desde que o usuário assine termo",
+            "Delegar a responsabilidade integral ao contratante",
+            "Substituir a capacitação por autorização verbal",
+            "Assumir somente atividades para as quais esteja pessoal, teórica e tecnicamente capacitada"
+          ],
+          "answer": 3,
+          "explanation": "Assumir somente atividades para as quais esteja pessoal, teórica e tecnicamente capacitada. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 8 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 8
+        },
+        {
+          "q": "Ao comunicar resultados, qual limite deve ser observado?",
+          "options": [
+            "Transmitir apenas o necessário à decisão que afeta o beneficiário",
+            "Entregar todos os dados brutos a qualquer interessado",
+            "Omitir sempre qualquer resultado ao usuário",
+            "Publicar o relatório integral em mural institucional"
+          ],
+          "answer": 0,
+          "explanation": "Transmitir apenas o necessário à decisão que afeta o beneficiário. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 8 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 8
+        },
+        {
+          "q": "Diante de emergência pública, como o profissional deve orientar sua atuação?",
+          "options": [
+            "Condicionar ajuda à publicidade do seu nome",
+            "Prestar serviços sem visar benefício pessoal",
+            "Suspender toda assistência até receber bonificação",
+            "Atuar somente quando houver interesse comercial"
+          ],
+          "answer": 1,
+          "explanation": "Prestar serviços sem visar benefício pessoal. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 8 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 8
+        },
+        {
+          "q": "Um psicólogo identifica prática profissional ilegal. O que prevê o Código?",
+          "options": [
+            "Ignorar o caso por solidariedade profissional",
+            "Divulgar dados sigilosos em redes sociais",
+            "Levar o fato às instâncias competentes",
+            "Aplicar pessoalmente sanção disciplinar"
+          ],
+          "answer": 2,
+          "explanation": "Levar o fato às instâncias competentes. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 9 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 9
+        },
+        {
+          "q": "O psicólogo pode usar técnicas psicológicas para impor castigo?",
+          "options": [
+            "Sim, se o objetivo for educativo",
+            "Sim, com consentimento da direção",
+            "Sim, quando o atendimento é institucional",
+            "Não, é vedado utilizar conhecimentos psicológicos como instrumento de violência"
+          ],
+          "answer": 3,
+          "explanation": "Não, é vedado utilizar conhecimentos psicológicos como instrumento de violência. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 9 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 9
+        },
+        {
+          "q": "É permitido receber porcentagem por encaminhar um paciente?",
+          "options": [
+            "Não, o Código veda remuneração ou porcentagem por encaminhamento",
+            "Sim, quando o encaminhamento é entre colegas",
+            "Sim, se a comissão for informada depois",
+            "Sim, apenas para atendimentos particulares"
+          ],
+          "answer": 0,
+          "explanation": "Não, o Código veda remuneração ou porcentagem por encaminhamento. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 11 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 11
+        },
+        {
+          "q": "O psicólogo pode prolongar desnecessariamente um atendimento para manter honorários?",
+          "options": [
+            "Sim, se houver agenda disponível",
+            "Não, a prolongação desnecessária é vedada",
+            "Sim, desde que o paciente não reclame",
+            "Sim, se a instituição autorizar"
+          ],
+          "answer": 1,
+          "explanation": "Não, a prolongação desnecessária é vedada. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 10 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 10
+        },
+        {
+          "q": "Em greve, qual atividade deve ser preservada?",
+          "options": [
+            "Somente atividades administrativas",
+            "Exclusivamente reuniões de equipe",
+            "Atividades de emergência",
+            "Toda publicidade profissional"
+          ],
+          "answer": 2,
+          "explanation": "Atividades de emergência. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 11 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 11
+        },
+        {
+          "q": "Ao encaminhar demanda fora de sua competência, qual conduta é correta?",
+          "options": [
+            "Improvisar técnica para não perder o caso",
+            "Transferir a terceiros sem qualquer comunicação",
+            "Manter o atendimento mesmo sem condições técnicas",
+            "Encaminhar a profissional ou entidade habilitada e qualificada"
+          ],
+          "answer": 3,
+          "explanation": "Encaminhar a profissional ou entidade habilitada e qualificada. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 12 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 12
+        },
+        {
+          "q": "Quando é admitida intervenção em serviço conduzido por outro psicólogo?",
+          "options": [
+            "Em emergência ou risco, dando imediata ciência ao profissional",
+            "Sempre que houver divergência teórica",
+            "Quando se desejar ampliar a clientela",
+            "Sem comunicar o profissional em qualquer situação"
+          ],
+          "answer": 0,
+          "explanation": "Em emergência ou risco, dando imediata ciência ao profissional. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 12 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 12
+        },
+        {
+          "q": "Para atendimento não eventual de criança, qual autorização é prevista?",
+          "options": [
+            "Autorização obrigatória de todos os parentes",
+            "Autorização de ao menos um responsável, observada a legislação",
+            "Somente consentimento de professor",
+            "Nenhuma autorização em qualquer hipótese"
+          ],
+          "answer": 1,
+          "explanation": "Autorização de ao menos um responsável, observada a legislação. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 12 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 12
+        },
+        {
+          "q": "Se houver conflito ético relevante envolvendo sigilo, como decidir?",
+          "options": [
+            "Divulgar o prontuário inteiro preventivamente",
+            "Manter segredo absoluto em todas as situações legais",
+            "Buscar o menor prejuízo e, se houver quebra, informar apenas o estritamente necessário",
+            "Consultar primeiro redes sociais"
+          ],
+          "answer": 2,
+          "explanation": "Buscar o menor prejuízo e, se houver quebra, informar apenas o estritamente necessário. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 13 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 13
+        },
+        {
+          "q": "No atendimento a adolescente, o que comunicar aos responsáveis?",
+          "options": [
+            "Todas as falas privadas sem seleção",
+            "Somente o nome do psicólogo",
+            "Os dados de outros pacientes atendidos",
+            "O estritamente essencial para medidas em benefício do atendido"
+          ],
+          "answer": 3,
+          "explanation": "O estritamente essencial para medidas em benefício do atendido. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 13 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 13
+        },
+        {
+          "q": "Ao divulgar serviços, qual informação é obrigatória?",
+          "options": [
+            "Nome completo, CRP e número de registro",
+            "Garantia de cura em prazo fixo",
+            "Preço como principal propaganda",
+            "Depoimentos sigilosos de pacientes"
+          ],
+          "answer": 0,
+          "explanation": "Nome completo, CRP e número de registro. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 15 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 15
+        },
+        {
+          "q": "Qual penalidade disciplinar está prevista no Código?",
+          "options": [
+            "Prisão automática de dez anos",
+            "Suspensão do exercício profissional por até 30 dias, ad referendum do CFP",
+            "Suspensão compulsória de cinco anos sem processo",
+            "Perda automática do diploma universitário"
+          ],
+          "answer": 1,
+          "explanation": "Suspensão do exercício profissional por até 30 dias, ad referendum do CFP. A alternativa decorre dos deveres, vedações ou garantias previstos no Código de Ética (página 16 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 16
         }
       ]
     },
@@ -3387,6 +3567,126 @@
           "answer": 2,
           "explanation": "O art. 5º, III, determina documentação individual referente a cada usuário no atendimento em grupo não eventual.",
           "page": 2
+        },
+        {
+          "q": "O que caracteriza a hipótese de uso do registro documental do art. 1º?",
+          "options": [
+            "Obrigatoriedade de publicidade dos atendimentos",
+            "Ausência de qualquer dado sobre a assistência",
+            "Impossibilidade de priorizar prontuário por restrição ao compartilhamento",
+            "Substituição do serviço por relatório financeiro"
+          ],
+          "answer": 2,
+          "explanation": "Impossibilidade de priorizar prontuário por restrição ao compartilhamento. A alternativa decorre das regras de registro, guarda ou supervisão da Resolução CFP nº 001/2009 (página 1 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 1
+        },
+        {
+          "q": "Qual finalidade do registro é expressamente destacada nos considerandos?",
+          "options": [
+            "Permitir acesso irrestrito à população",
+            "Eliminar necessidade de avaliação profissional",
+            "Substituir a identificação do usuário",
+            "Subsidiar orientação e fiscalização da responsabilidade técnica"
+          ],
+          "answer": 3,
+          "explanation": "Subsidiar orientação e fiscalização da responsabilidade técnica. A alternativa decorre das regras de registro, guarda ou supervisão da Resolução CFP nº 001/2009 (página 1 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 1
+        },
+        {
+          "q": "Como é descrita a natureza do registro documental?",
+          "options": [
+            "Sigilosa, em papel ou informatizada",
+            "Pública, obrigatoriamente publicada em sítio eletrônico",
+            "Exclusivamente verbal e sem guarda",
+            "Anônima mesmo para o profissional responsável"
+          ],
+          "answer": 0,
+          "explanation": "Sigilosa, em papel ou informatizada. A alternativa decorre das regras de registro, guarda ou supervisão da Resolução CFP nº 001/2009 (página 1 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 1
+        },
+        {
+          "q": "Onde arquivar documentos resultantes de instrumentos de avaliação psicológica?",
+          "options": [
+            "Em mural de acesso a toda a equipe",
+            "Em pasta de acesso exclusivo do psicólogo",
+            "Junto de publicidade institucional",
+            "Em arquivo público de livre consulta"
+          ],
+          "answer": 1,
+          "explanation": "Em pasta de acesso exclusivo do psicólogo. A alternativa decorre das regras de registro, guarda ou supervisão da Resolução CFP nº 001/2009 (página 2 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 2
+        },
+        {
+          "q": "O que deve acompanhar cópias de documentos produzidos e arquivados?",
+          "options": [
+            "Apenas preço cobrado e número de páginas",
+            "Somente o endereço do conselho regional",
+            "Data de emissão, finalidade e destinatário",
+            "Exclusivamente a assinatura do paciente"
+          ],
+          "answer": 2,
+          "explanation": "Data de emissão, finalidade e destinatário. A alternativa decorre das regras de registro, guarda ou supervisão da Resolução CFP nº 001/2009 (página 2 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 2
+        },
+        {
+          "q": "Em serviços-escola, quais assinaturas devem constar no registro?",
+          "options": [
+            "Somente do coordenador financeiro",
+            "Apenas do usuário sem participação técnica",
+            "De todos os alunos da turma",
+            "Do responsável técnico ou supervisor e do estagiário"
+          ],
+          "answer": 3,
+          "explanation": "Do responsável técnico ou supervisor e do estagiário. A alternativa decorre das regras de registro, guarda ou supervisão da Resolução CFP nº 001/2009 (página 2 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 2
+        },
+        {
+          "q": "Qual obrigação do supervisor quanto ao estagiário é indicada?",
+          "options": [
+            "Solicitar registro de todas as atividades e acontecimentos relativos aos usuários",
+            "Autorizar ausência permanente de registros",
+            "Eliminar registros ao final de cada encontro",
+            "Substituir os registros por notas de prova"
+          ],
+          "answer": 0,
+          "explanation": "Solicitar registro de todas as atividades e acontecimentos relativos aos usuários. A alternativa decorre das regras de registro, guarda ou supervisão da Resolução CFP nº 001/2009 (página 2 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 2
+        },
+        {
+          "q": "Qual é o prazo mínimo de guarda do registro documental na resolução?",
+          "options": [
+            "Seis meses sem exceções",
+            "Cinco anos, com hipóteses de ampliação",
+            "Um ano sem prorrogação",
+            "Vinte anos em todos os casos"
+          ],
+          "answer": 1,
+          "explanation": "Cinco anos, com hipóteses de ampliação. A alternativa decorre das regras de registro, guarda ou supervisão da Resolução CFP nº 001/2009 (página 2 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 2
+        },
+        {
+          "q": "A quem o registro deve ficar disponível para orientação e fiscalização?",
+          "options": [
+            "A qualquer visitante sem identificação",
+            "A anunciantes contratados",
+            "Aos Conselhos de Psicologia",
+            "Exclusivamente a redes sociais"
+          ],
+          "answer": 2,
+          "explanation": "Aos Conselhos de Psicologia. A alternativa decorre das regras de registro, guarda ou supervisão da Resolução CFP nº 001/2009 (página 2 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 2
+        },
+        {
+          "q": "Em serviço multiprofissional, qual regra se aplica?",
+          "options": [
+            "Prontuários públicos separados por profissional",
+            "Registro integral de confidências sem pertinência",
+            "Proibição de qualquer registro conjunto",
+            "Prontuário único, com apenas informações necessárias aos objetivos do trabalho"
+          ],
+          "answer": 3,
+          "explanation": "Prontuário único, com apenas informações necessárias aos objetivos do trabalho. A alternativa decorre das regras de registro, guarda ou supervisão da Resolução CFP nº 001/2009 (página 3 do PDF). As demais opções contrariam o dever ou o limite explicitado na norma.",
+          "page": 3
         }
       ]
     },
