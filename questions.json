@@ -1586,6 +1586,126 @@
           "answer": 0,
           "explanation": "Pré-análise, exploração do material, tratamento dos resultados com inferência e interpretação. A discussão está na página 29 do PDF de Bardin; a interpretação deve considerar os indícios e o contexto do corpus, sem reduzir a análise a conclusões automáticas.",
           "page": 29
+        },
+        {
+          "q": "Na pré-análise, quais três tarefas Bardin articula?",
+          "options": [
+            "Transcrever, publicar e arquivar resultados",
+            "Selecionar documentos, formular hipóteses e objetivos, elaborar indicadores",
+            "Contar palavras, entrevistar novamente e diagnosticar",
+            "Criar gráficos antes de conhecer o corpus"
+          ],
+          "answer": 1,
+          "explanation": "Selecionar documentos, formular hipóteses e objetivos, elaborar indicadores. Bardin desenvolve essa distinção na página 29 do PDF, vinculando a escolha metodológica aos objetivos e à interpretação rigorosa do corpus.",
+          "page": 29
+        },
+        {
+          "q": "Qual é a característica da leitura flutuante?",
+          "options": [
+            "Classificação definitiva de todas as unidades antes de ler",
+            "Descarte de passagens que não confirmam hipóteses",
+            "Contato inicial aberto com o texto, permitindo impressões e orientações emergentes",
+            "Contagem de palavras sem examinar o sentido"
+          ],
+          "answer": 2,
+          "explanation": "Contato inicial aberto com o texto, permitindo impressões e orientações emergentes. Bardin desenvolve essa distinção na página 30 do PDF, vinculando a escolha metodológica aos objetivos e à interpretação rigorosa do corpus.",
+          "page": 30
+        },
+        {
+          "q": "O que exige a regra da representatividade na constituição de um corpus amostral?",
+          "options": [
+            "Escolha exclusiva dos documentos mais curtos",
+            "Amostragem obrigatória mesmo com documento único",
+            "Seleção dos casos mais favoráveis à hipótese",
+            "Uma amostra que reflita características relevantes do universo inicial"
+          ],
+          "answer": 3,
+          "explanation": "Uma amostra que reflita características relevantes do universo inicial. Bardin desenvolve essa distinção na página 31 do PDF, vinculando a escolha metodológica aos objetivos e à interpretação rigorosa do corpus.",
+          "page": 31
+        },
+        {
+          "q": "Em que consiste a regra da homogeneidade dos documentos?",
+          "options": [
+            "Adotar critérios precisos e comparáveis de seleção do material",
+            "Reunir documentos sem relação com a pergunta de pesquisa",
+            "Excluir toda diferença temática dentro de um corpus",
+            "Usar apenas documentos produzidos no mesmo dia"
+          ],
+          "answer": 0,
+          "explanation": "Adotar critérios precisos e comparáveis de seleção do material. Bardin desenvolve essa distinção na página 32 do PDF, vinculando a escolha metodológica aos objetivos e à interpretação rigorosa do corpus.",
+          "page": 32
+        },
+        {
+          "q": "Qual é a regra de pertinência para selecionar documentos?",
+          "options": [
+            "Selecionar apenas textos que concordam com o pesquisador",
+            "Escolher fontes adequadas ao objetivo da análise",
+            "Privilegiar o documento mais extenso independentemente do tema",
+            "Descartar toda fonte que contenha contradições"
+          ],
+          "answer": 1,
+          "explanation": "Escolher fontes adequadas ao objetivo da análise. Bardin desenvolve essa distinção na página 32 do PDF, vinculando a escolha metodológica aos objetivos e à interpretação rigorosa do corpus.",
+          "page": 32
+        },
+        {
+          "q": "Como Bardin define uma hipótese no planejamento analítico?",
+          "options": [
+            "Uma conclusão definitiva que não pode ser revista",
+            "Uma transcrição literal da primeira entrevista",
+            "Uma afirmação provisória sujeita à verificação pelos dados",
+            "Uma regra de contagem que dispensa interpretação"
+          ],
+          "answer": 2,
+          "explanation": "Uma afirmação provisória sujeita à verificação pelos dados. Bardin desenvolve essa distinção na página 32 do PDF, vinculando a escolha metodológica aos objetivos e à interpretação rigorosa do corpus.",
+          "page": 32
+        },
+        {
+          "q": "O que significa codificar o material segundo Bardin?",
+          "options": [
+            "Substituir o texto por opinião pessoal sem critérios",
+            "Excluir informações antes da leitura",
+            "Contar somente o número de páginas do documento",
+            "Transformar sistematicamente dados brutos por recorte, agregação e enumeração"
+          ],
+          "answer": 3,
+          "explanation": "Transformar sistematicamente dados brutos por recorte, agregação e enumeração. Bardin desenvolve essa distinção na página 37 do PDF, vinculando a escolha metodológica aos objetivos e à interpretação rigorosa do corpus.",
+          "page": 37
+        },
+        {
+          "q": "O que distingue unidade de registro de unidade de contexto?",
+          "options": [
+            "A primeira é a unidade codificada; a segunda auxilia a compreender seu significado",
+            "Ambas são sempre uma palavra isolada",
+            "A unidade de contexto é necessariamente menor que a de registro",
+            "A unidade de registro é o nome do pesquisador"
+          ],
+          "answer": 0,
+          "explanation": "A primeira é a unidade codificada; a segunda auxilia a compreender seu significado. Bardin desenvolve essa distinção na página 41 do PDF, vinculando a escolha metodológica aos objetivos e à interpretação rigorosa do corpus.",
+          "page": 41
+        },
+        {
+          "q": "Qual diferença existe entre unidade de registro e regra de enumeração?",
+          "options": [
+            "Uma indica o autor e a outra a data",
+            "Uma define o que se conta; a outra define como se conta",
+            "Uma é usada só em entrevistas e outra só em jornais",
+            "Não há qualquer distinção entre elas"
+          ],
+          "answer": 1,
+          "explanation": "Uma define o que se conta; a outra define como se conta. Bardin desenvolve essa distinção na página 42 do PDF, vinculando a escolha metodológica aos objetivos e à interpretação rigorosa do corpus.",
+          "page": 42
+        },
+        {
+          "q": "Quando a frequência ponderada é adequada?",
+          "options": [
+            "Quando todos os elementos precisam ter peso idêntico",
+            "Quando o pesquisador não definiu unidade de registro",
+            "Quando elementos recebem pesos diferentes segundo sua importância analítica",
+            "Quando a ausência de itens é impossível"
+          ],
+          "answer": 2,
+          "explanation": "Quando elementos recebem pesos diferentes segundo sua importância analítica. Bardin desenvolve essa distinção na página 43 do PDF, vinculando a escolha metodológica aos objetivos e à interpretação rigorosa do corpus.",
+          "page": 43
         }
       ]
     },
