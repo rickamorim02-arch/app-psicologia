@@ -934,6 +934,270 @@
           "answer": 0,
           "explanation": "A seção inicial do PDF é intitulada Preparação e planejamento.",
           "page": 3
+        },
+        {
+          "q": "Segundo Gaskell, qual é o objetivo da pesquisa qualitativa por entrevistas?",
+          "options": [
+            "Medir exclusivamente frequências populacionais",
+            "Explorar opiniões e representações sobre um assunto e compreender mundos da vida",
+            "Substituir qualquer interpretação por cálculos",
+            "Confirmar respostas previamente definidas sem aprofundamento"
+          ],
+          "answer": 1,
+          "explanation": "O capítulo apresenta a entrevista qualitativa como meio de explorar perspectivas e compreender os mundos da vida dos entrevistados.",
+          "page": 5
+        },
+        {
+          "q": "Qual função o tópico guia desempenha na entrevista qualitativa?",
+          "options": [
+            "É um questionário rígido que impede desvios",
+            "Substitui a necessidade de preparação",
+            "Orienta a conversa, mantendo abertura para temas emergentes",
+            "Determina a resposta correta do entrevistado"
+          ],
+          "answer": 2,
+          "explanation": "Gaskell descreve o tópico guia como planejamento flexível, não como roteiro mecânico de perguntas.",
+          "page": 3
+        },
+        {
+          "q": "Na elaboração do tópico guia, qual preparação é recomendada?",
+          "options": [
+            "Basear-se em leitura crítica e reconhecimento preliminar do campo",
+            "Escolher perguntas sem conhecer o tema",
+            "Copiar um instrumento sem considerar a pesquisa",
+            "Definir respostas antes da coleta"
+          ],
+          "answer": 0,
+          "explanation": "O texto associa a preparação do tópico guia ao estudo do tema, literatura e reconhecimento preliminar do campo.",
+          "page": 3
+        },
+        {
+          "q": "Por que o tópico guia pode ser alterado durante a pesquisa?",
+          "options": [
+            "Porque a análise deve ser abandonada",
+            "Porque novas questões relevantes podem emergir nas entrevistas",
+            "Porque as entrevistas devem ter sempre temas diferentes",
+            "Porque não há objetivos de investigação"
+          ],
+          "answer": 1,
+          "explanation": "O autor observa que o processo de investigação pode revelar novos aspectos, exigindo ajustes justificados no guia.",
+          "page": 4
+        },
+        {
+          "q": "Na seleção de entrevistados, qual princípio orienta a pesquisa qualitativa descrita?",
+          "options": [
+            "Sorteio obrigatório de toda a população",
+            "Busca de variedade relevante de perspectivas e posições sociais",
+            "Escolha exclusiva dos entrevistados mais próximos",
+            "Amostra necessariamente representativa em termos estatísticos"
+          ],
+          "answer": 1,
+          "explanation": "A seleção procura abranger posições e experiências relevantes ao problema, não reproduzir automaticamente uma amostra probabilística.",
+          "page": 5
+        },
+        {
+          "q": "O que Gaskell destaca sobre o número de entrevistas individuais?",
+          "options": [
+            "Deve ser sempre superior a mil",
+            "Não há limite prático de tempo e interpretação",
+            "Há limites práticos ligados ao tempo e à capacidade de análise aprofundada",
+            "Uma entrevista basta em qualquer investigação"
+          ],
+          "answer": 2,
+          "explanation": "O capítulo relaciona o tamanho do corpus aos recursos e à possibilidade de análise detalhada, apontando limites práticos.",
+          "page": 8
+        },
+        {
+          "q": "Qual risco existe quando se amplia demais o número de entrevistas?",
+          "options": [
+            "As perspectivas se tornam necessariamente idênticas",
+            "A qualidade da análise pode ser prejudicada pelo volume de material",
+            "O tópico guia deixa de existir juridicamente",
+            "Toda entrevista passa a ser quantitativa"
+          ],
+          "answer": 1,
+          "explanation": "Gaskell alerta que mais entrevistas não significam automaticamente melhor compreensão se o material exceder a capacidade analítica.",
+          "page": 8
+        },
+        {
+          "q": "Qual distinção entre entrevistas individuais e grupais é destacada?",
+          "options": [
+            "Entrevistas grupais eliminam a interação",
+            "Entrevistas individuais permitem maior aprofundamento pessoal; grupos tornam observável a interação",
+            "Ambas têm exatamente a mesma dinâmica",
+            "Entrevistas individuais exigem consenso"
+          ],
+          "answer": 1,
+          "explanation": "O capítulo contrapõe a exploração aprofundada de experiências individuais à observação da interação e da construção de sentidos em grupo.",
+          "page": 10
+        },
+        {
+          "q": "Por que um grupo focal não equivale a entrevistar várias pessoas isoladamente?",
+          "options": [
+            "Porque dispensa moderação",
+            "Porque opiniões e sentidos são produzidos também na interação entre participantes",
+            "Porque não se coletam falas",
+            "Porque a pesquisa deixa de ser qualitativa"
+          ],
+          "answer": 1,
+          "explanation": "O diferencial do grupo focal é a interação social, com respostas que se desenvolvem e se confrontam entre participantes.",
+          "page": 12
+        },
+        {
+          "q": "Segundo o capítulo, qual é uma tarefa central do moderador no grupo focal?",
+          "options": [
+            "Impor sua opinião ao grupo",
+            "Facilitar a discussão e favorecer a participação sem dominar o conteúdo",
+            "Eliminar toda divergência",
+            "Responder no lugar dos participantes"
+          ],
+          "answer": 1,
+          "explanation": "O moderador organiza a dinâmica, incentiva contribuições e mantém o foco sem substituir a fala do grupo.",
+          "page": 14
+        },
+        {
+          "q": "Qual característica pode tornar o grupo focal produtivo?",
+          "options": [
+            "Obrigatoriedade de concordância",
+            "Troca de experiências e confronto de diferentes pontos de vista",
+            "Proibição de reação às falas alheias",
+            "Participantes isolados uns dos outros"
+          ],
+          "answer": 1,
+          "explanation": "O texto ressalta que a interação pode estimular ideias, recordações e posições que não emergiriam do mesmo modo isoladamente.",
+          "page": 13
+        },
+        {
+          "q": "Como o moderador deve lidar com participantes que monopolizam a discussão?",
+          "options": [
+            "Permitir que apenas eles falem",
+            "Interromper definitivamente o grupo",
+            "Redistribuir oportunidades de fala e incentivar outras contribuições",
+            "Ignorar os demais participantes"
+          ],
+          "answer": 2,
+          "explanation": "A facilitação exige atenção à distribuição da palavra e à participação de diferentes integrantes.",
+          "page": 14
+        },
+        {
+          "q": "Na abertura de um grupo focal, qual procedimento é indicado?",
+          "options": [
+            "Começar com perguntas constrangedoras",
+            "Apresentar o moderador e estabelecer um ambiente favorável à conversa",
+            "Solicitar votação imediata sobre todas as respostas",
+            "Ler conclusões antes da discussão"
+          ],
+          "answer": 1,
+          "explanation": "Gaskell descreve uma abertura em que o moderador se apresenta e ajuda a estabelecer um clima de participação.",
+          "page": 16
+        },
+        {
+          "q": "Qual é o propósito de perguntas como 'O que você quer dizer com isso?'?",
+          "options": [
+            "Impor uma interpretação",
+            "Pedir esclarecimento e aprofundar o significado de uma fala",
+            "Encerrar a entrevista",
+            "Trocar o assunto sem justificativa"
+          ],
+          "answer": 1,
+          "explanation": "O capítulo exemplifica indagações de sondagem que aprofundam e esclarecem o que foi dito.",
+          "page": 17
+        },
+        {
+          "q": "Por que recursos como figuras ou fotografias podem ser usados em grupos focais?",
+          "options": [
+            "Para substituir integralmente a discussão",
+            "Para estimular associações, narrativas e reflexão dos participantes",
+            "Para assegurar respostas uniformes",
+            "Para eliminar a necessidade de análise"
+          ],
+          "answer": 1,
+          "explanation": "O texto apresenta estímulos visuais e exercícios como meios de ampliar a expressão e a discussão de experiências.",
+          "page": 18
+        },
+        {
+          "q": "Na entrevista individual em profundidade, qual postura é recomendada ao pesquisador?",
+          "options": [
+            "Escutar atentamente e explorar tópicos com perguntas de acompanhamento",
+            "Ler perguntas sem reagir às respostas",
+            "Corrigir imediatamente toda opinião divergente",
+            "Evitar qualquer preparação"
+          ],
+          "answer": 0,
+          "explanation": "O capítulo destaca a escuta ativa e as perguntas de aprofundamento durante a conversa individual.",
+          "page": 19
+        },
+        {
+          "q": "O que perguntas de sondagem como 'Poderia me falar mais sobre isso?' procuram?",
+          "options": [
+            "Induzir uma resposta específica",
+            "Ampliar a descrição e aprofundar a narrativa",
+            "Encerrar o contato",
+            "Transformar toda fala em número"
+          ],
+          "answer": 1,
+          "explanation": "As perguntas de sondagem ampliam informações sem impor ao entrevistado uma conclusão previamente escolhida.",
+          "page": 20
+        },
+        {
+          "q": "Na conclusão de uma entrevista, o que é recomendado?",
+          "options": [
+            "Interromper abruptamente quando surgir emoção",
+            "Abrir espaço para comentários finais e encerrar de maneira apropriada",
+            "Prometer que todas as falas serão publicadas",
+            "Descartar o registro da entrevista"
+          ],
+          "answer": 1,
+          "explanation": "O texto aborda o encerramento com possibilidade de comentários finais e cuidado na finalização da conversa.",
+          "page": 21
+        },
+        {
+          "q": "Na análise qualitativa, qual é a relação entre transcrição e interpretação?",
+          "options": [
+            "A transcrição dispensa interpretação",
+            "A análise exige trabalho sistemático de leitura e interpretação do material",
+            "A interpretação deve ignorar as falas",
+            "Somente a contagem de palavras é admitida"
+          ],
+          "answer": 1,
+          "explanation": "Gaskell apresenta a transcrição como material a ser trabalhado analiticamente, e não como conclusão automática.",
+          "page": 22
+        },
+        {
+          "q": "O que a codificação procura identificar na análise de entrevistas?",
+          "options": [
+            "Apenas erros gramaticais",
+            "Unidades de sentido, semelhanças e diferenças no material",
+            "O número de páginas do livro",
+            "A ordem alfabética dos participantes"
+          ],
+          "answer": 1,
+          "explanation": "A seção de análise descreve codificação e categorização para organizar padrões e contrastes das falas.",
+          "page": 23
+        },
+        {
+          "q": "Qual recurso analítico é apresentado como forma de organizar comparações?",
+          "options": [
+            "Uma matriz que relaciona temas e participantes",
+            "Uma lista de respostas certas previamente impostas",
+            "Um sorteio das conclusões",
+            "A exclusão de falas divergentes"
+          ],
+          "answer": 0,
+          "explanation": "O capítulo sugere construir matrizes com objetivos e finalidades da pesquisa e temas emergentes.",
+          "page": 22
+        },
+        {
+          "q": "Qual sequência de atividades de pesquisa aparece na síntese do capítulo?",
+          "options": [
+            "Publicar, recrutar, concluir sem análise",
+            "Preparar tópico guia, selecionar método e participantes, realizar entrevistas, transcrever e analisar",
+            "Aplicar teste, calcular média e ignorar entrevistas",
+            "Selecionar respostas, escrever resultados e depois entrevistar"
+          ],
+          "answer": 1,
+          "explanation": "A síntese final articula preparação do tópico guia, seleção do método e entrevistados, realização, transcrição e análise.",
+          "page": 25
         }
       ]
     },
