@@ -1826,6 +1826,126 @@
           "answer": 3,
           "explanation": "Porque exige adequação ao material, ao quadro teórico e às questões da pesquisa. Bardin apresenta essa distinção na página 54 do PDF. O procedimento de análise deve respeitar os objetivos e o contexto dos índices, sem transformar a codificação em conclusão automática.",
           "page": 54
+        },
+        {
+          "q": "Bardin considera a categorização obrigatória em toda análise de conteúdo?",
+          "options": [
+            "Sim; sem categorias não existe qualquer análise possível",
+            "Não; é frequente, mas não constitui etapa universalmente obrigatória",
+            "Sim; toda análise deve utilizar categorias lexicais",
+            "Não; a categorização é incompatível com análise qualitativa"
+          ],
+          "answer": 1,
+          "explanation": "Não; é frequente, mas não constitui etapa universalmente obrigatória. Conforme o exemplo e os princípios apresentados por Bardin na página 51 do PDF, a análise depende de critérios coerentes com o material e os objetivos.",
+          "page": 51
+        },
+        {
+          "q": "Na categorização, qual critério agrupa verbos e adjetivos por classes gramaticais?",
+          "options": [
+            "O semântico temático",
+            "O expressivo",
+            "O sintático",
+            "O cronológico"
+          ],
+          "answer": 2,
+          "explanation": "O sintático. Conforme o exemplo e os princípios apresentados por Bardin na página 51 do PDF, a análise depende de critérios coerentes com o material e os objetivos.",
+          "page": 51
+        },
+        {
+          "q": "No exemplo de músicas de Bardin, por que compositor e instrumento geram classificações distintas?",
+          "options": [
+            "Porque um dos critérios necessariamente elimina o outro",
+            "Porque o objeto muda fisicamente ao ser classificado",
+            "Porque categorias independem do critério utilizado",
+            "Porque cada critério destaca uma dimensão diferente do mesmo objeto"
+          ],
+          "answer": 3,
+          "explanation": "Porque cada critério destaca uma dimensão diferente do mesmo objeto. Conforme o exemplo e os princípios apresentados por Bardin na página 52 do PDF, a análise depende de critérios coerentes com o material e os objetivos.",
+          "page": 52
+        },
+        {
+          "q": "Qual cuidado Bardin recomenda diante da passagem de dados brutos a categorias?",
+          "options": [
+            "Reconhecer que a decomposição e reconstrução podem introduzir desvios",
+            "Supor que categorias são sempre neutras e infalíveis",
+            "Descartar o material original após categorizar",
+            "Definir resultados antes de verificar as classes"
+          ],
+          "answer": 0,
+          "explanation": "Reconhecer que a decomposição e reconstrução podem introduzir desvios. Conforme o exemplo e os princípios apresentados por Bardin na página 53 do PDF, a análise depende de critérios coerentes com o material e os objetivos.",
+          "page": 53
+        },
+        {
+          "q": "O que exige o princípio de homogeneidade das categorias?",
+          "options": [
+            "Misturar critérios sintáticos e temáticos sem distinção",
+            "Um único princípio de classificação em cada conjunto categorial",
+            "Criar uma categoria para cada palavra repetida",
+            "Aplicar categorias sem qualquer dimensão de análise"
+          ],
+          "answer": 1,
+          "explanation": "Um único princípio de classificação em cada conjunto categorial. Conforme o exemplo e os princípios apresentados por Bardin na página 54 do PDF, a análise depende de critérios coerentes com o material e os objetivos.",
+          "page": 54
+        },
+        {
+          "q": "Na grade de White citada por Bardin, amizade integra qual grupo?",
+          "options": [
+            "Valores fisiológicos",
+            "Valores relativos ao ego",
+            "Valores sociais",
+            "Valores expressivos de medo"
+          ],
+          "answer": 2,
+          "explanation": "Valores sociais. Conforme o exemplo e os princípios apresentados por Bardin na página 55 do PDF, a análise depende de critérios coerentes com o material e os objetivos.",
+          "page": 55
+        },
+        {
+          "q": "Qual material Isambert-Jamati analisou para estudar mudanças nos valores escolares?",
+          "options": [
+            "Somente boletins individuais de notas",
+            "Registros clínicos de estudantes",
+            "Entrevistas telefônicas com professores",
+            "Discursos de distribuição de prêmios escolares"
+          ],
+          "answer": 3,
+          "explanation": "Discursos de distribuição de prêmios escolares. Conforme o exemplo e os princípios apresentados por Bardin na página 56 do PDF, a análise depende de critérios coerentes com o material e os objetivos.",
+          "page": 56
+        },
+        {
+          "q": "No exemplo de análise da interação terapêutica, como são classificadas respostas do terapeuta?",
+          "options": [
+            "Como aproximação, evitamento ou não classificadas",
+            "Apenas como respostas certas ou erradas",
+            "Exclusivamente segundo sua duração",
+            "Somente como sintomas do paciente"
+          ],
+          "answer": 0,
+          "explanation": "Como aproximação, evitamento ou não classificadas. Conforme o exemplo e os princípios apresentados por Bardin na página 59 do PDF, a análise depende de critérios coerentes com o material e os objetivos.",
+          "page": 59
+        },
+        {
+          "q": "Por que um mesmo dicionário categorial não serve indiscriminadamente a todos os estudos?",
+          "options": [
+            "Porque os índices automáticos não usam palavras",
+            "Porque materiais e objetivos diferentes podem exigir categorias diferentes",
+            "Porque todo corpus apresenta exatamente as mesmas variáveis",
+            "Porque categorias só podem ser usadas uma vez"
+          ],
+          "answer": 1,
+          "explanation": "Porque materiais e objetivos diferentes podem exigir categorias diferentes. Conforme o exemplo e os princípios apresentados por Bardin na página 62 do PDF, a análise depende de critérios coerentes com o material e os objetivos.",
+          "page": 62
+        },
+        {
+          "q": "No índice computadorizado descrito por Bardin, o que são conceitos-chave?",
+          "options": [
+            "Sinônimos obrigatórios do título do documento",
+            "Valores numéricos atribuídos sem interpretação",
+            "Intermediários entre a teoria do analista e as unidades verbais brutas",
+            "Apenas definições comuns de um dicionário escolar"
+          ],
+          "answer": 2,
+          "explanation": "Intermediários entre a teoria do analista e as unidades verbais brutas. Conforme o exemplo e os princípios apresentados por Bardin na página 63 do PDF, a análise depende de critérios coerentes com o material e os objetivos.",
+          "page": 63
         }
       ]
     },
