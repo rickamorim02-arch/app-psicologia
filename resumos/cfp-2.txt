@@ -1,0 +1,225 @@
+Resumo Estruturado: Manual Orientativo
+de Registro e Elaboração de
+Documentos Psicológicos (CFP, 2025 —
+Parte 2)
+
+1. Conceito de Documento Psicológico
+
+   ●​ Definição: Um documento psicológico é toda e qualquer comunicação por escrito
+      resultante da prestação de serviços de avaliação ou intervenção psicológica
+      prestados a pessoas, grupos ou instituições.
+   ●​ Amparo Obrigatório: Deve ser elaborado mediante solicitação para registrar e
+      sistematizar uma conduta profissional em andamento ou concluída,
+      fundamentando-se obrigatoriamente no registro documental/prontuário dos
+      atendimentos.
+   ●​ Escolha da Modalidade: Diante de um pedido, a profissional deve identificar a
+      demanda exata e elaborar o documento mais adequado em termos de modalidade,
+      finalidade e serviço prestado.
+
+
+
+
+2. Modalidades de Documentos Psicológicos (Resolução CFP nº
+06/2019)
+
+a) Declaração
+
+   ●​ Finalidade: Documento sucinto que registra informações objetivas sobre a
+      prestação do serviço (ex.: comparecimento da pessoa ou acompanhante,
+      acompanhamento realizado ou em realização, dias, horários e tempo de
+      atendimento).
+   ●​ Vedação Expressa: Não deve informar sintomas, situações ou estados
+      psicológicos.
+
+b) Atestado Psicológico
+
+   ●​ Finalidade: Afirma uma determinada situação, estado ou funcionamento psicológico,
+      fundamentando-se obrigatoriamente em um diagnóstico resultante de Avaliação
+      Psicológica (Resolução CFP nº 31/2022).
+
+   ●​ Aplicações: Justificar faltas e impedimentos; atestar aptidão ou inaptidão para
+      atividades específicas (porte de armas, trânsito, concursos públicos/seleção); e
+      solicitar afastamento e/ou dispensa.
+   ●​ Regras Específicas:
+          ○​ O CRP pode solicitar a fundamentação técnico-científica do atestado pelo
+               prazo de até 5 anos.
+          ○​ O uso do CID é facultativo; contudo, em processos judiciais e da justiça do
+               trabalho, a indicação do CID exige autorização prévia por escrito da
+               pessoa atendida.
+          ○​ Em concursos públicos, o atestado refere-se à seleção profissional e não
+               visa identificar psicopatologias (Resolução CFP nº 08/2025).
+
+c) Relatório Psicológico e Relatório Multiprofissional
+
+   ●​ Finalidade: Comunicação técnico-científica detalhada, didática e acessível sobre a
+      atuação profissional (concluída ou em andamento), possuindo caráter informativo
+      e não diagnóstico. Pode gerar orientações, recomendações e encaminhamentos.
+   ●​ Aplicações: Estudos de caso, encaminhamentos, solicitações de ampliação de
+      sessões para planos de saúde, visitas domiciliares e subsídio a processos jurídicos.
+   ●​ Versão Multiprofissional: Construído em conjunto com profissionais de outras
+      áreas. A psicóloga deve manter redação e análise independentes nos itens de
+      Procedimento e Análise, resguardando sua autonomia técnica e o sigilo de métodos
+      privativos.
+   ●​ Redação: Não corresponde à transcrição literal das sessões, exceto quando
+      justificável tecnicamente.
+
+d) Laudo Psicológico
+
+   ●​ Finalidade: Documento de valor técnico-científico resultante de um processo de
+      Avaliação Psicológica, com o objetivo de subsidiar decisões no contexto em que
+      surgiu a demanda.
+   ●​ Fundamentação: Exige interpretação e análise de dados colhidos por métodos,
+      técnicas e procedimentos reconhecidos cientificamente (Resolução CFP nº 31/2022 /
+      SATEPSI).
+   ●​ Equipes Multiprofissionais: Pode compor um documento único com outras áreas,
+      desde que a psicóloga registre apenas o estritamente necessário para resguardar o
+      sigilo profissional.
+
+e) Parecer Psicológico
+
+   ●​ Finalidade: Emissão de ponto de vista técnico e fundamentado cientificamente que
+      esclarece dúvidas ou responde a uma consulta/questão-problema no campo da
+      Psicologia, ou avalia documentos psicológicos questionados (ex.: contestação de
+      laudo por assistente técnico).
+   ●​ Diferencial Fundamental: Não é resultante de avaliação ou intervenção
+      psicológica realizada pela parecerista. Exige expertise e competência específica da
+      profissional no tema consultado (clínico, educacional, organizacional, jurídico, social
+      ou hospitalar).
+
+3. Quadro Comparativo das Estruturas Documentais
+
+Elemento da   Declaração     Atestado     Relatório /        Laudo       Parecer
+ Estrutura                                 Relatório       Psicológic
+                                        Multiprofissiona       o
+                                                l
+
+
+
+Formato       Itens ou      Texto       Itens ou texto     Em itens     Em itens
+              texto corrido corrido     corrido
+
+
+
+Nome do       Sim           Sim         Sim                Sim          Sim
+Atendido
+
+
+
+Nome do       Não           Sim         Sim                Sim          Sim
+Solicitante
+
+
+
+Finalidade    Sim           Sim         Sim                Sim          Sim
+
+
+
+Nome do(s)    Não           Não         Sim                Sim          Sim
+Autor(es)
+
+
+
+Descrição     Não           Não         Sim                Sim          Sim
+da Demanda
+
+
+
+Procediment   Não           Não         Sim                Sim          Não
+o
+
+
+
+Análise       Não           Não         Sim                Sim          Sim
+
+
+
+Conclusão     Não           Não         Sim                Sim          Sim
+
+Validade        Não            Sim           Sim                  Sim            Não
+
+
+
+Referências     Não            Não           Não                  Sim            Sim
+Bibliográfica
+s
+
+
+
+Fechamento      Local, data,   Local,        Local, data,         Local, data,   Local,
+Técnico         nome, CRP,     data,         nome, CRP,           nome, CRP,     data,
+                carimbo e      nome,         carimbo e            carimbo e      nome,
+                assinatura.    CRP,          assinatura.          assinatura.    CRP,
+                               carimbo e                                         carimbo e
+                               assinatura.                                       assinatura.
+
+
+
+
+4. Princípios Técnicos, Éticos e de Linguagem
+
+  ●​ Princípios Técnicos: Garantir qualidade científica e dados fidedignos; reconhecer a
+     natureza dinâmica e não definitiva do fenômeno psicológico; apresentar referências
+     em nota de rodapé; numerar todas as laudas de forma fracionada (ex.: "1/10" ou "1
+     de 10"); rubricar da primeira até a penúltima lauda e assinar a última página.
+  ●​ Princípios Éticos: Pautar-se estritamente no Código de Ética Profissional; observar
+     os deveres de sigilo perante equipes multiprofissionais e o Judiciário; assegurar o
+     respeito aos Direitos Humanos; e emitir documentos sempre que solicitado ou ao
+     finalizar avaliação psicológica.
+  ●​ Princípios da Linguagem Técnica: Redigir em linguagem técnica, formal e
+     objetiva; escrever obrigatoriamente na terceira pessoa (estilo impessoal); evitar
+     transcrições literais das sessões (salvo justificativa técnica); e demonstrar ordenação
+     lógica e articulação de ideias.
+
+
+
+
+5. Destino, Devolutiva e Validade
+
+  ●​ Entrega e Protocolo: A entrega deve ser feita diretamente ao beneficiário,
+     responsável legal ou solicitante, recomendando-se protocolo assinado para
+     comprovar o recebimento e a responsabilidade pelo uso e sigilo. Em meios digitais,
+     utiliza-se assinatura/certificação digital ou e-mail oficial com confirmação de leitura.
+  ●​ Entrevista Devolutiva: É dever obrigatório da psicóloga realizar ao menos uma
+     sessão de devolução para a entrega de Relatórios e Laudos Psicológicos.
+  ●​ Indicação de Validade: Aplica-se exclusivamente ao Atestado, Laudo e
+     Relatório, devendo constar no último parágrafo do documento. É determinada de
+     forma autônoma pela psicóloga com base em prazos normativos, fases do
+
+      desenvolvimento humano, características do fenômeno avaliado ou prognóstico
+      clínico.
+
+
+
+
+6. Dúvidas Frequentes e Orientações Práticas
+
+   1.​ Atestado x Declaração: A declaração registra apenas dados administrativos (dias,
+       horários, comparecimento) sem mencionar sintomas. O atestado informa uma
+       conclusão técnica/diagnóstica sobre o estado psicológico.
+   2.​ Atestado no Trabalho e Abono de Faltas: O atestado psicológico justifica a
+       ausência. Contudo, o abono financeiro da falta depende das regras contratuais,
+       normativas internas da empresa ou da CLT (que explicita atestado médico). Para
+       afastamentos superiores a 15 dias no regime CLT, a avaliação cabe ao INSS.
+   3.​ Atestado via Psicoterapia: É possível emitir atestado psicológico a partir do
+       acompanhamento psicoterápico, pois este envolve uma atitude avaliativa contínua e
+       contem dados científicos sobre a saúde mental do paciente.
+   4.​ Diferença entre Laudo e Atestado: O atestado comunica a conclusão técnica com
+       precisão sintética. O laudo expõe detalhadamente todo o raciocínio, métodos, testes,
+       procedimentos e análise dos dados. O parâmetro para a escolha entre ambos é a
+       finalidade e o sigilo profissional necessárias.
+   5.​ Assinatura Eletrônica e Rubricas: Documentos emitidos com assinatura eletrônica
+       válida (ICP-Brasil / Lei 14.063/2020) possuem plena validade jurídica e dispensam
+       obrigatoriamente a inclusão de rubricas ou carimbos físicos.
+   6.​ Uso de Inteligência Artificial (IA):
+           ○​ Permitido: Como ferramenta de apoio técnico para formatação, revisão de
+               clareza, sugestão de tópicos e organização de dados extensos.
+           ○​ Proibido: Inserir dados sensíveis e identificáveis do paciente em IAs sem
+               garantia de segurança e sigilo.
+           ○​ Responsabilidade: Decisões clínicas, diagnósticos e conclusões são
+               competências privativas e indelegáveis da psicóloga, que responde
+               integralmente pelo documento.
+
+
+
+💡 Gostaria que eu elaborasse um mapa mental conceitual ou um conjunto de flashcards de
+fixação focado nas diferenças entre essas 5 modalidades de documentos?
