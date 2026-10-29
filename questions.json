@@ -473,6 +473,414 @@
           "answer": 0,
           "explanation": "O slide descreve inferência a partir dos dados organizados.",
           "page": 9
+        },
+        {
+          "q": "Na atividade do horóscopo, o que significa identificar temas?",
+          "options": [
+            "Reconhecer assuntos presentes em cada previsão",
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 0,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Reconhecer assuntos presentes em cada previsão.",
+          "page": 4
+        },
+        {
+          "q": "Como agrupar fragmentos na atividade de análise temática?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "Reunir os de sentidos semelhantes e separar os diferentes",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 1,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Reunir os de sentidos semelhantes e separar os diferentes.",
+          "page": 4
+        },
+        {
+          "q": "Qual etapa corresponde à familiarização com verbalizações?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "Pré-análise",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 2,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Pré-análise.",
+          "page": 6
+        },
+        {
+          "q": "Como o slide nomeia a atribuição de códigos aos temas?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda",
+            "Codificação por temas"
+          ],
+          "answer": 3,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Codificação por temas.",
+          "page": 7
+        },
+        {
+          "q": "Qual etapa organiza códigos em conjuntos?",
+          "options": [
+            "Categorização",
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 0,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Categorização.",
+          "page": 8
+        },
+        {
+          "q": "Qual procedimento envolve inferências a partir das verbalizações?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "Análise de conteúdo",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 1,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Análise de conteúdo.",
+          "page": 9
+        },
+        {
+          "q": "O que os estudos citados sobre horóscopos ilustram?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A influência de valores culturais de tempo e lugar sobre conteúdos",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 2,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: A influência de valores culturais de tempo e lugar sobre conteúdos.",
+          "page": 10
+        },
+        {
+          "q": "Qual material narrativo é usado para exemplificar a análise?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda",
+            "Um relato de atividades de fim de semana"
+          ],
+          "answer": 3,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Um relato de atividades de fim de semana.",
+          "page": 13
+        },
+        {
+          "q": "Qual traço do Big Five envolve curiosidade intelectual e imaginação?",
+          "options": [
+            "Abertura à experiência",
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 0,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Abertura à experiência.",
+          "page": 14
+        },
+        {
+          "q": "Qual traço envolve organização e persistência orientada a metas?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "Conscienciosidade",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 1,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Conscienciosidade.",
+          "page": 14
+        },
+        {
+          "q": "Qual traço se relaciona à busca de estímulos sociais?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "Extroversão",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 2,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Extroversão.",
+          "page": 14
+        },
+        {
+          "q": "Qual traço envolve cooperação e empatia?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda",
+            "Amabilidade"
+          ],
+          "answer": 3,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Amabilidade.",
+          "page": 14
+        },
+        {
+          "q": "Qual traço envolve maior sensibilidade a afetos negativos e estresse?",
+          "options": [
+            "Neuroticismo",
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 0,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Neuroticismo.",
+          "page": 14
+        },
+        {
+          "q": "Qual categoria recebe o exemplo de explorar novas harmonias musicais?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "Abertura à experiência",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 1,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Abertura à experiência.",
+          "page": 16
+        },
+        {
+          "q": "Qual categoria recebe o exemplo de planejar a semana?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "Conscienciosidade",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 2,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Conscienciosidade.",
+          "page": 16
+        },
+        {
+          "q": "O que diferencia uma categoria de uma fala na tabela de análise?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda",
+            "A categoria organiza sentidos compartilhados por diferentes falas"
+          ],
+          "answer": 3,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: A categoria organiza sentidos compartilhados por diferentes falas.",
+          "page": 16
+        },
+        {
+          "q": "Qual é a finalidade da preparação da entrevista?",
+          "options": [
+            "Planejar a investigação de acordo com a demanda",
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 0,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Planejar a investigação de acordo com a demanda.",
+          "page": 27
+        },
+        {
+          "q": "Em que fase ocorre a escolha de quem será entrevistado?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "Seleção dos entrevistados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 1,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Seleção dos entrevistados.",
+          "page": 27
+        },
+        {
+          "q": "Qual fase envolve a aplicação efetiva da técnica?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "Condução da entrevista",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 2,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Condução da entrevista.",
+          "page": 27
+        },
+        {
+          "q": "Em qual fase os dados obtidos são integrados?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda",
+            "Análise e integração dos dados"
+          ],
+          "answer": 3,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Análise e integração dos dados.",
+          "page": 27
+        },
+        {
+          "q": "Qual fase corresponde à comunicação do trabalho realizado?",
+          "options": [
+            "Registro e comunicação",
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 0,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Registro e comunicação.",
+          "page": 27
+        },
+        {
+          "q": "Quais tipos de roteiro são apresentados nos slides?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "Estruturado, semiestruturado e livre",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 1,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Estruturado, semiestruturado e livre.",
+          "page": 27
+        },
+        {
+          "q": "Para qual finalidade os roteiros estruturados são destacados?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "Triagens e situações com menor preparo do entrevistador",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 2,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Triagens e situações com menor preparo do entrevistador.",
+          "page": 27
+        },
+        {
+          "q": "Qual limitação dos roteiros estruturados é destacada?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda",
+            "Podem focar na técnica e deixar de captar particularidades"
+          ],
+          "answer": 3,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Podem focar na técnica e deixar de captar particularidades.",
+          "page": 27
+        },
+        {
+          "q": "Qual exigência é destacada nas entrevistas livres?",
+          "options": [
+            "Grande qualificação do profissional",
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 0,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Grande qualificação do profissional.",
+          "page": 27
+        },
+        {
+          "q": "Qual vantagem das entrevistas livres é apontada?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "Maior conforto para o cliente",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 1,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Maior conforto para o cliente.",
+          "page": 27
+        },
+        {
+          "q": "O que caracteriza o roteiro semiestruturado?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "Tópicos a investigar com abertura para aprofundamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 2,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Tópicos a investigar com abertura para aprofundamento.",
+          "page": 27
+        },
+        {
+          "q": "Qual risco do roteiro semiestruturado é apontado?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda",
+            "Os tópicos previamente definidos podem ser insuficientes"
+          ],
+          "answer": 3,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Os tópicos previamente definidos podem ser insuficientes.",
+          "page": 27
+        },
+        {
+          "q": "Qual construto aparece no exemplo de roteiro semiestruturado?",
+          "options": [
+            "Insônia",
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 0,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Insônia.",
+          "page": 28
+        },
+        {
+          "q": "Qual tópico investiga a percepção do cliente sobre seu descanso?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "Qualidade subjetiva do sono",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 1,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Qualidade subjetiva do sono.",
+          "page": 28
+        },
+        {
+          "q": "Qual tópico investiga rotinas associadas a dormir melhor?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "Hábitos de higiene do sono",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 2,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Hábitos de higiene do sono.",
+          "page": 28
+        },
+        {
+          "q": "Qual tópico investiga pensamentos e afetos antes de dormir?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda",
+            "Início típico de sono"
+          ],
+          "answer": 3,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Início típico de sono.",
+          "page": 28
+        },
+        {
+          "q": "Qual tópico investiga despertares e eventos noturnos?",
+          "options": [
+            "Noite de sono e despertar",
+            "A divulgação irrestrita dos dados",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 0,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Noite de sono e despertar.",
+          "page": 28
+        },
+        {
+          "q": "Qual tópico investiga efeitos sobre atenção e cansaço?",
+          "options": [
+            "A divulgação irrestrita dos dados",
+            "Consequências de sono insuficiente",
+            "A eliminação da etapa de planejamento",
+            "A escolha aleatória sem considerar a demanda"
+          ],
+          "answer": 1,
+          "explanation": "Conforme a apresentação de Entrevistas, a resposta adequada é: Consequências de sono insuficiente.",
+          "page": 28
         }
       ]
     },
