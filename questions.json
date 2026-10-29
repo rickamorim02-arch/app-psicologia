@@ -362,6 +362,438 @@
           "answer": 1,
           "explanation": "No capítulo de Bardin, a alternativa correta é fundamentada na discussão apresentada na página 19 do PDF, sobre na entrevista nº 3 sobre o telefone, qual sentimento organiza o relato.",
           "page": 19
+        },
+        {
+          "q": "Na entrevista nº 19 sobre o telefone, qual movimento argumentativo Bardin identifica?",
+          "options": [
+            "Alternância entre avaliação positiva e restrições, com desfecho mais negativo",
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 0,
+          "explanation": "Segundo Bardin, alternância entre avaliação positiva e restrições, com desfecho mais negativo. A referência é a página 23 do PDF fornecido.",
+          "page": 23
+        },
+        {
+          "q": "Qual oposição caracteriza a resposta nº 23 sobre o telefone?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação",
+            "Forte investimento relacional em contraste com a atitude defensiva da resposta nº 21"
+          ],
+          "answer": 3,
+          "explanation": "Segundo Bardin, forte investimento relacional em contraste com a atitude defensiva da resposta nº 21. A referência é a página 23 do PDF fornecido.",
+          "page": 23
+        },
+        {
+          "q": "Quais são os três níveis da primeira leitura codificada do exemplo do telefone?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Temática, estrutura e expressão",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 2,
+          "explanation": "Segundo Bardin, temática, estrutura e expressão. A referência é a página 24 do PDF fornecido.",
+          "page": 24
+        },
+        {
+          "q": "O que o fenômeno de saturação indica no exemplo das entrevistas?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "A partir de certo ponto, novas respostas reiteram temas e trazem poucas novidades",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 1,
+          "explanation": "Segundo Bardin, a partir de certo ponto, novas respostas reiteram temas e trazem poucas novidades. A referência é a página 24 do PDF fornecido.",
+          "page": 24
+        },
+        {
+          "q": "Por que Bardin recomenda analisar o corpus por diferentes perspectivas?",
+          "options": [
+            "A complexidade do material verbal dificulta um único quadro categorial homogêneo",
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 0,
+          "explanation": "Segundo Bardin, a complexidade do material verbal dificulta um único quadro categorial homogêneo. A referência é a página 25 do PDF fornecido.",
+          "page": 25
+        },
+        {
+          "q": "Como pode ser organizado um quadro transversal de vantagens e desvantagens?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação",
+            "Temas nas linhas e indivíduos nas colunas, registrando presença ou ocorrências"
+          ],
+          "answer": 3,
+          "explanation": "Segundo Bardin, temas nas linhas e indivíduos nas colunas, registrando presença ou ocorrências. A referência é a página 25 do PDF fornecido.",
+          "page": 25
+        },
+        {
+          "q": "Qual utilidade de atribuir um título sintético a cada entrevista?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Destacar a especificidade do discurso e facilitar o manejo comparativo",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 2,
+          "explanation": "Segundo Bardin, destacar a especificidade do discurso e facilitar o manejo comparativo. A referência é a página 25 do PDF fornecido.",
+          "page": 25
+        },
+        {
+          "q": "Qual dimensão pode orientar uma tipologia dos entrevistados sobre telefone?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Grau de sociabilidade, necessidade dos outros e formas de defesa ou inibição",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 1,
+          "explanation": "Segundo Bardin, grau de sociabilidade, necessidade dos outros e formas de defesa ou inibição. A referência é a página 26 do PDF fornecido.",
+          "page": 26
+        },
+        {
+          "q": "Quais são os três polos cronológicos da análise de conteúdo apresentados por Bardin?",
+          "options": [
+            "Pré-análise, exploração do material e tratamento dos resultados com inferência e interpretação",
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 0,
+          "explanation": "Segundo Bardin, pré-análise, exploração do material e tratamento dos resultados com inferência e interpretação. A referência é a página 29 do PDF fornecido.",
+          "page": 29
+        },
+        {
+          "q": "Qual é a função central da pré-análise?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação",
+            "Organizar e sistematizar ideias iniciais num plano operacional de análise"
+          ],
+          "answer": 3,
+          "explanation": "Segundo Bardin, organizar e sistematizar ideias iniciais num plano operacional de análise. A referência é a página 29 do PDF fornecido.",
+          "page": 29
+        },
+        {
+          "q": "Quais missões Bardin atribui geralmente à pré-análise?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Escolher documentos, formular hipóteses e objetivos e elaborar indicadores",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 2,
+          "explanation": "Segundo Bardin, escolher documentos, formular hipóteses e objetivos e elaborar indicadores. A referência é a página 29 do PDF fornecido.",
+          "page": 29
+        },
+        {
+          "q": "O que caracteriza a leitura flutuante?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Contato inicial aberto com os documentos, permitindo impressões e orientações",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 1,
+          "explanation": "Segundo Bardin, contato inicial aberto com os documentos, permitindo impressões e orientações. A referência é a página 30 do PDF fornecido.",
+          "page": 30
+        },
+        {
+          "q": "Quando o objetivo de pesquisa já está definido, como selecionar documentos?",
+          "options": [
+            "Escolher fontes capazes de informar sobre o problema investigado",
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 0,
+          "explanation": "Segundo Bardin, escolher fontes capazes de informar sobre o problema investigado. A referência é a página 30 do PDF fornecido.",
+          "page": 30
+        },
+        {
+          "q": "O que exige a regra da exaustividade na constituição do corpus?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação",
+            "Considerar todos os elementos do universo definido, sem exclusões injustificadas"
+          ],
+          "answer": 3,
+          "explanation": "Segundo Bardin, considerar todos os elementos do universo definido, sem exclusões injustificadas. A referência é a página 31 do PDF fornecido.",
+          "page": 31
+        },
+        {
+          "q": "Quando a amostragem é rigorosa segundo a regra da representatividade?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Quando a amostra representa adequadamente o universo inicial",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 2,
+          "explanation": "Segundo Bardin, quando a amostra representa adequadamente o universo inicial. A referência é a página 31 do PDF fornecido.",
+          "page": 31
+        },
+        {
+          "q": "Como a heterogeneidade do universo afeta a amostragem?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Um universo mais heterogêneo tende a exigir amostra maior",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 1,
+          "explanation": "Segundo Bardin, um universo mais heterogêneo tende a exigir amostra maior. A referência é a página 31 do PDF fornecido.",
+          "page": 31
+        },
+        {
+          "q": "Qual é a regra da homogeneidade dos documentos?",
+          "options": [
+            "Usar critérios precisos e materiais comparáveis, sem singularidades excessivas",
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 0,
+          "explanation": "Segundo Bardin, usar critérios precisos e materiais comparáveis, sem singularidades excessivas. A referência é a página 32 do PDF fornecido.",
+          "page": 32
+        },
+        {
+          "q": "O que determina a regra da pertinência?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação",
+            "Adequação dos documentos ao objetivo da análise"
+          ],
+          "answer": 3,
+          "explanation": "Segundo Bardin, adequação dos documentos ao objetivo da análise. A referência é a página 32 do PDF fornecido.",
+          "page": 32
+        },
+        {
+          "q": "O que é uma hipótese na formulação de Bardin?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Afirmação provisória a verificar pelos procedimentos de análise",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 2,
+          "explanation": "Segundo Bardin, afirmação provisória a verificar pelos procedimentos de análise. A referência é a página 32 do PDF fornecido.",
+          "page": 32
+        },
+        {
+          "q": "Como um índice se transforma em indicador?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Pela organização sistemática de sinais observáveis segundo hipóteses e critérios",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 1,
+          "explanation": "Segundo Bardin, pela organização sistemática de sinais observáveis segundo hipóteses e critérios. A referência é a página 34 do PDF fornecido.",
+          "page": 34
+        },
+        {
+          "q": "Qual é a característica da exploração do material?",
+          "options": [
+            "Aplicação sistemática de codificação, decomposição e enumeração conforme regras",
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 0,
+          "explanation": "Segundo Bardin, aplicação sistemática de codificação, decomposição e enumeração conforme regras. A referência é a página 35 do PDF fornecido.",
+          "page": 35
+        },
+        {
+          "q": "Qual é o propósito do tratamento dos resultados?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação",
+            "Tornar os resultados brutos significativos e válidos para inferência e interpretação"
+          ],
+          "answer": 3,
+          "explanation": "Segundo Bardin, tornar os resultados brutos significativos e válidos para inferência e interpretação. A referência é a página 35 do PDF fornecido.",
+          "page": 35
+        },
+        {
+          "q": "O que é codificação na análise de conteúdo?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Transformação sistemática dos dados brutos por recorte, agregação e enumeração",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 2,
+          "explanation": "Segundo Bardin, transformação sistemática dos dados brutos por recorte, agregação e enumeração. A referência é a página 37 do PDF fornecido.",
+          "page": 37
+        },
+        {
+          "q": "Quais são as três decisões básicas da codificação quantitativa categorial?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Escolher unidades, regras de contagem e categorias de classificação",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 1,
+          "explanation": "Segundo Bardin, escolher unidades, regras de contagem e categorias de classificação. A referência é a página 37 do PDF fornecido.",
+          "page": 37
+        },
+        {
+          "q": "O que é unidade de registro?",
+          "options": [
+            "Segmento de significação tomado como base para codificação e eventual contagem",
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 0,
+          "explanation": "Segundo Bardin, segmento de significação tomado como base para codificação e eventual contagem. A referência é a página 38 do PDF fornecido.",
+          "page": 38
+        },
+        {
+          "q": "O que é tema enquanto unidade de registro?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação",
+            "Núcleo de sentido que pode atravessar formulações de extensão variável"
+          ],
+          "answer": 3,
+          "explanation": "Segundo Bardin, núcleo de sentido que pode atravessar formulações de extensão variável. A referência é a página 39 do PDF fornecido.",
+          "page": 39
+        },
+        {
+          "q": "Qual é a função da unidade de contexto?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Fornecer o segmento necessário para compreender corretamente a unidade de registro",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 2,
+          "explanation": "Segundo Bardin, fornecer o segmento necessário para compreender corretamente a unidade de registro. A referência é a página 41 do PDF fornecido.",
+          "page": 41
+        },
+        {
+          "q": "Qual distinção Bardin estabelece entre unidade de registro e regra de enumeração?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "A primeira define o que contar; a segunda, como contar",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 1,
+          "explanation": "Segundo Bardin, a primeira define o que contar; a segunda, como contar. A referência é a página 42 do PDF fornecido.",
+          "page": 42
+        },
+        {
+          "q": "Qual significado pode ter a ausência de um elemento numa análise?",
+          "options": [
+            "Pode funcionar como índice relevante dependendo do objetivo e da mensagem",
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 0,
+          "explanation": "Segundo Bardin, pode funcionar como índice relevante dependendo do objetivo e da mensagem. A referência é a página 42 do PDF fornecido.",
+          "page": 42
+        },
+        {
+          "q": "Qual ressalva Bardin faz sobre frequência como indicador?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação",
+            "A repetição nem sempre equivale à importância do conteúdo"
+          ],
+          "answer": 3,
+          "explanation": "Segundo Bardin, a repetição nem sempre equivale à importância do conteúdo. A referência é a página 43 do PDF fornecido.",
+          "page": 43
+        },
+        {
+          "q": "Quando utilizar frequência ponderada?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Quando elementos distintos recebem pesos diferentes de importância",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 2,
+          "explanation": "Segundo Bardin, quando elementos distintos recebem pesos diferentes de importância. A referência é a página 43 do PDF fornecido.",
+          "page": 43
+        },
+        {
+          "q": "O que a medida de intensidade procura captar?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Graus de força semântica ou expressiva das unidades analisadas",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 1,
+          "explanation": "Segundo Bardin, graus de força semântica ou expressiva das unidades analisadas. A referência é a página 44 do PDF fornecido.",
+          "page": 44
+        },
+        {
+          "q": "Qual característica define a direção em análise avaliativa?",
+          "options": [
+            "Orientação favorável, desfavorável, neutra ou ambivalente",
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 0,
+          "explanation": "Segundo Bardin, orientação favorável, desfavorável, neutra ou ambivalente. A referência é a página 45 do PDF fornecido.",
+          "page": 45
+        },
+        {
+          "q": "Por que a ordem de aparecimento das unidades pode ser importante?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação",
+            "A sequência dos elementos pode ter significado independente da frequência"
+          ],
+          "answer": 3,
+          "explanation": "Segundo Bardin, a sequência dos elementos pode ter significado independente da frequência. A referência é a página 46 do PDF fornecido.",
+          "page": 46
+        },
+        {
+          "q": "O que significa coocorrência?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Substituir a análise pela opinião do entrevistador",
+            "Presença simultânea de duas ou mais unidades de registro numa unidade de contexto",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 2,
+          "explanation": "Segundo Bardin, presença simultânea de duas ou mais unidades de registro numa unidade de contexto. A referência é a página 46 do PDF fornecido.",
+          "page": 46
+        },
+        {
+          "q": "Qual distinção aparece nas modalidades de coocorrência?",
+          "options": [
+            "Eliminar o contexto das falas e interpretar apenas números",
+            "Associação, equivalência e oposição entre elementos",
+            "Substituir a análise pela opinião do entrevistador",
+            "Ignorar os critérios de seleção e codificação"
+          ],
+          "answer": 1,
+          "explanation": "Segundo Bardin, associação, equivalência e oposição entre elementos. A referência é a página 47 do PDF fornecido.",
+          "page": 47
         }
       ]
     },
