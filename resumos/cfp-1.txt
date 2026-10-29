@@ -1,0 +1,128 @@
+Este resumo estruturado foi elaborado com base no Manual Orientativo de Registro e
+Elaboração de Documentos Psicológicos (CFP, 2025).
+
+
+
+
+Resumo Estruturado: Manual Orientativo
+de Registro e Elaboração de
+Documentos Psicológicos (CFP, 2025)
+1. Apresentação e Objetivos do Manual
+
+   ●​ Instituição Emissora: Conselho Federal de Psicologia (XIX Plenário / Gestão
+      2023–2025).
+   ●​ Propósito: Oferecer diretrizes técnicas, éticas e legais atualizadas para qualificar a
+      escrita e o registro documental da categoria profissional em suas diversas áreas de
+      atuação.
+   ●​ Conceito Central: O registro e a elaboração de documentos em Psicologia são
+      definidos como atos de cuidado, ultrapassando a dimensão puramente tecnicista
+      para assegurar os direitos dos usuários, o sigilo profissional e a continuidade do
+      atendimento.
+
+
+
+
+2. Contexto Profissional e Desafios Étimos
+
+   ●​ Vulnerabilidade Ética: Levantamentos da Secretaria de Orientação e Ética do CFP
+      (2024) indicam que a emissão de documentos sem fundamentação e qualidade
+      técnico-científica (Art. 2º, alínea g do Código de Ética) e a desobediência às regras
+      formais de elaboração estão entre as infrações éticas mais recorrentes.
+   ●​ Relevância Prática: Segundo o Censo da Psicologia Brasileira (2022), a confecção
+      de documentos representa cerca de 5% de todas as atividades desempenhadas na
+      profissão e chega a mais de 25% na área da Psicologia Jurídica.
+   ●​ Causas Estruturais: A fragilidade na elaboração documental decorre de
+      precarização na formação inicial, profusão normativa e falta de atualização contínua
+      por parte das profissionais.
+
+
+
+
+3. Articulação Normativa do CFP
+
+O manual unifica o entendimento das duas principais resoluções regulatórias da prática
+escrita:
+
+   1.​ Resolução CFP nº 01/2009 (atualizada pela 05/2010): Regulamenta a
+       obrigatoriedade vinculante do Registro Documental e do Prontuário decorrentes de
+       qualquer prestação de serviço psicológico.
+   2.​ Resolução CFP nº 06/2019: Dispõe sobre a elaboração de Documentos
+       Psicológicos formais, subdivididos em 5 modalidades (Declaração, Atestado
+       Psicológico, Relatório [Psicológico e Multiprofissional], Laudo Psicológico e Parecer
+       Psicológico), elaborados predominantemente sob solicitação ou em processos de
+       Avaliação Psicológica.
+
+
+
+
+4. Registro Documental versus Prontuário Psicológico
+
+   ●​ Semelhanças: Ambos compartilham finalidades técnico-científicas, exigência de
+      estrutura mínima, natureza sigilosa e livre acesso para fiscalização do Sistema
+      Conselhos (CFP/CRP).
+   ●​ Prontuário: É a forma prioritária de registro nas áreas de Saúde e Assistência
+      Social. Trata-se de um dever da psicóloga e de um direito de acesso do usuário ou
+      beneficiário.
+   ●​ Registro Documental: Adotado quando houver necessidade fundamentada de
+      restrição de compartilhamento de certas informações com o usuário, terceiros ou
+      outros profissionais (ex.: folhas de resposta de testes, desenhos, rascunhos com
+      hipóteses diagnósticas não compartilhadas e comunicações sigilosas de
+      responsáveis).
+
+
+
+
+5. Estrutura Mínima Obrigatória dos Registros (Res. CFP nº 01/2009)
+
+Todo registro profissional deve conter quatro seções fundamentais:
+
+   1.​ Identificação do Usuário/Instituição: Nome completo/social, data de nascimento,
+       documento de identificação (RG/CPF) e contatos de emergência ou responsáveis.
+   2.​ Avaliação da Demanda e Objetivos do Trabalho: Razões que motivaram o
+       atendimento, modalidade prestada, frequência, recursos (presencial/remoto) e metas
+       estipuladas.
+   3.​ Evolução do Trabalho e Procedimentos Técnico-Científicos: Considerado o
+       "coração" do registro. Descrição das atividades e técnicas aplicadas de forma
+       integrada ao raciocínio clínico.
+           ○​ Atenção: Deve-se primar pela qualidade da escrita e síntese técnico-clínica,
+               evitando a transcrição literal sistemática das sessões.
+   4.​ Registro de Encaminhamento ou Encerramento: Descrição sobre a conclusão do
+       serviço, eventuais interrupções/desistências, recomendações de novos
+       encaminhamentos e data com assinatura da profissional.
+
+6. Linguagem, Meios de Armazenamento e Frequência
+
+   ●​ Linguagem: Deve ser formal, técnica e acessível a leigos, utilizando com rigor a
+      norma culta e o vocabulário adequado, mantendo a coerência entre a escrita
+      pessoal ou impessoal.
+   ●​ Meios de Registro:
+          ○​ Em Papel: Baixo custo inicial e validade jurídica direta, contudo exige espaço
+              físico adequado e apresenta maior risco de adulteração e perdas.
+          ○​ Informatizado (TDICs): Oferece agilidade, padronização e segurança via
+              senhas. Requer verificação prévia de conformidade técnica/ética com as
+              normativas de proteção de dados e a Resolução CFP nº 09/2024.
+   ●​ Frequência: O registro deve ser mantido permanentemente atualizado,
+      preferencialmente realizado logo após a conclusão do atendimento para garantir a
+      fidedignidade dos dados.
+
+
+
+
+7. Prazos de Guarda e Casos Específicos
+
+   ●​ Tempo de Guarda:
+          ○​ 5 anos para registros documentais gerais.
+          ○​ Até 20 anos para prontuários eletrônicos/físicos em saúde (conforme a Lei
+             Federal nº 13.787/2018).
+   ●​ Serviços Multiprofissionais: Utiliza-se prontuário único/compartilhado, devendo a
+      psicóloga registrar apenas as informações estritamente necessárias ao trabalho
+      da equipe para resguardar o sigilo profissional.
+   ●​ Atendimento em Grupo: Deve contar com registro do funcionamento geral do
+      grupo e com documentação individualizada para os participantes de grupos não
+      eventuais.
+
+
+
+💡 Sugestão de Próximo Passo: Gostaria que eu detalhasse as características e
+estruturas das 5 modalidades de Documentos Psicológicos (Declaração, Atestado,
+Relatório, Laudo e Parecer) trazidas no Manual?
