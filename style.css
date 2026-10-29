@@ -4,3 +4,6 @@ nav button{min-width:0;flex:1;padding:7px 2px;font-size:20px}nav button span{fon
 .summary-group{margin:0}.summary-group h2{margin:0 0 12px;font-size:18px}.summary-parts{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:9px}.summary-part{text-align:left;background:#f0eaff}.summary-content{font-size:16px;line-height:1.75;white-space:pre-wrap}.summary-content::selection{background:#c4b1f7}#summaryReader{scroll-margin-top:85px}
 
 .summary-tools{display:flex;gap:6px;align-items:center;flex-wrap:wrap;position:sticky;top:61px;z-index:3;background:#fff;padding:8px 0}.summary-tools button{padding:8px}.summary-tools label{font-size:12px;display:flex;align-items:center;gap:5px}.summary-tools input{width:80px}.summary-paper{position:relative;min-width:0}.summary-ink{position:absolute;left:0;top:0;z-index:2;pointer-events:none}.summary-content{position:relative;z-index:1;min-height:80px}
+
+/* A caneta captura os gestos; a rolagem só é liberada no modo Rolar. */
+.summary-paper:has(.summary-ink[style*="pointer-events: auto"]){touch-action:none;overscroll-behavior:contain;user-select:none;-webkit-user-select:none}.summary-ink{touch-action:none;user-select:none;-webkit-user-select:none}
