@@ -1303,6 +1303,918 @@
           "answer": 0,
           "explanation": "Os apêndices apresentam modelos de prontuários e documentos psicológicos.",
           "page": 7
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Vedação ética identificada em 2024\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Emitir documentos sem fundamentação e qualidade técnico-científica",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Emitir documentos sem fundamentação e qualidade técnico-científica. O manual apresenta esse aspecto na página 10 do PDF.",
+          "page": 10
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Norma dos registros e prontuários\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Resolução CFP nº 01/2009",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Resolução CFP nº 01/2009. O manual apresenta esse aspecto na página 12 do PDF.",
+          "page": 12
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Norma de documentos psicológicos\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Resolução CFP nº 06/2019"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Resolução CFP nº 06/2019. O manual apresenta esse aspecto na página 13 do PDF.",
+          "page": 13
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Registros versus documentos solicitados\"?",
+          "options": [
+            "Registros obrigatórios e documentos produzidos conforme solicitação",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Registros obrigatórios e documentos produzidos conforme solicitação. O manual apresenta esse aspecto na página 13 do PDF.",
+          "page": 13
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Finalidade do registro\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Documentar evolução e procedimentos técnicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Documentar evolução e procedimentos técnicos. O manual apresenta esse aspecto na página 14 do PDF.",
+          "page": 14
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Registro prioritário em serviços\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Prontuário psicológico",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Prontuário psicológico. O manual apresenta esse aspecto na página 15 do PDF.",
+          "page": 15
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Uso do registro documental\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Restringir compartilhamento de informações específicas"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Restringir compartilhamento de informações específicas. O manual apresenta esse aspecto na página 15 do PDF.",
+          "page": 15
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Semelhança entre prontuário e registro\"?",
+          "options": [
+            "Preservação do sigilo",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Preservação do sigilo. O manual apresenta esse aspecto na página 16 do PDF.",
+          "page": 16
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Componentes mínimos do registro\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Quatro",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Quatro. O manual apresenta esse aspecto na página 17 do PDF.",
+          "page": 17
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Primeiro componente do registro\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Identificação do usuário ou instituição",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Identificação do usuário ou instituição. O manual apresenta esse aspecto na página 17 do PDF.",
+          "page": 17
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Avaliação da demanda\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Razões da busca e objetivos previstos"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Razões da busca e objetivos previstos. O manual apresenta esse aspecto na página 18 do PDF.",
+          "page": 18
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Coração do registro\"?",
+          "options": [
+            "Evolução do trabalho e procedimentos",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Evolução do trabalho e procedimentos. O manual apresenta esse aspecto na página 19 do PDF.",
+          "page": 19
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Espaços em branco\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Devem ser evitados para prevenir adulteração",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Devem ser evitados para prevenir adulteração. O manual apresenta esse aspecto na página 19 do PDF.",
+          "page": 19
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Qualidade da evolução\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Depende da pertinência da síntese e não do número de páginas",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Depende da pertinência da síntese e não do número de páginas. O manual apresenta esse aspecto na página 19 do PDF.",
+          "page": 19
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Transcrição literal integral\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Não equivale à evolução técnica"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Não equivale à evolução técnica. O manual apresenta esse aspecto na página 20 do PDF.",
+          "page": 20
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Hipóteses clínicas não compartilhadas\"?",
+          "options": [
+            "Preferir registro documental em vez de prontuário",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Preferir registro documental em vez de prontuário. O manual apresenta esse aspecto na página 20 do PDF.",
+          "page": 20
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Linguagem dos registros\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Formal técnica e acessível",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Formal técnica e acessível. O manual apresenta esse aspecto na página 21 do PDF.",
+          "page": 21
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Suporte digital\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Admitido com segurança e avaliação dos riscos",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Admitido com segurança e avaliação dos riscos. O manual apresenta esse aspecto na página 21 do PDF.",
+          "page": 21
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Risco do papel\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Perda adulteração e ilegibilidade"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Perda adulteração e ilegibilidade. O manual apresenta esse aspecto na página 22 do PDF.",
+          "page": 22
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Frequência do registro\"?",
+          "options": [
+            "Atualização permanente preferencialmente após atendimento",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Atualização permanente preferencialmente após atendimento. O manual apresenta esse aspecto na página 23 do PDF.",
+          "page": 23
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Registro multiprofissional\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Compartilhar somente informações relevantes à equipe",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Compartilhar somente informações relevantes à equipe. O manual apresenta esse aspecto na página 24 do PDF.",
+          "page": 24
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Grupos contínuos\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Prontuário coletivo e documentação individual",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Prontuário coletivo e documentação individual. O manual apresenta esse aspecto na página 24 do PDF.",
+          "page": 24
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Documento formal\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Produzido mediante solicitação e finalidade adequada"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Produzido mediante solicitação e finalidade adequada. O manual apresenta esse aspecto na página 25 do PDF.",
+          "page": 25
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Número de modalidades\"?",
+          "options": [
+            "Cinco",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Cinco. O manual apresenta esse aspecto na página 25 do PDF.",
+          "page": 25
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Conteúdo da declaração\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Comparecimento e horários de acompanhamento",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Comparecimento e horários de acompanhamento. O manual apresenta esse aspecto na página 26 do PDF.",
+          "page": 26
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Vedação na declaração\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Inserção de sintomas e estados psicológicos",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Inserção de sintomas e estados psicológicos. O manual apresenta esse aspecto na página 26 do PDF.",
+          "page": 26
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Fundamento do atestado\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Avaliação psicológica"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Avaliação psicológica. O manual apresenta esse aspecto na página 26 do PDF.",
+          "page": 26
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Avaliação compulsória\"?",
+          "options": [
+            "Emitir atestado psicológico",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Emitir atestado psicológico. O manual apresenta esse aspecto na página 27 do PDF.",
+          "page": 27
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Normas específicas de avaliação\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Trânsito armas e concursos públicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Trânsito armas e concursos públicos. O manual apresenta esse aspecto na página 27 do PDF.",
+          "page": 27
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Natureza do relatório psicológico\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Informativa e não diagnóstica",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Informativa e não diagnóstica. O manual apresenta esse aspecto na página 28 do PDF.",
+          "page": 28
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Relatório versus transcrição\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Relatório sistematiza o trabalho e não reproduz sessões literalmente"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Relatório sistematiza o trabalho e não reproduz sessões literalmente. O manual apresenta esse aspecto na página 28 do PDF.",
+          "page": 28
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Relatório multiprofissional\"?",
+          "options": [
+            "Comunica atuação conjunta entre áreas",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Comunica atuação conjunta entre áreas. O manual apresenta esse aspecto na página 29 do PDF.",
+          "page": 29
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Documento decorrente de avaliação\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Laudo psicológico",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Laudo psicológico. O manual apresenta esse aspecto na página 29 do PDF.",
+          "page": 29
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Função do parecer\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Responder tecnicamente a uma consulta ou questão-problema",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Responder tecnicamente a uma consulta ou questão-problema. O manual apresenta esse aspecto na página 30 do PDF.",
+          "page": 30
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Parecer e atendimento direto\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Não exige avaliação direta da parecerista"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Não exige avaliação direta da parecerista. O manual apresenta esse aspecto na página 30 do PDF.",
+          "page": 30
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Parecer sobre laudo pericial\"?",
+          "options": [
+            "Examinar fundamentação científica técnica e ética",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Examinar fundamentação científica técnica e ética. O manual apresenta esse aspecto na página 31 do PDF.",
+          "page": 31
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Competência para parecer\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Conhecimento específico sobre a matéria",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Conhecimento específico sobre a matéria. O manual apresenta esse aspecto na página 31 do PDF.",
+          "page": 31
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Estruturas documentais\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Variam conforme finalidade e modalidade",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Variam conforme finalidade e modalidade. O manual apresenta esse aspecto na página 32 do PDF.",
+          "page": 32
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Princípio técnico documental\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Fidedignidade e fundamentação científica"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Fidedignidade e fundamentação científica. O manual apresenta esse aspecto na página 34 do PDF.",
+          "page": 34
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Linguagem documental\"?",
+          "options": [
+            "Precisão e coerência do raciocínio psicológico",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Precisão e coerência do raciocínio psicológico. O manual apresenta esse aspecto na página 34 do PDF.",
+          "page": 34
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Destinatários dos documentos\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Beneficiário responsável legal ou solicitante pertinente",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Beneficiário responsável legal ou solicitante pertinente. O manual apresenta esse aspecto na página 35 do PDF.",
+          "page": 35
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Protocolo de entrega\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Comprova recebimento do documento",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Comprova recebimento do documento. O manual apresenta esse aspecto na página 35 do PDF.",
+          "page": 35
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Entrega de laudo e relatório\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Exige entrevista devolutiva ou registro da impossibilidade"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Exige entrevista devolutiva ou registro da impossibilidade. O manual apresenta esse aspecto na página 35 do PDF.",
+          "page": 35
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Validade temporal\"?",
+          "options": [
+            "Considerar natureza dinâmica dos fenômenos",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Considerar natureza dinâmica dos fenômenos. O manual apresenta esse aspecto na página 36 do PDF.",
+          "page": 36
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Finalidade na declaração\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Deve ser específica e não fórmula genérica",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Deve ser específica e não fórmula genérica. O manual apresenta esse aspecto na página 37 do PDF.",
+          "page": 37
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Justificar versus abonar\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Justificar não necessariamente elimina compensação",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Justificar não necessariamente elimina compensação. O manual apresenta esse aspecto na página 38 do PDF.",
+          "page": 38
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Relatório de atendimento único\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Pode ser emitido conforme finalidade"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Pode ser emitido conforme finalidade. O manual apresenta esse aspecto na página 39 do PDF.",
+          "page": 39
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Atestado versus laudo\"?",
+          "options": [
+            "Atestado sintético e laudo com análise detalhada",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Atestado sintético e laudo com análise detalhada. O manual apresenta esse aspecto na página 39 do PDF.",
+          "page": 39
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Laudo versus relatório\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Laudo decorre de avaliação e relatório de acompanhamento",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Laudo decorre de avaliação e relatório de acompanhamento. O manual apresenta esse aspecto na página 40 do PDF.",
+          "page": 40
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Uso de IA\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Apoio à redação sem substituir julgamento profissional",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Apoio à redação sem substituir julgamento profissional. O manual apresenta esse aspecto na página 41 do PDF.",
+          "page": 41
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Responsabilidade pela IA\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Integralmente da psicóloga"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Integralmente da psicóloga. O manual apresenta esse aspecto na página 42 do PDF.",
+          "page": 42
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Segurança física\"?",
+          "options": [
+            "Armário com chave e sala privativa",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Armário com chave e sala privativa. O manual apresenta esse aspecto na página 43 do PDF.",
+          "page": 43
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Segurança digital\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Senha pessoal e acesso restrito",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Senha pessoal e acesso restrito. O manual apresenta esse aspecto na página 43 do PDF.",
+          "page": 43
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Prazo geral de guarda\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Cinco anos desde último registro salvo exceções",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Cinco anos desde último registro salvo exceções. O manual apresenta esse aspecto na página 43 do PDF.",
+          "page": 43
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Registros de menores\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Exigem considerar legislação e proteção integral"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Exigem considerar legislação e proteção integral. O manual apresenta esse aspecto na página 44 do PDF.",
+          "page": 44
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Descarte documental\"?",
+          "options": [
+            "Impedir acesso de terceiros definitivamente",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Impedir acesso de terceiros definitivamente. O manual apresenta esse aspecto na página 45 do PDF.",
+          "page": 45
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Substituição de psicóloga\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Transferência documentada à substituta",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Transferência documentada à substituta. O manual apresenta esse aspecto na página 45 do PDF.",
+          "page": 45
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Extinção do serviço\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Informar CRP para destinação do arquivo",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Informar CRP para destinação do arquivo. O manual apresenta esse aspecto na página 45 do PDF.",
+          "page": 45
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Perda ou furto\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Boletim de ocorrência comunicação e tentativa de reconstrução"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Boletim de ocorrência comunicação e tentativa de reconstrução. O manual apresenta esse aspecto na página 46 do PDF.",
+          "page": 46
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Serviço-escola\"?",
+          "options": [
+            "Função formativa e assistencial",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Função formativa e assistencial. O manual apresenta esse aspecto na página 47 do PDF.",
+          "page": 47
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Sigilo no estágio\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Responsabilidade dos profissionais orientadores e supervisores",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Responsabilidade dos profissionais orientadores e supervisores. O manual apresenta esse aspecto na página 47 do PDF.",
+          "page": 47
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Prontuário eletrônico no estágio\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Validar atuação discente e profissional",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Validar atuação discente e profissional. O manual apresenta esse aspecto na página 48 do PDF.",
+          "page": 48
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Termo de compromisso\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Formaliza estágio entre partes"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Formaliza estágio entre partes. O manual apresenta esse aspecto na página 50 do PDF.",
+          "page": 50
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Seguro do estágio\"?",
+          "options": [
+            "Proteção do estagiário",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Proteção do estagiário. O manual apresenta esse aspecto na página 50 do PDF.",
+          "page": 50
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Acolhimento escolar\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Registra motivos e histórico de aproximação",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Registra motivos e histórico de aproximação. O manual apresenta esse aspecto na página 51 do PDF.",
+          "page": 51
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Documentos judiciais\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Explicitar limites e fundamentação da atuação",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Explicitar limites e fundamentação da atuação. O manual apresenta esse aspecto na página 52 do PDF.",
+          "page": 52
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Relatório clínico e perícia\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Relatório não tem finalidade pericial"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Relatório não tem finalidade pericial. O manual apresenta esse aspecto na página 53 do PDF.",
+          "page": 53
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Terceiros não atendidos\"?",
+          "options": [
+            "Evitar conclusões diagnósticas sobre eles",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Evitar conclusões diagnósticas sobre eles. O manual apresenta esse aspecto na página 53 do PDF.",
+          "page": 53
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Instrumento SUAS\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Prontuário SUAS",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Prontuário SUAS. O manual apresenta esse aspecto na página 54 do PDF.",
+          "page": 54
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Acesso ao prontuário SUAS\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Equipe técnica de referência de nível superior",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Equipe técnica de referência de nível superior. O manual apresenta esse aspecto na página 54 do PDF.",
+          "page": 54
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Critério para quebra de sigilo\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Menor prejuízo com justificativa ética"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Menor prejuízo com justificativa ética. O manual apresenta esse aspecto na página 55 do PDF.",
+          "page": 55
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Quebra de sigilo\"?",
+          "options": [
+            "Pode ser eticamente justificada",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Pode ser eticamente justificada. O manual apresenta esse aspecto na página 57 do PDF.",
+          "page": 57
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Modelo de termo de entrega\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Confirma recebimento e devolutiva",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 1,
+          "explanation": "A orientação correta é: Confirma recebimento e devolutiva. O manual apresenta esse aspecto na página 72 do PDF.",
+          "page": 72
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Referências no parecer\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Obrigatórias no modelo apresentado",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 2,
+          "explanation": "A orientação correta é: Obrigatórias no modelo apresentado. O manual apresenta esse aspecto na página 67 do PDF.",
+          "page": 67
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Prontuário psicológico modelo\"?",
+          "options": [
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento",
+            "Identificação demanda evolução e encerramento"
+          ],
+          "answer": 3,
+          "explanation": "A orientação correta é: Identificação demanda evolução e encerramento. O manual apresenta esse aspecto na página 58 do PDF.",
+          "page": 58
+        },
+        {
+          "q": "Segundo o Manual Orientativo do CFP (2025), qual orientação corresponde a \"Modelo de laudo\"?",
+          "options": [
+            "Inclui identificação demanda procedimentos análise e conclusão",
+            "Ignorar os procedimentos técnico-científicos",
+            "Divulgar informações sigilosas indiscriminadamente",
+            "Eliminar registros de acompanhamento"
+          ],
+          "answer": 0,
+          "explanation": "A orientação correta é: Inclui identificação demanda procedimentos análise e conclusão. O manual apresenta esse aspecto na página 64 do PDF.",
+          "page": 64
         }
       ]
     },
