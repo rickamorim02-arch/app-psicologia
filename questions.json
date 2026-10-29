@@ -2234,6 +2234,174 @@
           "answer": 3,
           "explanation": "Um programa construtivista, aberto, com descrições textuais em estruturas de árvore. Esse procedimento ou exemplo é discutido na página 93 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
           "page": 93
+        },
+        {
+          "q": "Quais tipos de função Bardin atribui ao DEREDEC?",
+          "options": [
+            "Clínicas, terapêuticas, farmacológicas e cirúrgicas",
+            "Descritivas, exploratórias, analíticas e de controle",
+            "Somente armazenamento e impressão",
+            "Apenas tradução e reconhecimento de imagens"
+          ],
+          "answer": 1,
+          "explanation": "Descritivas, exploratórias, analíticas e de controle. Bardin descreve essa operação ou aplicação na página 94 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 94
+        },
+        {
+          "q": "Na estrutura textual do DEREDEC, o que representa uma EXFAD?",
+          "options": [
+            "Um índice exclusivo de frequência de páginas",
+            "Uma entrevista sem transcrição",
+            "Uma unidade admissível de descrição, desde palavra até estrutura em árvore",
+            "Uma categoria obrigatoriamente clínica"
+          ],
+          "answer": 2,
+          "explanation": "Uma unidade admissível de descrição, desde palavra até estrutura em árvore. Bardin descreve essa operação ou aplicação na página 94 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 94
+        },
+        {
+          "q": "O que fazem os autômatos no processo descritivo do DEREDEC?",
+          "options": [
+            "Produzem interpretações sem regras explícitas",
+            "Eliminam toda necessidade de revisão",
+            "Substituem automaticamente palavras por diagnósticos",
+            "Percorrem sequências do texto e aplicam regras programadas"
+          ],
+          "answer": 3,
+          "explanation": "Percorrem sequências do texto e aplicam regras programadas. Bardin descreve essa operação ou aplicação na página 95 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 95
+        },
+        {
+          "q": "Qual é a função da gramática de superfície do francês descrita por Bardin?",
+          "options": [
+            "Identificar estruturas sintáticas e relações de dependência contextual",
+            "Medir exclusivamente o comprimento físico dos documentos",
+            "Determinar a intenção moral de qualquer pessoa",
+            "Traduzir automaticamente textos para outras línguas"
+          ],
+          "answer": 0,
+          "explanation": "Identificar estruturas sintáticas e relações de dependência contextual. Bardin descreve essa operação ou aplicação na página 96 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 96
+        },
+        {
+          "q": "No DEREDEC, o que caracteriza o modelo MODI?",
+          "options": [
+            "Análise exclusiva da identidade dos emissores",
+            "Pesquisa de ocorrências simples para aferir importância quantitativa de palavras ou categorias",
+            "Comparação obrigatória de fotografias",
+            "Inferência causal automática sem texto"
+          ],
+          "answer": 1,
+          "explanation": "Pesquisa de ocorrências simples para aferir importância quantitativa de palavras ou categorias. Bardin descreve essa operação ou aplicação na página 98 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 98
+        },
+        {
+          "q": "Qual objetivo possui o modelo MOD5 no exemplo do DEREDEC?",
+          "options": [
+            "Identificar apenas a primeira palavra de cada documento",
+            "Ordenar entrevistas exclusivamente pela data",
+            "Explorar coocorrências de palavras em um espaço textual delimitado",
+            "Excluir toda análise de proximidade lexical"
+          ],
+          "answer": 2,
+          "explanation": "Explorar coocorrências de palavras em um espaço textual delimitado. Bardin descreve essa operação ou aplicação na página 98 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 98
+        },
+        {
+          "q": "Que resultado pode ser produzido pelas funções analíticas do DEREDEC?",
+          "options": [
+            "Diagnóstico psicológico infalível a partir de uma palavra",
+            "Previsão certa de acontecimentos futuros",
+            "Substituição de todas as categorias por números aleatórios",
+            "Comparações intertextuais e perfis de texto"
+          ],
+          "answer": 3,
+          "explanation": "Comparações intertextuais e perfis de texto. Bardin descreve essa operação ou aplicação na página 98 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 98
+        },
+        {
+          "q": "Qual relação Bardin estabelece entre informatização e metodologia de análise?",
+          "options": [
+            "Os avanços dependem também do tratamento da linguagem e de outras áreas",
+            "A metodologia se torna independente de qualquer teoria",
+            "A informatização elimina a necessidade de definir corpus",
+            "O progresso depende apenas da velocidade do computador"
+          ],
+          "answer": 0,
+          "explanation": "Os avanços dependem também do tratamento da linguagem e de outras áreas. Bardin descreve essa operação ou aplicação na página 99 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 99
+        },
+        {
+          "q": "Segundo o texto, o que compõe um sistema especializado em inteligência artificial?",
+          "options": [
+            "Apenas lista alfabética de palavras",
+            "Base de conhecimentos do domínio e motor de inferência",
+            "Somente um processador de texto",
+            "Exclusivamente o número de entrevistas"
+          ],
+          "answer": 1,
+          "explanation": "Base de conhecimentos do domínio e motor de inferência. Bardin descreve essa operação ou aplicação na página 100 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 100
+        },
+        {
+          "q": "Que papel pode exercer o especialista na construção de sistemas inteligentes?",
+          "options": [
+            "Garantir que todo resultado seja verdadeiro sem validação",
+            "Eliminar as particularidades do corpus",
+            "Ajudar a formalizar conhecimentos de domínio para uso computacional",
+            "Substituir integralmente a análise dos dados por intuição"
+          ],
+          "answer": 2,
+          "explanation": "Ajudar a formalizar conhecimentos de domínio para uso computacional. Bardin descreve essa operação ou aplicação na página 100 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 100
+        },
+        {
+          "q": "Qual procedimento permite cruzar respostas abertas com características dos respondentes?",
+          "options": [
+            "Somente leitura de uma resposta isolada",
+            "Exclusão das respostas que não sejam numéricas",
+            "Ordenação das palavras por tamanho sem grupos",
+            "Triagem cruzada entre categorias de respostas e variáveis dos participantes"
+          ],
+          "answer": 3,
+          "explanation": "Triagem cruzada entre categorias de respostas e variáveis dos participantes. Bardin descreve essa operação ou aplicação na página 101 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 101
+        },
+        {
+          "q": "No estudo de sentimento nacional dos jovens, qual variável foi usada para comparar respostas?",
+          "options": [
+            "O último diploma obtido pelos respondentes",
+            "A marca do computador utilizado",
+            "A extensão do título da pesquisa",
+            "A ordem de chegada dos questionários"
+          ],
+          "answer": 0,
+          "explanation": "O último diploma obtido pelos respondentes. Bardin descreve essa operação ou aplicação na página 101 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 101
+        },
+        {
+          "q": "No exemplo sobre alimentação, o que a informatização permite observar?",
+          "options": [
+            "A impossibilidade de comparar respostas abertas",
+            "Associações entre categorias de respostas e subgrupos sociodemográficos",
+            "A identidade pessoal de todos os entrevistados",
+            "Uma regra universal de alimentação derivada de uma única resposta"
+          ],
+          "answer": 1,
+          "explanation": "Associações entre categorias de respostas e subgrupos sociodemográficos. Bardin descreve essa operação ou aplicação na página 102 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 102
+        },
+        {
+          "q": "Qual conclusão metodológica sintetiza a análise cruzada de respostas abertas?",
+          "options": [
+            "Toda resposta aberta precisa ser descartada antes de cruzamentos",
+            "Categorias de respostas não podem ser relacionadas a variáveis externas",
+            "É possível descrever simultaneamente classes de respostas e perfis de respondentes",
+            "A análise lexical substitui necessariamente toda interpretação contextual"
+          ],
+          "answer": 2,
+          "explanation": "É possível descrever simultaneamente classes de respostas e perfis de respondentes. Bardin descreve essa operação ou aplicação na página 102 do PDF, destacando possibilidades e limites da análise informatizada.",
+          "page": 102
         }
       ]
     },
