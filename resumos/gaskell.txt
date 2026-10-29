@@ -1,0 +1,161 @@
+Resumo Estruturado: Entrevistas
+Individuais e Grupais (Gaskell, 2010)
+
+1. Fundamentação Teórica e Usos da Entrevista Qualitativa
+
+   ●​ Conceito e Abrangência: A pesquisa qualitativa com entrevistas envolve
+      principalmente a entrevista em profundidade (semiestruturada, com único
+      respondente) e o grupo focal (com um grupo de respondentes). Diferencia-se das
+      pesquisas de levantamento fortemente estruturadas (questionários quantitativos) e
+      da observação participante continuada/etnografia.
+   ●​ Presuposto Construtivista: Fundamenta-se na premissa de que o mundo social
+      não é um dado natural predeterminado, mas sim ativamente construído pelas
+      pessoas em seu cotidiano.
+   ●​ Objetivo Central: Busca obter uma compreensão detalhada das crenças,
+      atitudes, valores e motivações que dão suporte aos comportamentos humanos em
+      contextos sociais específicos.
+   ●​ Aplicações e Triangulação: É utilizada para descrição, desenvolvimento e teste de
+      conceitos. Também pode ser combinada com métodos quantitativos (triangulação),
+      servindo tanto para formular questões adequadas em levantamentos quanto para
+      explicar achados numéricos em profundidade.
+
+
+
+
+2. Preparação e Planejamento
+
+O Tópico Guia
+
+   ●​ Natureza e Função: É a espinha dorsal do processo de pesquisa. Deve caber
+      idealmente em uma página e consistir em um conjunto de títulos de
+      parágrafos/lembrete de tópicos, e não em uma lista rígida de perguntas fechadas.
+   ●​ Construção: Baseia-se na leitura crítica da literatura, no conhecimento prévio do
+      campo, em conversas preliminares e no pensamento criativo do pesquisador.
+   ●​ Flexibilidade: Funciona como um esquema adaptável. O entrevistador deve ter
+      sensibilidade para modificar o guia ao longo do estudo, adicionando novos temas
+      emergentes ou descartando tópicos que se mostrem irrelevantes.
+
+Seleção dos Entrevistados e Saturação
+
+   ●​ Seleção vs. Amostragem: Prefere-se o termo "seleção" para afastar a noção de
+      amostragem probabilística ou representatividade estatística.
+
+   ●​ Finalidade: O objetivo não é contar opiniões ou medir frequências na população,
+      mas mapear o espectro completo de representações, opiniões e pontos de
+      vista sobre o assunto.
+   ●​ Estratégias de Seleção: Pode ser feita com base em variáveis sociodemográficas
+      relevantes ou no mapeamento de "grupos naturais" (pessoas que compartilham
+      um meio social, histórico, interesses e valores comuns).
+   ●​ Tamanho do Corpus e Saturação de Sentido:
+          ○​ O número de entrevistas depende da diversidade do ambiente e dos
+             recursos disponíveis.
+          ○​ O critério de encerramento é a saturação de sentido, momento em que a
+             realização de novas entrevistas deixa de trazer percepções ou surpresas
+             inéditas.
+          ○​ Em termos práticos, um corpus típico para um pesquisador gira entre 15 a 25
+             entrevistas individuais e 6 a 8 discussões em grupos focais.
+
+Precauções Metodológicas (Becker & Geer)
+
+Como a entrevista baseia-se em relatos diferidos no tempo e no espaço, o pesquisador
+deve estar atento a três limitações:
+
+   1.​ Dificuldade de compreensão da "linguagem local";
+   2.​ Omissão de detalhes importantes ou inabilidade de verbalização por parte do
+       entrevistado;
+   3.​ Distorções e versões simplificadas trazidas pelos sujeitos.
+   ●​ Solução: Tratar as informações com cuidado, detalhar os achados e acumular dados
+       de um conjunto de entrevistas (triangulação de relatos).
+
+
+
+
+3. Modalidades de Entrevista: Individual vs. Grupo Focal
+
+A entrevista é um empreendimento cooperativo e uma interação social dialógica (tríade
+sujeito-sujeito-objeto).
+
+Entrevista Individual em Profundidade
+
+   ●​ Características: Conversa a dois com duração típica entre 1 hora e 1 hora e meia.
+   ●​ Construção de Rapport: Exige criar um ambiente de segurança e confiança para
+      que o entrevistado ultrapasse opiniões superficiais e exponha suas percepções
+      autênticas.
+   ●​ Indicações Principais:
+         ○​ Exploração profunda do mundo da vida e trajetórias biográficas individuais.
+         ○​ Estudos de caso com entrevistas repetidas no tempo e teste cognitivo de
+              instrumentos.
+         ○​ Tópicos de alta sensibilidade pessoal ou que provoquem ansiedade.
+         ○​ Sujeitos de difícil recrutamento (elites, autoridades, doentes, crianças
+              menores de 7 anos).
+
+Grupo Focal (Entrevista Grupal)
+
+   ●​ Características: Reunião de 6 a 8 participantes (geralmente desconhecidos) sob a
+      condução de um moderador, durando entre 1 e 2 horas.
+   ●​ Dinâmica Social: Explora a sinergia do grupo, onde a interação produz um
+      resultado que é mais do que a soma das partes individuais. Permite observar
+      lideranças, mudanças de atitude, consensos e divergências.
+   ●​ Fases do Grupo (Tuckman): Transita pelas etapas de formação, tempestuosa
+      (conflito inicial), normas, desempenho (trabalho produtivo) e luto (encerramento).
+   ●​ Recursos de Estímulo (Técnicas Projetivas): O moderador pode utilizar
+      associação livre, seleção de assuntos/cartazes, escolha de fotografias e
+      dramatizações (role-playing) para estimular o debate.
+   ●​ Indicações Principais:
+          ○​ Mapeamento da linguagem local e do espectro de atitudes e opiniões.
+          ○​ Análise de processos de consenso, controvérsias e dinâmicas coletivas.
+          ○​ Temas de interesse público (mídia, política, hábitos de consumo, lazer e
+               novas tecnologias).
+
+
+
+
+4. Condução Prática e Estratégias de Sondagem (Probing)
+
+Na entrevista individual, o entrevistador deve adotar uma postura aberta, explicar o uso do
+gravador e dar tempo para o entrevistado pensar, acolhendo as pausas sem pressa.
+
+   ●​ Estratégias e Tipos de Pergunta:
+         ○​ Convite a descrições: "Poderia me falar sobre...?" ou "Como você
+             descreveria...?".
+         ○​ Aprofundamento: "Poderia me dizer algo mais sobre...?" ou "O que faz você
+             se sentir assim?".
+         ○​ Resgate contextual: "Quando você ouviu falar disso pela primeira vez...?".
+         ○​ Projeções: "Que tipo de pessoa você acha que gostaria de X?".
+         ○​ Teste suave de hipóteses: "Daquilo que você diz, parece que você pensa...
+             Estou certo nisso?".
+         ○​ Postura ingênua: "Não entendo muito disso, poderia explicar um pouco
+             mais?".
+         ○​ Encerramento: "Há algo mais que gostaria de me dizer?", terminando
+             sempre com uma nota positiva e garantindo o sigilo.
+
+
+
+
+5. Análise de Dados, Softwares (CAQDAS) e Passos da Pesquisa
+
+Análise do Corpus Textual
+
+   ●​ Transcrição: Deve ser integral e fiel a todas as palavras faladas.
+   ●​ Processo Analítico: Não é um procedimento puramente mecânico; exige leitura e
+      releitura atenta para identificar temas centrais/periféricos, contradições e padrões.
+
+   ●​ Ferramentas de Apoio: Uso de marcas no texto, notas de margem, fichas e
+      matrizes de análise (relacionando temas e sujeitos). Toda interpretação deve estar
+      estritamente enraizada no texto gravado/transcrito.
+
+Uso de Softwares (CAQDAS)
+
+   ●​ Softwares como Atlas/ti e NudIst* auxiliam na codificação, rotulagem, recuperação
+      de unidades de texto, conexões booleanas e criação de mapas conceituais.
+   ●​ O "Mito do Computador": O software apoia a organização dos dados, mas não
+      substitui a capacidade reflexiva, intuitiva e interpretativa do pesquisador.
+
+Os 6 Passos Sequenciais e Reflexivos da Pesquisa Qualitativa
+
+   1.​ Preparar o tópico guia.
+   2.​ Selecionar o método de entrevista (individual, grupal ou multimétodo).
+   3.​ Delinear a estratégia de seleção dos entrevistados.
+   4.​ Realizar as entrevistas.
+   5.​ Transcrever o material gravado.
+   6.​ Analisar o corpus do texto.
