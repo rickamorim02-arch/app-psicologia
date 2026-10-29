@@ -3442,6 +3442,354 @@
           "answer": 1,
           "explanation": "A síntese final articula preparação do tópico guia, seleção do método e entrevistados, realização, transcrição e análise.",
           "page": 25
+        },
+        {
+          "q": "Um estudo quer conhecer razões divergentes para apoiar ou rejeitar alimentos geneticamente modificados. Qual amostragem é mais coerente com Gaskell?",
+          "options": [
+            "Sortear entrevistados apenas para estimar percentuais populacionais",
+            "Entrevistar somente pessoas com opinião favorável",
+            "Selecionar posições sociais relevantes para maximizar a variedade de perspectivas",
+            "Recrutar exclusivamente os primeiros voluntários disponíveis"
+          ],
+          "answer": 2,
+          "explanation": "Selecionar posições sociais relevantes para maximizar a variedade de perspectivas. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 5 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 5
+        },
+        {
+          "q": "Por que 30 entrevistas qualitativas não autorizam afirmar que 70% da população compartilha determinada opinião?",
+          "options": [
+            "Porque entrevistas não podem conter números",
+            "Porque a amostra qualitativa não fornece, por si, inferência estatística populacional",
+            "Porque toda opinião expressa em entrevista é falsa",
+            "Porque 30 entrevistas equivalem a um censo"
+          ],
+          "answer": 1,
+          "explanation": "Porque a amostra qualitativa não fornece, por si, inferência estatística populacional. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 5 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 5
+        },
+        {
+          "q": "Qual objetivo é central ao explorar representações em pesquisa qualitativa?",
+          "options": [
+            "Compreender o espectro de pontos de vista e suas justificativas",
+            "Calcular exclusivamente a margem de erro amostral",
+            "Demonstrar que todas as pessoas pensam de modo idêntico",
+            "Substituir a análise pela contagem de respostas"
+          ],
+          "answer": 0,
+          "explanation": "Compreender o espectro de pontos de vista e suas justificativas. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 5 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 5
+        },
+        {
+          "q": "Em um meio social específico, qual problema surge ao entrevistar apenas integrantes de uma mesma posição?",
+          "options": [
+            "A entrevista se torna automaticamente representativa",
+            "A análise dispensa contextualização social",
+            "A amostra passa a conter todos os grupos naturais",
+            "Perspectivas relevantes podem ficar fora do material"
+          ],
+          "answer": 3,
+          "explanation": "Perspectivas relevantes podem ficar fora do material. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 5 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 5
+        },
+        {
+          "q": "No exemplo dos alimentos geneticamente modificados, por que cruzar todas as categorias demográficas pode ser impraticável?",
+          "options": [
+            "Porque gênero e localidade não podem ser descritos",
+            "Porque uma entrevista substitui qualquer análise",
+            "Porque o número de combinações e entrevistas cresce rapidamente",
+            "Porque toda variável social é irrelevante por definição"
+          ],
+          "answer": 2,
+          "explanation": "Porque o número de combinações e entrevistas cresce rapidamente. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 6 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 6
+        },
+        {
+          "q": "Que alternativa à segmentação puramente demográfica é apresentada no capítulo?",
+          "options": [
+            "Excluir pessoas que interagem entre si",
+            "Selecionar grupos naturais com experiências ou interesses compartilhados",
+            "Usar somente grupos estatísticos arbitrários",
+            "Tratar cada participante como população independente"
+          ],
+          "answer": 1,
+          "explanation": "Selecionar grupos naturais com experiências ou interesses compartilhados. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 6 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 6
+        },
+        {
+          "q": "No exemplo de grupos naturais, qual conjunto ilustra perspectivas potencialmente distintas sobre alimentos geneticamente modificados?",
+          "options": [
+            "Ambientalistas, consumidores, grupos religiosos e agricultores",
+            "Apenas indivíduos do mesmo laboratório",
+            "Somente pessoas da mesma família e opinião",
+            "Exclusivamente membros de uma única campanha publicitária"
+          ],
+          "answer": 0,
+          "explanation": "Ambientalistas, consumidores, grupos religiosos e agricultores. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 6 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 6
+        },
+        {
+          "q": "Uma equipe deseja comparar como dois grupos interpretam a mesma política. O que deve orientar a seleção?",
+          "options": [
+            "A preferência do entrevistador por participantes conhecidos",
+            "A igualdade numérica com a população inteira",
+            "A exclusão prévia de visões minoritárias",
+            "A relevância dos contrastes sociais para a questão de pesquisa"
+          ],
+          "answer": 3,
+          "explanation": "A relevância dos contrastes sociais para a questão de pesquisa. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 6 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 6
+        },
+        {
+          "q": "Ao revisar o tópico guia depois das primeiras entrevistas, qual cuidado preserva sua função?",
+          "options": [
+            "Transformá-lo em questionário rígido sem possibilidade de sondagem",
+            "Eliminar todas as questões ligadas ao problema",
+            "Manter relação com os objetivos da pesquisa e incorporar descobertas pertinentes",
+            "Usá-lo como roteiro para induzir a resposta desejada"
+          ],
+          "answer": 2,
+          "explanation": "Manter relação com os objetivos da pesquisa e incorporar descobertas pertinentes. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 4 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 4
+        },
+        {
+          "q": "Um entrevistado introduz espontaneamente um aspecto relevante não previsto no roteiro. Como proceder?",
+          "options": [
+            "Interromper e proibir qualquer desvio",
+            "Explorar o aspecto com perguntas abertas e avaliar sua inclusão no tópico guia",
+            "Registrar a fala como erro do participante",
+            "Substituir imediatamente toda a amostra"
+          ],
+          "answer": 1,
+          "explanation": "Explorar o aspecto com perguntas abertas e avaliar sua inclusão no tópico guia. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 4 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 4
+        },
+        {
+          "q": "Qual escolha enfraquece a abertura de uma entrevista qualitativa?",
+          "options": [
+            "Formular perguntas que já indiquem a resposta esperada",
+            "Usar sondagens para esclarecer uma fala",
+            "Escutar a descrição de experiências",
+            "Permitir a emergência de tópicos pertinentes"
+          ],
+          "answer": 0,
+          "explanation": "Formular perguntas que já indiquem a resposta esperada. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 3 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 3
+        },
+        {
+          "q": "Por que o planejamento da entrevista envolve conhecimento prévio do campo?",
+          "options": [
+            "Para dispensar contato com os participantes",
+            "Para confirmar antecipadamente todas as conclusões",
+            "Para transformar entrevistas em testes de memória",
+            "Para formular tópicos relevantes e reconhecer aspectos do contexto pesquisado"
+          ],
+          "answer": 3,
+          "explanation": "Para formular tópicos relevantes e reconhecer aspectos do contexto pesquisado. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 3 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 3
+        },
+        {
+          "q": "Qual é a vantagem analítica de observar interação em um grupo focal?",
+          "options": [
+            "Impedir que uma fala influencie outra",
+            "Eliminar diferenças entre posições sociais",
+            "Identificar como participantes negociam, contestam ou complementam sentidos",
+            "Produzir respostas isoladas sem contexto"
+          ],
+          "answer": 2,
+          "explanation": "Identificar como participantes negociam, contestam ou complementam sentidos. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 12 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 12
+        },
+        {
+          "q": "Um grupo concorda rapidamente com o primeiro participante. Qual risco merece atenção do moderador?",
+          "options": [
+            "Garantia de que todas as opiniões foram exploradas",
+            "Conformidade grupal que pode ocultar perspectivas divergentes",
+            "Comprovação de representatividade estatística",
+            "Ausência de necessidade de perguntas adicionais"
+          ],
+          "answer": 1,
+          "explanation": "Conformidade grupal que pode ocultar perspectivas divergentes. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 13 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 13
+        },
+        {
+          "q": "Como um moderador pode favorecer contribuições de pessoas mais reservadas?",
+          "options": [
+            "Convidar à participação sem constranger e equilibrar a distribuição da fala",
+            "Exigir que repitam a opinião dominante",
+            "Permitir que um integrante responda por todos",
+            "Encerrar a sessão ao surgir silêncio"
+          ],
+          "answer": 0,
+          "explanation": "Convidar à participação sem constranger e equilibrar a distribuição da fala. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 14 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 14
+        },
+        {
+          "q": "Por que o moderador não deve defender sua própria opinião durante a discussão?",
+          "options": [
+            "Para impedir qualquer debate entre integrantes",
+            "Para substituir escuta por palestra",
+            "Para assegurar que todas as respostas sejam iguais",
+            "Para reduzir indução e preservar espaço às perspectivas dos participantes"
+          ],
+          "answer": 3,
+          "explanation": "Para reduzir indução e preservar espaço às perspectivas dos participantes. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 14 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 14
+        },
+        {
+          "q": "Que efeito uma pergunta inicial ampla pode produzir em grupo focal?",
+          "options": [
+            "Obrigar respostas exclusivamente sim ou não",
+            "Eliminar a necessidade de interação",
+            "Facilitar a entrada dos participantes no tema antes de questões específicas",
+            "Garantir consenso imediato"
+          ],
+          "answer": 2,
+          "explanation": "Facilitar a entrada dos participantes no tema antes de questões específicas. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 16 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 16
+        },
+        {
+          "q": "Um participante usa a expressão 'foi estranho'. Qual sondagem é mais adequada?",
+          "options": [
+            "'Então você concorda que foi um fracasso, certo?'",
+            "'O que tornou essa situação estranha para você?'",
+            "'Podemos considerar que todos acharam ruim?'",
+            "'Por que você não responde de forma correta?'"
+          ],
+          "answer": 1,
+          "explanation": "'O que tornou essa situação estranha para você?'. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 17 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 17
+        },
+        {
+          "q": "Quando uma fotografia é usada como estímulo de discussão, qual é seu papel principal?",
+          "options": [
+            "Provocar associações e narrativas ligadas ao tema pesquisado",
+            "Servir como prova definitiva das opiniões do grupo",
+            "Substituir todas as falas por interpretação do pesquisador",
+            "Padronizar obrigatoriamente a experiência de cada participante"
+          ],
+          "answer": 0,
+          "explanation": "Provocar associações e narrativas ligadas ao tema pesquisado. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 18 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 18
+        },
+        {
+          "q": "Em entrevista individual, por que o pesquisador deve tolerar pausas breves?",
+          "options": [
+            "Porque pausas demonstram necessariamente recusa",
+            "Porque silêncio elimina a validade da entrevista",
+            "Porque a entrevista deve terminar no primeiro intervalo",
+            "Porque o participante pode precisar organizar lembranças e elaborar respostas"
+          ],
+          "answer": 3,
+          "explanation": "Porque o participante pode precisar organizar lembranças e elaborar respostas. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 19 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 19
+        },
+        {
+          "q": "Qual sondagem favorece aprofundamento sem pressupor uma resposta?",
+          "options": [
+            "'Você admite que essa experiência foi negativa?'",
+            "'Todos os seus colegas também pensam assim, não?'",
+            "'Você poderia descrever um exemplo dessa experiência?'",
+            "'Você concorda com minha interpretação, certo?'"
+          ],
+          "answer": 2,
+          "explanation": "'Você poderia descrever um exemplo dessa experiência?'. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 20 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 20
+        },
+        {
+          "q": "Um entrevistado menciona duas experiências contraditórias. Qual conduta é produtiva?",
+          "options": [
+            "Apagar a experiência menos frequente",
+            "Pedir que explique os contextos e diferenças entre as experiências",
+            "Escolher a interpretação mais conveniente ao pesquisador",
+            "Corrigir o entrevistado antes que conclua"
+          ],
+          "answer": 1,
+          "explanation": "Pedir que explique os contextos e diferenças entre as experiências. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 20 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 20
+        },
+        {
+          "q": "Ao encerrar uma entrevista, qual atitude favorece a integridade do relato?",
+          "options": [
+            "Oferecer oportunidade para acrescentar algo importante ainda não abordado",
+            "Encerrar imediatamente após a primeira resposta",
+            "Exigir concordância com uma síntese não discutida",
+            "Descartar observações espontâneas finais"
+          ],
+          "answer": 0,
+          "explanation": "Oferecer oportunidade para acrescentar algo importante ainda não abordado. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 21 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 21
+        },
+        {
+          "q": "Por que a transcrição não constitui, isoladamente, análise qualitativa?",
+          "options": [
+            "Porque todo áudio já contém categorias prontas",
+            "Porque a transcrição elimina contradições automaticamente",
+            "Porque transcrever substitui o problema de pesquisa",
+            "Porque é necessário organizar, comparar e interpretar sistematicamente os sentidos"
+          ],
+          "answer": 3,
+          "explanation": "Porque é necessário organizar, comparar e interpretar sistematicamente os sentidos. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 22 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 22
+        },
+        {
+          "q": "Qual utilidade de uma matriz temática por participantes?",
+          "options": [
+            "Apagar a autoria contextual de todos os excertos",
+            "Transformar cada tema em porcentagem populacional",
+            "Permitir comparar convergências e contrastes sem perder a origem das falas",
+            "Impedir a revisão de categorias"
+          ],
+          "answer": 2,
+          "explanation": "Permitir comparar convergências e contrastes sem perder a origem das falas. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 22 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 22
+        },
+        {
+          "q": "Duas entrevistas usam palavras distintas para descrever experiência semelhante. O que a codificação deve considerar?",
+          "options": [
+            "Somente a coincidência exata dos termos",
+            "O significado contextual das falas, não apenas identidade literal de palavras",
+            "A ordem alfabética dos entrevistados",
+            "A preferência estética do pesquisador"
+          ],
+          "answer": 1,
+          "explanation": "O significado contextual das falas, não apenas identidade literal de palavras. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 23 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 23
+        },
+        {
+          "q": "Ao identificar uma fala que contradiz a interpretação dominante, qual é a melhor atitude analítica?",
+          "options": [
+            "Examinar a divergência e verificar se exige revisar categorias ou explicações",
+            "Excluir o caso para manter homogeneidade",
+            "Modificar a transcrição para eliminar a contradição",
+            "Classificar automaticamente como erro de gravação"
+          ],
+          "answer": 0,
+          "explanation": "Examinar a divergência e verificar se exige revisar categorias ou explicações. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 23 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 23
+        },
+        {
+          "q": "Qual problema ocorre quando categorias analíticas são definidas sem retorno ao material?",
+          "options": [
+            "Garantem maior fidelidade às experiências",
+            "Eliminam a necessidade de fundamentação",
+            "Tornam irrelevante o contexto dos participantes",
+            "Podem impor sentidos não sustentados pelas entrevistas"
+          ],
+          "answer": 3,
+          "explanation": "Podem impor sentidos não sustentados pelas entrevistas. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 23 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 23
+        },
+        {
+          "q": "Ao apresentar resultados de entrevistas, o que fortalece a rastreabilidade da interpretação?",
+          "options": [
+            "Relatar somente a opinião pessoal do pesquisador",
+            "Omitir todos os critérios de análise",
+            "Relacionar conclusões a trechos e padrões identificados no corpus",
+            "Apresentar percentuais populacionais sem amostra probabilística"
+          ],
+          "answer": 2,
+          "explanation": "Relacionar conclusões a trechos e padrões identificados no corpus. A questão aplica a discussão de Gaskell sobre planejamento, seleção de participantes, condução e análise de entrevistas (referência: página 25 do PDF). As alternativas incorretas introduzem indução, inferência estatística indevida ou perda do contexto qualitativo.",
+          "page": 25
         }
       ]
     },
