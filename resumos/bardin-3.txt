@@ -1,0 +1,162 @@
+Resumo Estruturado: Análise de
+Conteúdo — Categorização, Dicionários
+e Inferência (Bardin, 2011)
+
+1. A Categorização
+
+Conceito e Princípios Fundamentais
+
+   ●​ Definição: A categorização é uma operação de classificação dos elementos
+      constitutivos de uma mensagem por diferenciação e reagrupamento segundo o
+      gênero (analogia), com base em critérios previamente estabelecidos.
+   ●​ Critérios de Categorização:
+          1.​ Semântico: Categorias temáticas (ex.: agrupamento de temas de
+              "ansiedade" ou "descontração").
+          2.​ Sintático: Classificação baseada em classes gramaticais (ex.: verbos,
+              adjetivos).
+          3.​ Léxico: Agrupamento de palavras segundo o sentido, emparelhando
+              sinônimos e sentidos próximos.
+          4.​ Expressivo: Classificação das perturbações da linguagem ou formas de
+              expressão.
+   ●​ Etapas do Processo: A categorização é um procedimento de tipo estruturalista
+      composto por duas etapas encadeadas:
+          1.​ Inventário: Isolamento dos elementos das mensagens.
+          2.​ Classificação: Repartição e organização dos elementos em categorias.
+   ●​ Objetivo Primário: Fornecer uma representação simplificada e condensada dos
+      dados brutos sem introduzir desvios ou distorções no material.
+
+Procedimentos de Construção de Categorias
+
+   ●​ Procedimento por "Caixas" (Dedução / A priori): O sistema de categorias é
+      fornecido previamente pela teoria e os elementos identificados são alocados à
+      medida que são encontrados.
+   ●​ Procedimento por "Acervo" (Indução / Emergente): O sistema de categorias não
+      é pré-fornecido; resulta da classificação analógica e progressiva dos elementos,
+      sendo o título conceitual definido ao final do processo.
+
+Qualidades de um Bom Sistema de Categorias
+
+Para ser cientificamente rigoroso, o conjunto categorial deve atender a cinco princípios
+indispensáveis:
+
+   1.​ Exclusão Mútua: Cada elemento só pode pertencer a uma única categoria no
+       mesmo nível de análise.
+   2.​ Homogeneidade: Um único princípio de classificação deve governar toda a
+       organização do conjunto categorial.
+   3.​ Pertinência: Adequação ótima das categorias aos objetivos da investigação, às
+       questões do analista e ao quadro teórico definido.
+   4.​ Objetividade e Fidelidade: Codificadores distintos (ou o mesmo codificador em
+       momentos diferentes) devem chegar aos mesmos resultados ao aplicar a mesma
+       grade.
+   5.​ Produtividade: Capacidade do sistema categorial de fornecer resultados férteis em
+       índices inferenciais, novas hipóteses e dados exatos.
+
+
+
+
+2. Exemplos de Conjuntos Categoriais na Pesquisa Social
+
+   ●​ Análise de Valores:
+         ○​ R. K. White: Grade estruturada para análise de propaganda e autobiografias,
+            abrangendo valores fisiológicos, sociais, do ego, de medo, de jogo/alegria,
+            práticos e cognitivos.
+         ○​ V. Isambert-Jamati: Estudo sobre a evolução da moral de referência da
+            instituição escolar entre 1860 e 1965 a partir de discursos de distribuição de
+            prêmios.
+   ●​ Análise de Fins e Meios:
+         ○​ Berelson e Salter: Análise de intenções afetivas ("coração") versus racionais
+            ("cabeça") em revistas de ficção popular.
+         ○​ Larson, Gray e Fortis: Mapeamento das finalidades (propriedade, afeição,
+            poder) e métodos (legais, econômicos, violência, negociação) em programas
+            infantis de televisão.
+   ●​ Análise da Interação:
+         ○​ Bandura, Lipsher e Miller: Avaliação das sequências de interação em
+            psicoterapia, classificando as reações do terapeuta como de aproximação ou
+            de evitamento perante a hostilidade do paciente.
+   ●​ Análise de Estados Psicológicos:
+         ○​ Gottschalk e colaboradores: Escalas padronizadas aplicadas a amostras
+            verbais para medir estados afetivos como ansiedade, depressão (ex.:
+            ausência de esperança, autoacusação, atraso psicomotor), hostilidade e
+            sociabilidade.
+   ●​ Análise de Imprensa:
+         ○​ V. Morin: Estudo da cobertura jornalística da viagem de Kruschev à França,
+            organizando milhares de unidades de informação em temas e índices de
+            politização e orientação.
+
+3. Os Índices para Computadores e Dicionários Automatizados
+
+Conceito de Dicionário ou Índice Automatizado
+
+   ●​ Natureza de Thesaurus: Na análise automatizada por computador, o índice
+      funciona como um Thesaurus (reunindo sob títulos conceituais palavras com
+      significações semelhantes), e não como um dicionário tradicional de definições.
+   ●​ Conceitos-Chave: Funcionam como intermediários entre a teoria do pesquisador e
+      os dados verbais brutos, agrupando unidades de significação (palavras, fórmulas ou
+      frases) que representam variáveis teóricas.
+   ●​ Estrutura de Entrada: Apresenta habitualmente um índice categorial (entrada por
+      conceitos-chave) e um índice alfabético (com retorno aos conceitos), contando ainda
+      com uma lista de espera (left over list) para palavras não catalogadas.
+
+Principais Programas e Dicionários
+
+   ●​ General Inquirer (Stone et al.): Sistema pioneiro de análise por computador que
+      permitiu a aplicação de índices gerais e específicos sobre o mesmo material textual.
+   ●​ Harvard Third Psychosociological Dictionary: Registra conceitos-chave de
+      primeiro nível (55 categorias manifestas: objetos, processos e atributos) e de
+      segundo nível (28 categorias conotativas: contexto institucional, estatuto social e
+      temas psicológicos).
+   ●​ Stanford Political Dictionary (Holsti): Voltado para análise de documentos
+      políticos com base no diferencial semântico de Osgood (avaliando dimensões como
+      afeto, força e atividade).
+   ●​ Need Achievement Dictionary (Ogilvie e Woodhead): Dicionário específico
+      projetado para avaliar a motivação e a representação de sucesso/fracasso em
+      protocolos de testes projetivos e narrativas.
+   ●​ Outros Dicionários Especializados: Santa Fé Anthropological (contos populares e
+      cultura), Simulmatics (imagem de marca), Who Am I (respostas sobre autoconceito),
+      Davis Alcohol (cultura e consumo de álcool) e o conjunto IID/TTD/Psychodic
+      (interação verbal e táticas terapêuticas).
+
+
+
+
+4. A Inferência
+
+Conceito e Lógica Inferencial
+
+   ●​ Definição: A inferência é uma indução controlada que busca identificar as causas
+      ou variáveis ocultas (variáveis inferidas) a partir de seus efeitos manifestos e
+      mensuráveis no texto (variáveis de inferência ou indicadores).
+   ●​ Distinção Semiológica: O texto opera com índices (manifestações não
+      intencionais) e não apenas com sinais emitidos voluntariamente.
+
+Polos da Comunicação na Inferência
+
+A inferência pode estar centrada nos diferentes elementos do processo comunicativo:
+
+   1.​ O Emissor: Explora a função expressiva da comunicação para inferir traços de
+       personalidade, estados psicológicos, intenções ou a evolução ideológica do autor do
+       discurso.
+   2.​ O Receptor: Explora a função instrumental da comunicação, avaliando a adequação
+       da mensagem, a eficácia persuasiva ou as características do público-alvo.
+   3.​ A Mensagem: Ponto de partida obrigatório, analisada em dois níveis:
+           ○​ O Código (Continente/Significante): Análise formal do vocabulário, extensão
+              das frases e figuras de retórica.
+           ○​ A Significação (Conteúdo/Significado): Análise temática e extração de
+              sentidos secundários latentes (mitos, valores e símbolos).
+   4.​ O Médium (Canal): Estudo do impacto do suporte técnico (TV, telefone, escrita)
+       sobre a estrutura e o conteúdo da comunicação.
+
+Tipos e Domínios da Inferência
+
+   ●​ Inferências Específicas vs. Gerais: As específicas visam responder a questões
+      contextuais pontuais (ex.: intenções de um país em uma crise); as gerais buscam
+      estabelecer leis relacionais permanentes entre escolhas linguísticas e estados
+      psicológicos/sociais.
+   ●​ Principais Domínios Inferenciais (Holsti):
+          ○​ Antecedentes da Comunicação: Análise de propaganda militar/política,
+             avaliação de características psicológicas individuais e observação de
+             mudanças culturais na sociedade.
+          ○​ Provas de Legalidade e Autenticidade: Verificação de autoria, identificação
+             de plágio e detecção de intenções subversivas.
+          ○​ Resultados da Comunicação: Avaliação da eficácia persuasiva, legibilidade,
+             exposição seletiva e difusão de ideologias ou teorias científicas.
