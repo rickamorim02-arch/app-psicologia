@@ -68,5 +68,12 @@
     "description": "Resumo estruturado",
     "file": "resumos/entrevistas-1.txt",
     "format": "text"
+  },
+  {
+    "group": "Conteúdo 06 — Entrevistas",
+    "title": "Parte 2",
+    "description": "Resumo estruturado • Parte 2",
+    "file": "resumos/entrevistas-2.txt",
+    "format": "text"
   }
 ]
