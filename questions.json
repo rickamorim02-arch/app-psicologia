@@ -3932,6 +3932,126 @@
           "answer": 1,
           "explanation": "O esquema estabelece que a conclusão se restringe ao que foi analisado.",
           "page": 14
+        },
+        {
+          "q": "Ao identificar a pessoa avaliada, quando incluir dados sociodemográficos adicionais?",
+          "options": [
+            "Sempre incluir todos os dados disponíveis sem seleção",
+            "Nunca incluir qualquer dado além do nome",
+            "Quando ajudam a contextualizar a demanda ou condicionam a conclusão",
+            "Somente quando o documento é destinado à imprensa"
+          ],
+          "answer": 2,
+          "explanation": "Quando ajudam a contextualizar a demanda ou condicionam a conclusão. Os slides de Produção de Laudos (p. 7) relacionam essa exigência à coerência entre finalidade, demanda, procedimentos e análise; as demais opções quebram essa relação ou expõem dados sem justificativa.",
+          "page": 7
+        },
+        {
+          "q": "A finalidade do laudo deve explicitar principalmente o quê?",
+          "options": [
+            "A opinião pessoal do autor sobre o solicitante",
+            "A lista de honorários de toda a equipe",
+            "Uma descrição de atendimentos alheios",
+            "A razão ou motivo do pedido e o uso pretendido"
+          ],
+          "answer": 3,
+          "explanation": "A razão ou motivo do pedido e o uso pretendido. Os slides de Produção de Laudos (p. 7) relacionam essa exigência à coerência entre finalidade, demanda, procedimentos e análise; as demais opções quebram essa relação ou expõem dados sem justificativa.",
+          "page": 7
+        },
+        {
+          "q": "Por que distinguir solicitante de pessoa avaliada na identificação?",
+          "options": [
+            "Porque quem solicita pode não ser a pessoa objeto da avaliação",
+            "Porque o solicitante deve necessariamente ser o paciente",
+            "Porque o avaliado nunca deve ser identificado",
+            "Porque essa distinção só se aplica a documentos escolares"
+          ],
+          "answer": 0,
+          "explanation": "Porque quem solicita pode não ser a pessoa objeto da avaliação. Os slides de Produção de Laudos (p. 7) relacionam essa exigência à coerência entre finalidade, demanda, procedimentos e análise; as demais opções quebram essa relação ou expõem dados sem justificativa.",
+          "page": 7
+        },
+        {
+          "q": "Qual informação é indispensável ao identificar autores do laudo?",
+          "options": [
+            "Somente primeiro nome e telefone particular",
+            "Nome completo e inscrição profissional no CRP",
+            "Apenas o nome da instituição solicitante",
+            "Número de registro de outra categoria profissional"
+          ],
+          "answer": 1,
+          "explanation": "Nome completo e inscrição profissional no CRP. Os slides de Produção de Laudos (p. 7) relacionam essa exigência à coerência entre finalidade, demanda, procedimentos e análise; as demais opções quebram essa relação ou expõem dados sem justificativa.",
+          "page": 7
+        },
+        {
+          "q": "Na descrição da demanda, o que deve ser explicitado?",
+          "options": [
+            "Os resultados dos testes antes de sua aplicação",
+            "A conclusão diagnóstica definitiva sem análise",
+            "As perguntas a responder e quem forneceu as informações",
+            "O valor financeiro dos procedimentos"
+          ],
+          "answer": 2,
+          "explanation": "As perguntas a responder e quem forneceu as informações. Os slides de Produção de Laudos (p. 8) relacionam essa exigência à coerência entre finalidade, demanda, procedimentos e análise; as demais opções quebram essa relação ou expõem dados sem justificativa.",
+          "page": 8
+        },
+        {
+          "q": "Qual relação deve existir entre demanda e instrumentos escolhidos?",
+          "options": [
+            "Os instrumentos devem ser escolhidos ao acaso",
+            "A demanda deve ser escrita depois da conclusão para justificá-la",
+            "A escolha depende exclusivamente da preferência do solicitante",
+            "A demanda deve fundamentar a seleção das técnicas e instrumentos"
+          ],
+          "answer": 3,
+          "explanation": "A demanda deve fundamentar a seleção das técnicas e instrumentos. Os slides de Produção de Laudos (p. 8) relacionam essa exigência à coerência entre finalidade, demanda, procedimentos e análise; as demais opções quebram essa relação ou expõem dados sem justificativa.",
+          "page": 8
+        },
+        {
+          "q": "Na seção Procedimento, qual conjunto de informações é pertinente?",
+          "options": [
+            "Quem foi ouvido, quando, quantas vezes e por quais métodos",
+            "Apenas o resultado final da avaliação",
+            "Somente impressões subjetivas sem identificação do método",
+            "Exclusivamente os encaminhamentos finais"
+          ],
+          "answer": 0,
+          "explanation": "Quem foi ouvido, quando, quantas vezes e por quais métodos. Os slides de Produção de Laudos (p. 9) relacionam essa exigência à coerência entre finalidade, demanda, procedimentos e análise; as demais opções quebram essa relação ou expõem dados sem justificativa.",
+          "page": 9
+        },
+        {
+          "q": "Por que a seção Procedimento é descrita como capítulo de auditoria?",
+          "options": [
+            "Porque substitui a necessidade de análise",
+            "Porque permite verificar o que foi realizado e sua fundamentação",
+            "Porque serve exclusivamente para fiscalização financeira",
+            "Porque exige transcrição literal de cada sessão"
+          ],
+          "answer": 1,
+          "explanation": "Porque permite verificar o que foi realizado e sua fundamentação. Os slides de Produção de Laudos (p. 9) relacionam essa exigência à coerência entre finalidade, demanda, procedimentos e análise; as demais opções quebram essa relação ou expõem dados sem justificativa.",
+          "page": 9
+        },
+        {
+          "q": "Onde apresentar e interpretar os dados obtidos pelos procedimentos?",
+          "options": [
+            "Na identificação do solicitante",
+            "Na capa sem fundamentação",
+            "Na seção Análise",
+            "No campo de assinatura"
+          ],
+          "answer": 2,
+          "explanation": "Na seção Análise. Os slides de Produção de Laudos (p. 10) relacionam essa exigência à coerência entre finalidade, demanda, procedimentos e análise; as demais opções quebram essa relação ou expõem dados sem justificativa.",
+          "page": 10
+        },
+        {
+          "q": "Qual limite de exposição das sessões é indicado na Análise?",
+          "options": [
+            "Transcrever todas as falas independentemente da finalidade",
+            "Omitir sempre os resultados relevantes",
+            "Incluir falas de terceiros não avaliados por conveniência",
+            "Evitar transcrição literal, salvo justificativa técnica para incluí-la"
+          ],
+          "answer": 3,
+          "explanation": "Evitar transcrição literal, salvo justificativa técnica para incluí-la. Os slides de Produção de Laudos (p. 10) relacionam essa exigência à coerência entre finalidade, demanda, procedimentos e análise; as demais opções quebram essa relação ou expõem dados sem justificativa.",
+          "page": 10
         }
       ]
     }
