@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "group": "Bardin — Análise de Conteúdo",
+    "title": "Parte 1",
+    "description": "Resumo estruturado • Parte 1",
+    "file": "resumos/bardin-1.txt",
+    "format": "text"
+  },
+  {
+    "group": "Bardin — Análise de Conteúdo",
+    "title": "Parte 2",
+    "description": "Resumo estruturado • Parte 2",
+    "file": "resumos/bardin-2.txt",
+    "format": "text"
+  },
+  {
+    "group": "Bardin — Análise de Conteúdo",
+    "title": "Parte 3",
+    "description": "Resumo estruturado • Parte 3",
+    "file": "resumos/bardin-3.txt",
+    "format": "text"
+  },
+  {
+    "group": "Bardin — Análise de Conteúdo",
+    "title": "Parte 4",
+    "description": "Resumo estruturado • Parte 4",
+    "file": "resumos/bardin-4.txt",
+    "format": "text"
+  },
+  {
+    "group": "CFP (2025) — Manual Orientativo",
+    "title": "Parte 1",
+    "description": "Resumo estruturado • Parte 1",
+    "file": "resumos/cfp-1.txt",
+    "format": "text"
+  },
+  {
+    "group": "CFP (2025) — Manual Orientativo",
+    "title": "Parte 2",
+    "description": "Resumo estruturado • Parte 2",
+    "file": "resumos/cfp-2.txt",
+    "format": "text"
+  },
+  {
+    "group": "CFP (2025) — Manual Orientativo",
+    "title": "Parte 3",
+    "description": "Resumo estruturado • Parte 3",
+    "file": "resumos/cfp-3.txt",
+    "format": "text"
+  },
+  {
+    "group": "CFP (2025) — Manual Orientativo",
+    "title": "Parte 4",
+    "description": "Resumo estruturado • Parte 4",
+    "file": "resumos/cfp-4.txt",
+    "format": "text"
+  },
+  {
+    "group": "Código de Ética Profissional do Psicólogo",
+    "title": "Resumo único",
+    "description": "Resumo estruturado",
+    "file": "resumos/etica.txt",
+    "format": "text"
+  },
+  {
+    "group": "Conteúdo 06 — Entrevistas",
+    "title": "Resumo único",
+    "description": "Resumo estruturado",
+    "file": "resumos/entrevistas-1.txt",
+    "format": "text"
+  }
+]
