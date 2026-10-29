@@ -2066,6 +2066,174 @@
           "answer": 0,
           "explanation": "Contagens frequenciais, coocorrências e tratamento de muitas variáveis. Bardin discute esse aspecto na página 79 do PDF, articulando categorias, indicadores e limites das inferências.",
           "page": 79
+        },
+        {
+          "q": "Qual operação informatizada Bardin descreve como possível sobre um texto?",
+          "options": [
+            "Inferir com certeza as intenções inconscientes do autor",
+            "Determinar automaticamente a validade de qualquer teoria",
+            "Gerar lista de palavras e calcular frequências",
+            "Substituir todos os procedimentos de interpretação"
+          ],
+          "answer": 2,
+          "explanation": "Gerar lista de palavras e calcular frequências. Esse procedimento ou exemplo é discutido na página 81 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 81
+        },
+        {
+          "q": "Para que serve o recurso KWIC (palavra-chave em contexto)?",
+          "options": [
+            "Excluir automaticamente palavras pouco frequentes",
+            "Traduzir toda mensagem para números sem contexto",
+            "Escolher aleatoriamente uma categoria por documento",
+            "Exibir ocorrências de termos acompanhadas de seu entorno linguístico"
+          ],
+          "answer": 3,
+          "explanation": "Exibir ocorrências de termos acompanhadas de seu entorno linguístico. Esse procedimento ou exemplo é discutido na página 82 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 82
+        },
+        {
+          "q": "Na busca informatizada de coocorrências, o que define a largura da janela?",
+          "options": [
+            "Quantas palavras ao redor do termo são consideradas na análise",
+            "Quantos pesquisadores têm acesso ao corpus",
+            "O número de páginas do relatório final",
+            "A quantidade de categorias psicológicas disponíveis"
+          ],
+          "answer": 0,
+          "explanation": "Quantas palavras ao redor do termo são consideradas na análise. Esse procedimento ou exemplo é discutido na página 82 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 82
+        },
+        {
+          "q": "Qual diferença existe entre categorias a priori e categorias emergentes?",
+          "options": [
+            "As primeiras são sempre corretas; as segundas são sempre inválidas",
+            "As primeiras antecedem a leitura; as segundas podem surgir de agrupamentos do próprio texto",
+            "As primeiras dependem de software; as segundas dispensam dados",
+            "Não existe diferença na origem dos critérios"
+          ],
+          "answer": 1,
+          "explanation": "As primeiras antecedem a leitura; as segundas podem surgir de agrupamentos do próprio texto. Esse procedimento ou exemplo é discutido na página 83 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 83
+        },
+        {
+          "q": "Por que a desambiguação lexical é um desafio para análise automatizada?",
+          "options": [
+            "Cada palavra possui um único sentido em todas as situações",
+            "O computador não consegue contar ocorrências de palavras",
+            "Uma mesma forma pode designar referentes distintos conforme o contexto",
+            "O significado depende exclusivamente do número de letras"
+          ],
+          "answer": 2,
+          "explanation": "Uma mesma forma pode designar referentes distintos conforme o contexto. Esse procedimento ou exemplo é discutido na página 83 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 83
+        },
+        {
+          "q": "No estudo de imprensa de Cibois, o que são categorias indígenas?",
+          "options": [
+            "Categorias importadas obrigatoriamente de testes clínicos",
+            "Categorias criadas sem examinar os jornais",
+            "Categorias definidas somente pelo tamanho dos artigos",
+            "Categorias originadas do próprio material verbal analisado"
+          ],
+          "answer": 3,
+          "explanation": "Categorias originadas do próprio material verbal analisado. Esse procedimento ou exemplo é discutido na página 84 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 84
+        },
+        {
+          "q": "Qual papel o índice de Jaccard exerce no exemplo de Belle-Ile?",
+          "options": [
+            "Auxilia a estimar proximidades entre temas ou jornais",
+            "Determina a idade dos entrevistados",
+            "Calcula exclusivamente a quantidade de páginas",
+            "Elimina a necessidade de definir unidades de análise"
+          ],
+          "answer": 0,
+          "explanation": "Auxilia a estimar proximidades entre temas ou jornais. Esse procedimento ou exemplo é discutido na página 85 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 85
+        },
+        {
+          "q": "Qual vantagem das questões abertas Bardin destaca em inquéritos?",
+          "options": [
+            "Impedem qualquer análise estatística",
+            "Produzem respostas verbalmente mais ricas que alternativas pré-codificadas",
+            "São necessariamente mais rápidas de analisar em grandes amostras",
+            "Não apresentam diversidade lexical"
+          ],
+          "answer": 1,
+          "explanation": "Produzem respostas verbalmente mais ricas que alternativas pré-codificadas. Esse procedimento ou exemplo é discutido na página 86 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 86
+        },
+        {
+          "q": "No método lexical de Lebart, o que significa tratar cada discurso como saco de palavras?",
+          "options": [
+            "Preservar obrigatoriamente todas as relações sintáticas",
+            "Analisar apenas a entonação da fala",
+            "Desconsiderar a ordem das palavras na etapa de agrupamento lexical",
+            "Eliminar toda palavra repetida do corpus"
+          ],
+          "answer": 2,
+          "explanation": "Desconsiderar a ordem das palavras na etapa de agrupamento lexical. Esse procedimento ou exemplo é discutido na página 86 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 86
+        },
+        {
+          "q": "O que são respostas modais na abordagem descrita por Bardin?",
+          "options": [
+            "Frases inventadas pelo analista para ilustrar resultados",
+            "Somente as respostas mais extensas do corpus",
+            "Respostas que aparecem literalmente em todos os questionários",
+            "Respostas autênticas que representam padrões lexicais característicos de um grupo"
+          ],
+          "answer": 3,
+          "explanation": "Respostas autênticas que representam padrões lexicais característicos de um grupo. Esse procedimento ou exemplo é discutido na página 87 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 87
+        },
+        {
+          "q": "Em lexicometria, qual distinção Bardin apresenta?",
+          "options": [
+            "Estatística lexical pode operar fora de contexto ou examinar coocorrências em contexto",
+            "A lexicometria dispensa qualquer operação quantitativa",
+            "Toda estatística lexical equivale automaticamente à interpretação de conteúdo",
+            "As palavras funcionais devem sempre ser a única unidade analisada"
+          ],
+          "answer": 0,
+          "explanation": "Estatística lexical pode operar fora de contexto ou examinar coocorrências em contexto. Esse procedimento ou exemplo é discutido na página 89 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 89
+        },
+        {
+          "q": "Que crítica foi dirigida a trabalhos lexicométricos iniciais?",
+          "options": [
+            "Usavam excessivamente a interpretação clínica",
+            "Desconsideravam a organização textual e as relações entre elementos",
+            "Não permitiam contar palavras isoladas",
+            "Dependiam apenas de entrevistas presenciais"
+          ],
+          "answer": 1,
+          "explanation": "Desconsideravam a organização textual e as relações entre elementos. Esse procedimento ou exemplo é discutido na página 90 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 90
+        },
+        {
+          "q": "O que o inventário de segmentos repetidos (ISR) permite identificar?",
+          "options": [
+            "Somente palavras que aparecem uma única vez",
+            "A intenção psicológica do autor com certeza",
+            "Expressões recorrentes, suas frequências e localizações no corpus",
+            "A identidade real de leitores anônimos"
+          ],
+          "answer": 2,
+          "explanation": "Expressões recorrentes, suas frequências e localizações no corpus. Esse procedimento ou exemplo é discutido na página 91 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 91
+        },
+        {
+          "q": "Como Bardin caracteriza o DEREDEC?",
+          "options": [
+            "Uma planilha limitada à contagem de páginas",
+            "Um teste clínico de aplicação obrigatória",
+            "Um programa que elimina o trabalho de estabelecer critérios",
+            "Um programa construtivista, aberto, com descrições textuais em estruturas de árvore"
+          ],
+          "answer": 3,
+          "explanation": "Um programa construtivista, aberto, com descrições textuais em estruturas de árvore. Esse procedimento ou exemplo é discutido na página 93 do PDF de Bardin, no capítulo sobre informatização da análise das comunicações.",
+          "page": 93
         }
       ]
     },
