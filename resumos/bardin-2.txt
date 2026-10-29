@@ -1,0 +1,103 @@
+A Terceira Parte ("Método") da obra de Laurence Bardin trata das etapas operacionais,
+regras de constituição do corpus, técnicas de codificação e distinção entre as abordagens
+quantitativa e qualitativa na Análise de Conteúdo.
+
+
+
+
+1. Organização e Fases Cronológicas da Análise
+
+A análise de conteúdo organiza-se em torno de três polos cronológicos fundamentais:
+
+I. A Pré-Análise
+
+É a fase de organização propriamente dita, onde se busca sistematizar e operacionalizar as
+ideias iniciais para conduzir a um plano preciso de análise. É composta pelas seguintes
+etapas:
+
+   ●​ Leitura "flutuante": Primeiro contato direto com os documentos para se deixar
+      invadir por impressões e orientações iniciais (atitude análoga à do psicanalista).
+   ●​ Escolha dos documentos e constituição do corpus: O corpus é o conjunto de
+      documentos submetidos aos procedimentos analíticos. A sua formação deve
+      obedecer a quatro regras principais:
+          1.​ Exaustividade: Contemplar todos os elementos do campo definido, sem
+              deixar nenhum de fora por conveniência ou dificuldade de acesso não
+              justificável.
+          2.​ Representatividade: Garantir que a amostra selecionada seja uma parte
+              rigorosamente representativa do universo inicial.
+          3.​ Homogeneidade: Os documentos devem obedecer a critérios precisos de
+              escolha e não apresentar singularidades fora desses critérios.
+          4.​ Pertinência: As fontes de informação retidas devem ser adequadas e
+              corresponder aos objetivos da pesquisa.
+   ●​ Formulação das hipóteses e objetivos: Definição de afirmações provisórias a
+      serem testadas ou verificação de objetivos no quadro teórico/pragmático.
+   ●​ Referenciação dos índices e elaboração de indicadores: Escolha dos índices
+      presentes no texto e construção de indicadores precisos e testáveis (inclusive
+      mediante pré-testes).
+   ●​ Preparação do material: Preparação física (transcrição, cópias, numeração) e
+      formal ("edição" dos textos).
+
+II. A Exploração do Material
+
+Consiste na aplicação sistemática e mecânica das decisões tomadas na pré-análise.
+Trata-se de uma fase essencialmente focada em operações de codificação,
+decomposição ou enumeração dos dados.
+
+III. Tratamento dos Resultados, Inferência e Interpretação
+
+   ●​ Os dados brutos são submetidos a operações estatísticas simples ou complexas
+      para formar quadros, gráficos e modelos representativos.
+   ●​ A partir dos resultados validados e significativos, o analista propõe inferências e
+      avança interpretações vinculadas aos objetivos da pesquisa.
+
+
+
+
+2. A Codificação
+
+A codificação é a transformação sistemática dos dados brutos do texto — mediante recorte,
+agregação e enumeração — para alcançar uma representação exata das características
+pertinentes do conteúdo. Envolve três escolhas centrais:
+
+   1.​ Unidades de Registro (UR): Segmentos de conteúdo considerados como unidades
+       de base para categorização e contagem.
+           ○​ Principais URs: Palavra, Tema (unidade de significação ou núcleo de
+               sentido), Objeto ou Referente (temas-eixo), Personagem (atores/actantes),
+               Acontecimento (unidades de ação) e Documento.
+   2.​ Unidades de Contexto (UC): Segmentos da mensagem de dimensão superior à
+       unidade de registro, que servem de pano de fundo para a compreensão exata e
+       codificação correta da UR (por exemplo, a frase para a palavra, ou o parágrafo para
+       o tema).
+   3.​ Regras de Enumeração (Contagem): Formas de quantificar ou registrar os
+       elementos:
+           ○​ Presença ou Ausência: Registro da simples ocorrência ou falta de
+               determinado elemento.
+           ○​ Frequência Simples: Contagem direta do número de vezes que uma
+               unidade aparece.
+           ○​ Frequência Ponderada: Atribuição de pesos e coeficientes às ocorrências
+               de acordo com sua relevância.
+           ○​ Intensidade: Avaliação dos graus de força emotiva, gramatical ou semântica
+               da manifestação.
+           ○​ Direção: Classificação qualitativa do posicionamento (ex.: favorável,
+               desfavorável ou neutro).
+           ○​ Ordem: Consideração da sequência de aparecimento das URs no discurso.
+           ○​ Coocorrência (Análise de Contingência): Presença simultânea de duas ou
+               mais URs dentro de uma mesma unidade de contexto.
+
+
+
+
+3. Análise Quantitativa versus Análise Qualitativa
+
+   ●​ Abordagem Quantitativa: Baseia-se na frequência de aparição dos elementos,
+      oferecendo dados descritivos através de métodos estatísticos controlados, sendo
+      especialmente útil na fase de verificação de hipóteses e com mensagens
+      normalizadas.
+   ●​ Abordagem Qualitativa: Baseia-se na presença ou ausência de índices
+      específicos e na verificação do sentido no contexto, permitindo trabalhar com
+
+      corpora reduzidos ou mensagens singulares e fornecendo flexibilidade para a
+      emergência de novas hipóteses.
+   ●​ Eixo Definidor: O elemento definidor e central da Análise de Conteúdo — seja ela
+      quantitativa ou qualitativa — é a realização da inferência a partir dos índices
+      extraídos da mensagem.
