@@ -1,0 +1,189 @@
+Resumo Estruturado: Guarda, Gestão
+Documental e Contextos Específicos em
+Psicologia (CFP, 2025)
+
+1. Guarda, Armazenamento e Prazos de Preservação
+
+   ●​ Conceito e Responsabilidade: A guarda diz respeito ao armazenamento seguro de
+      prontuários, registros documentais e documentos psicológicos (declarações,
+      atestados, relatórios, laudos e pareceres), resguardando o sigilo e garantindo o
+      acesso do Sistema Conselhos para orientação e fiscalização. O registro possui
+      materialidade formal e constitui prova idônea em processos ético-disciplinares,
+      sendo a responsabilidade de sua guarda compartilhada entre a psicóloga e a
+      instituição.
+   ●​ Modos de Armazenamento:
+          ○​ Meio Físico: Exige salas privativas e armários trancados com chaves.
+          ○​ Meio Informatizado: Requer o uso de computadores privativos e senhas
+               pessoais e intransferíveis em máquinas, arquivos e plataformas virtuais.
+   ●​ Prazos Mínimos de Guarda:
+          ○​ Regra Geral (CFP): Prazo mínimo de 5 anos, contados a partir do último
+               registro.
+          ○​ Serviços de Saúde: Por determinação da Lei nº 13.787/2018, o prazo para
+               prontuários estende-se para 20 anos, garantindo-se o acesso ao titular ou
+               representante legal por igual período.
+          ○​ Crianças e Adolescentes: O parâmetro de 5 anos não é fixo. A
+               interpretação conjunta do Estatuto da Criança e do Adolescente (ECA - Lei nº
+               8.069/1990), do Código Civil (Art. 205 — prescrição civil de 10 anos) e do
+               Código Penal (Art. 109, I — prescrição de até 20 anos) exige a preservação
+               dos registros até a maioridade (18 anos completos), momento a partir do
+               qual passam a incidir os prazos legais gerais.
+
+
+
+
+2. Eliminação, Descarte e Trâmite de Testes Psicológicos
+
+   ●​ Descarte de Prontuários e Registros: Decorrido o prazo legal, autoriza-se a
+      eliminação do material. Arquivos digitais devem ser excluídos definitivamente, sem
+      possibilidade de cópias ou recuperação. Nos serviços de saúde, após 20 anos,
+      permite-se alternativamente a entrega direta do prontuário ao paciente.
+
+  ●​ Testes Psicológicos Vencidos ou Desfavoráveis: Devem seguir um de três
+     caminhos:
+        1.​ Manutenção sob guarda para fins de ensino e pesquisa, em local separado
+            dos testes aprovados pelo SATEPSI e em uso profissional;
+        2.​ Fragmentação física do material que inviabilize o acesso por terceiros;
+        3.​ Exclusão definitiva dos arquivos e mídias digitais.
+
+
+
+
+3. Procedimentos em Casos Especiais e Eventos Adversos
+
+  ●​ Desligamento Institucional: Havendo psicóloga substituta, esta assume a
+     responsabilidade pelo acervo, registrando a transferência no CRP. Ausente a
+     substituta, o material deve ser lacrado, identificado como sigiloso e entregue ao
+     Responsável Técnico da instituição mediante termo protocolado em duas vias.
+  ●​ Extinção do Serviço: A psicóloga deve comunicar formalmente o CRP, que definirá
+     a destinação dos arquivos confidenciais (Art. 15 do Código de Ética).
+  ●​ Morte ou Incapacidade de Profissional Autônomo: A família deve contatar o CRP
+     para o repasse e a garantia de acesso seguro dos materiais aos usuários.
+  ●​ Perda, Violação ou Avaria: Em casos de furto, roubo ou Danos por intempéries,
+     deve-se: 1) Registrar Boletim de Ocorrência (B.O.); 2) Comunicar formalmente os
+     usuários/beneficiários; e 3) Buscar a reconstrução dos documentos com base na
+     memória profissional.
+
+
+
+
+4. Atuação e Produção Documental em Serviços-Escola e Estágios
+
+  ●​ Responsabilidade Ética e Supervisão: A prática discente exige vinculação
+     obrigatória a um supervisor docente ou preceptor psicológico. Cabe ao
+     orientador/supervisor a responsabilidade pelo sigilo profissional, pela orientação da
+     escrita e pela guarda dos documentos (Resolução CFP nº 05/2025).
+  ●​ Validação e Titularidade: Prontuários físicos exigem o nome e a assinatura da
+     psicóloga responsável; registros eletrônicos demandam assinatura digital conjunta
+     (discente e profissional). A responsabilidade técnica da instituição é exercida pelo
+     coordenador do serviço-escola, obrigatoriamente psicólogo docente do quadro
+     permanente (Resolução CNE/CES nº 1/2023).
+  ●​ Documentação Obrigatória de Estágio: Além do relatório de estágio, são
+     obrigatórios o Termo de Compromisso de Estágio (sob responsabilidade do
+     orientador) e a Apólice de Seguro de Estágio, que devem ser arquivados
+     juntamente com os relatórios.
+  ●​ Documentos Complementares do Serviço-Escola: Termo de Ciência do
+     Usuário/Beneficiário, Formulário de Encaminhamento, Termo de Autorização para
+     Atendimento a Menores, Requerimento de Documentos e Termo de Entrega de
+     Documentos.
+
+5. Elaboração Documental no Contexto Escolar
+
+Com base na Lei nº 13.935/2019 e na Política Nacional de Atenção Psicossocial nas
+Comunidades Escolares (Lei nº 14.819/2024), a atuação na educação básica utiliza cinco
+instrumentos fundamentais:
+
+   1.​ Protocolo de cadastro e acolhimento: Registra motivações da indicação, dados
+       sociodemográficos e ações iniciais.
+   2.​ Registro documental de acompanhamento: Documenta instrumentos, escalas e
+       produções coletivas aplicadas no processo.
+   3.​ Relatório escolar: Elaborado sob solicitação de responsáveis, profissionais de
+       saúde ou rede de proteção.
+   4.​ Relatório de acompanhamento e perfil do estudante: Mapeamento sistemático do
+       desenvolvimento, articulando observações técnicas, contribuições dos docentes e a
+       livre expressão do estudante.
+   5.​ Mapeamento psicossocial e educacional: Organiza dados demográficos,
+       familiares, escolares e subjetivos, sendo atualizado anualmente.
+
+
+
+
+6. Parâmetros e Limites de Atuação no Sistema de Justiça
+
+   ●​ Autonomia do Saber Psicológico: O foco da atuação é a garantia de direitos do
+      sujeito, não devendo a prática psicológica subordinar-se ao discurso ou aos
+      interesses estritamente jurídicos.
+   ●​ Limites do Relatório Clínico: Trata-se de um direito da pessoa atendida, mas não
+      possui finalidade pericial e não visa elucidar fatos controversos. A psicóloga deve
+      restringir-se à pessoa acolhida, sendo vedado emitir conclusões, julgamentos ou
+      diagnósticos sobre terceiros que não foram ouvidos na terapia (como supostos
+      autores de violência).
+   ●​ Depoimento em Juízo: Diante de intimação judicial (Art. 11 do Código de Ética), a
+      profissional não deve se recusar a depor, devendo buscar orientação técnica e
+      jurídica prévia para resguardar os limites do sigilo.
+   ●​ Documentos Aplicáveis: Relatório Psicológico, Relatório Multiprofissional, Laudo e
+      Parecer.
+
+
+
+
+7. Prontuário no Âmbito da Assistência Social (SUAS)
+
+   ●​ Prontuário SUAS: Instrumento técnico padronizado nos CRAS e CREAS. Seu
+      preenchimento e manuseio são restritos aos profissionais de nível superior da
+      equipe técnica de referência devidamente registrados nos conselhos de classe.
+   ●​ Direito de Acesso e Sigilo da Fonte: As famílias atendidas têm o direito
+      constitucional de conhecer o conteúdo registrado no Prontuário SUAS (Art. 5º, XIV
+      da CF/88), ficando garantido o sigilo em relação às fontes das informações.
+
+8. Proteção de Públicos Especiais, Notificação Compulsória e Quebra
+Ética de Sigilo
+
+  ●​ Critério da Busca do Menor Prejuízo: Nos termos do Art. 10 do Código de Ética, a
+     quebra de sigilo é uma decisão ética respaldada na mitigação de danos e na
+     proteção da pessoa atendida, exigindo fundamentação técnica rigorosa.
+  ●​ Crianças, Adolescentes e Interditados: Deve-se conciliar o direito ao sigilo do
+     paciente com o direito de informação dos seus responsáveis legais.
+  ●​ Quadro de Fluxos de Notificação Compulsória e Denúncia:
+
+
+  Situação de       Legislação       Documento Exigido              Destinatário
+Violação / Risco   de Regência                                      Obrigatório
+
+
+
+Automutilação      Lei nº        Ficha de Notificação           Setor de Vigilância
+e Suicídio         13.819/2019   Individual de Violência        Sanitária da
+                                 Interpessoal/Autoprovocada     Secretaria Municipal
+                                                                de Saúde
+
+
+
+Violência contra Lei nº          Comunicação externa de         Conselho Tutelar
+Criança e        8.069/1990      denúncia mediante ofício       e/ou Delegacias
+Adolescente      (ECA)           formal                         Especializadas
+
+
+
+Violência contra Lei nº          Notificação compulsória        Autoridade policial
+a Mulher         13.931/2019                                    em até 24 horas
+
+
+
+Violência contra Lei nº          Comunicação oficial            Autoridade policial,
+a Pessoa Idosa 10.741/2003                                      Ministério Público e
+                 (Estatuto do                                   Conselhos da
+                 Idoso)                                         Pessoa Idosa
+                                                                (Municipal, Estadual,
+                                                                Nacional)
+
+
+
+Violência contra Lei nº          Comunicação oficial            Autoridade policial,
+Pessoa com       13.146/2015                                    Ministério Público e
+Deficiência                                                     Conselhos de
+                                                                Direitos da Pessoa
+                                                                com Deficiência
+
+💡 Sugestão de Próximo Passo: Se desejar, posso transformar este resumo estruturado
+em um conjunto de flashcards de estudo para fixar os prazos de guarda, as regras de
+descarte e os destinatários das notificações compulsórias. Como prefere prosseguir?
